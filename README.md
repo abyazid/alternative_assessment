@@ -16,3 +16,4 @@ In this repository contains the following
 * Dummy dataset
 * Case study report
 * SAS Enterprise Miner Diagram in XML format
+* Case study report
