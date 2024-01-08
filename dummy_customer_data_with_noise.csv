@@ -1,0 +1,2001 @@
+CustomerID,Age,Gender,Location,MembershipLevel,TotalPurchases,TotalSpent,FavoriteCategory,LastPurchaseDate,Occupation,WebsiteVisits,Churn
+100,63.0,Male,Philadelphia,Gold,64.0,9197.3,Clothing,2023-06-07 09:39:46.585300,Manager,64,0
+101,65.0,Female,New York,Silver,110.0,9983.34,Home Goods,2023-12-21 09:39:46.585300,,66,1
+102,18.0,,,Bronze,148.0,3746.29,Electronics,2023-07-10 09:39:46.585300,Artist,51,0
+103,,Other,Los Angeles,Bronze,178.0,7439.9,Electronics,2023-09-30 09:39:46.585300,Engineer,84,1
+104,21.0,Male,Phoenix,Bronze,25.0,3398.2,Home Goods,2023-06-22 09:39:46.585300,Manager,88,1
+105,57.0,Female,Los Angeles,Bronze,,8381.99,Clothing,2023-09-08 09:39:46.585300,Artist,38,1
+106,27.0,Other,Phoenix,Silver,151.0,6191.93,Electronics,2023-11-29 09:39:46.585300,Teacher,80,1
+107,38.0,Other,,Platinum,105.0,,Electronics,2023-05-04 09:39:46.585300,Teacher,82,1
+108,41.0,Female,Los Angeles,Bronze,20.0,6177.31,Clothing,2023-02-25 09:39:46.585300,Teacher,25,1
+109,68.0,Male,Phoenix,Gold,72.0,5698.0,Home Goods,2023-11-26 09:39:46.585300,Artist,37,0
+110,54.0,Male,New York,Bronze,60.0,7086.91,Clothing,2023-12-17 09:39:46.585300,Engineer,30,1
+111,40.0,Male,Philadelphia,,138.0,963.54,Clothing,2023-10-01 09:39:46.585300,Teacher,36,1
+112,24.0,Male,Houston,Gold,29.0,,Clothing,2023-10-18 09:39:46.585300,Doctor,71,1
+113,41.0,Male,Los Angeles,,8.0,,Electronics,2023-07-06 09:39:46.585300,Teacher,69,0
+114,41.0,Male,Philadelphia,Gold,,2672.55,Clothing,2023-12-22 09:39:46.585300,Doctor,3,1
+115,32.0,Male,Chicago,Silver,117.0,5094.16,Electronics,2023-04-11 09:39:46.585300,,76,1
+116,18.0,Other,Houston,Platinum,68.0,6869.05,Clothing,2023-10-02 09:39:46.585300,Engineer,25,0
+117,55.0,Male,Philadelphia,Gold,5.0,3974.7,Home Goods,2023-11-10 09:39:46.585300,Teacher,85,0
+118,57.0,Male,,,80.0,8653.55,Electronics,2023-03-10 09:39:46.585300,Manager,49,0
+119,42.0,Male,Phoenix,Bronze,73.0,1527.75,Electronics,2023-10-28 09:39:46.585300,Doctor,57,0
+120,,Female,Los Angeles,Bronze,18.0,9718.77,Home Goods,2023-10-21 09:39:46.585300,,2,1
+121,45.0,Male,Phoenix,Platinum,105.0,8387.27,Home Goods,2023-09-21 09:39:46.585300,Engineer,75,0
+122,35.0,Other,Houston,Silver,197.0,,Electronics,2023-11-18 09:39:46.585300,Teacher,93,1
+123,55.0,Male,New York,Platinum,14.0,199.22,Electronics,2023-07-07 09:39:46.585300,Manager,55,1
+124,43.0,Other,Los Angeles,Silver,84.0,2052.79,Home Goods,2023-05-02 09:39:46.585300,Engineer,65,0
+125,32.0,Female,Los Angeles,Bronze,47.0,8661.65,Clothing,2023-04-10 09:39:46.585300,Artist,52,0
+126,27.0,Female,Philadelphia,Bronze,115.0,8674.67,Home Goods,2023-06-23 09:39:46.585300,Doctor,91,1
+127,27.0,Other,Philadelphia,Gold,131.0,7923.79,Home Goods,2024-01-04 09:39:46.585300,Artist,54,0
+128,,Other,Los Angeles,Bronze,94.0,5372.55,Electronics,2023-08-22 09:39:46.585300,Doctor,76,1
+129,69.0,Female,,Bronze,122.0,,Home Goods,2023-10-27 09:39:46.585300,Doctor,95,0
+130,35.0,Other,New York,Platinum,22.0,5217.74,Home Goods,2023-04-10 09:39:46.585300,Artist,79,0
+131,69.0,Male,,Platinum,16.0,6147.5,Clothing,2023-02-01 09:39:46.585300,Engineer,30,0
+132,24.0,Female,Chicago,Bronze,,8237.94,Clothing,2023-05-04 09:39:46.585300,Artist,23,0
+133,33.0,,Houston,,101.0,7441.45,Home Goods,2023-11-11 09:39:46.585300,Engineer,60,0
+134,66.0,Other,New York,Gold,81.0,3864.92,Clothing,2023-12-21 09:39:46.585300,Doctor,99,0
+135,,Male,Phoenix,Silver,77.0,1755.7,Home Goods,2023-04-07 09:39:46.585300,Engineer,5,1
+136,38.0,,Phoenix,,130.0,,Electronics,2023-10-28 09:39:46.585300,Teacher,88,0
+137,52.0,Female,Philadelphia,,57.0,1241.53,Clothing,2023-05-02 09:39:46.585300,Artist,41,0
+138,42.0,Other,Chicago,Silver,144.0,3403.73,Home Goods,2023-09-20 09:39:46.585300,Teacher,80,0
+139,,Male,Phoenix,Bronze,195.0,8441.73,Clothing,2023-04-28 09:39:46.585300,,78,1
+140,69.0,,New York,Bronze,120.0,1044.83,Home Goods,2023-04-27 09:39:46.585300,Doctor,3,1
+141,48.0,Other,Chicago,,177.0,3324.27,Home Goods,2023-11-27 09:39:46.585300,,38,1
+142,37.0,Other,,,113.0,8759.54,Clothing,2023-07-17 09:39:46.585300,Engineer,69,0
+143,37.0,,,Bronze,24.0,5691.48,Electronics,2023-10-20 09:39:46.585300,Doctor,93,1
+144,,Male,Phoenix,Silver,124.0,640.78,Home Goods,2023-07-28 09:39:46.585300,,82,1
+145,59.0,Female,Philadelphia,Silver,10.0,,Clothing,2023-11-23 09:39:46.585300,Engineer,91,1
+146,51.0,Female,Los Angeles,Gold,24.0,4027.81,Electronics,2023-10-09 09:39:46.585300,Teacher,62,0
+147,20.0,Other,Houston,Gold,182.0,6929.18,Electronics,2023-05-15 09:39:46.585300,Teacher,3,0
+148,26.0,Male,Los Angeles,Platinum,141.0,8413.82,Clothing,2023-07-17 09:39:46.585300,Engineer,92,1
+149,51.0,,,Bronze,45.0,7218.94,Electronics,2023-10-28 09:39:46.585300,Engineer,15,1
+150,49.0,Other,Houston,Silver,151.0,2976.6,Electronics,2023-11-12 09:39:46.585300,Engineer,3,0
+151,29.0,Female,Phoenix,Platinum,184.0,1850.37,Electronics,2023-04-20 09:39:46.585300,Doctor,77,0
+152,43.0,Male,Phoenix,Silver,88.0,7215.71,,2023-05-09 09:39:46.585300,Manager,23,0
+153,53.0,Other,Phoenix,Platinum,,8634.54,Clothing,2023-12-09 09:39:46.585300,Engineer,39,1
+154,29.0,Female,New York,,82.0,1700.38,Electronics,2023-09-08 09:39:46.585300,Engineer,37,0
+155,67.0,Male,Philadelphia,Bronze,23.0,9404.41,Electronics,2023-09-06 09:39:46.585300,Doctor,0,0
+156,46.0,Other,Phoenix,,75.0,6298.26,Electronics,2023-04-29 09:39:46.585300,,97,0
+157,52.0,Male,Houston,,126.0,2113.95,Clothing,2023-04-07 09:39:46.585300,Manager,35,0
+158,18.0,Female,Houston,Gold,102.0,1998.62,Electronics,2023-03-20 09:39:46.585300,Artist,64,1
+159,18.0,Female,,Bronze,109.0,6260.94,Home Goods,2023-01-29 09:39:46.585300,Engineer,46,0
+160,54.0,,,Silver,11.0,,Home Goods,2023-08-21 09:39:46.585300,Engineer,1,1
+161,24.0,Female,New York,Gold,,8012.96,Clothing,2023-11-13 09:39:46.585300,Doctor,46,0
+162,55.0,,Phoenix,Gold,-2.0,,Electronics,2023-12-08 09:39:46.585300,,52,1
+163,58.0,Female,Philadelphia,Platinum,62.0,3422.96,Home Goods,2023-03-19 09:39:46.585300,Teacher,60,1
+164,35.0,Male,Houston,Silver,17.0,4388.3,Electronics,2023-03-13 09:39:46.585300,,32,0
+165,34.0,Other,Los Angeles,Gold,61.0,2418.7,Home Goods,2023-10-18 09:39:46.585300,Doctor,39,0
+166,23.0,Other,Phoenix,Platinum,112.0,241.92,Clothing,2023-11-17 09:39:46.585300,Artist,77,1
+167,59.0,Female,New York,Platinum,103.0,8067.08,Clothing,2023-11-25 09:39:46.585300,,1,0
+168,60.0,Female,Houston,Gold,89.0,4031.27,Electronics,2023-11-06 09:39:46.585300,Artist,3,1
+169,,Male,Phoenix,Silver,160.0,6473.97,,2023-06-11 09:39:46.585300,Artist,16,1
+170,18.0,Other,Philadelphia,Gold,106.0,2836.54,Electronics,2023-08-23 09:39:46.585300,Teacher,53,1
+171,19.0,Male,Chicago,Platinum,92.0,7486.28,Electronics,2023-09-12 09:39:46.585300,Artist,91,0
+172,57.0,Other,Los Angeles,,106.0,698.78,Electronics,2023-05-14 09:39:46.585300,Doctor,46,0
+173,59.0,Other,Houston,Silver,138.0,7103.72,Electronics,2023-01-14 09:39:46.585300,Teacher,3,1
+174,53.0,Male,Chicago,Bronze,93.0,8056.75,Home Goods,2023-04-29 09:39:46.585300,Doctor,20,1
+175,56.0,Male,Houston,Platinum,54.0,138.08,,2023-04-26 09:39:46.585300,Artist,88,1
+176,28.0,Female,Philadelphia,,21.0,2073.61,Electronics,2023-08-23 09:39:46.585300,Doctor,30,0
+177,64.0,Other,Los Angeles,Gold,90.0,9229.88,Electronics,2023-11-13 09:39:46.585300,Doctor,97,0
+178,37.0,Female,Chicago,Gold,34.0,141.59,Home Goods,2023-09-17 09:39:46.585300,Artist,49,0
+179,46.0,Other,Chicago,Silver,7.0,1115.59,Home Goods,2023-04-12 09:39:46.585300,Manager,19,0
+180,18.0,Female,Los Angeles,,173.0,466.13,Home Goods,2023-01-11 09:39:46.585300,Manager,6,0
+181,32.0,Female,,Silver,,9353.57,Home Goods,2023-10-13 09:39:46.585300,Teacher,99,1
+182,53.0,Other,Los Angeles,Silver,99.0,3050.08,Electronics,2023-08-15 09:39:46.585300,Manager,45,0
+183,30.0,Female,Philadelphia,,37.0,1912.51,Electronics,2023-11-16 09:39:46.585300,Artist,66,1
+184,61.0,Male,Los Angeles,Silver,106.0,5384.78,Clothing,2023-03-14 09:39:46.585300,Teacher,61,0
+185,36.0,Male,,Gold,107.0,8458.3,Home Goods,2023-09-24 09:39:46.585300,Doctor,71,1
+186,29.0,Female,Philadelphia,Silver,190.0,9592.96,Home Goods,2023-11-27 09:39:46.585300,,33,1
+187,22.0,,Houston,Bronze,117.0,1770.61,Home Goods,2023-01-20 09:39:46.585300,Artist,16,1
+188,23.0,Other,New York,Platinum,106.0,773.7,Electronics,2023-02-02 09:39:46.585300,Doctor,40,0
+189,24.0,Other,Chicago,Silver,194.0,7446.51,Clothing,2023-08-31 09:39:46.585300,Teacher,28,0
+190,65.0,Female,Chicago,Bronze,39.0,1506.09,Electronics,2023-05-16 09:39:46.585300,Teacher,64,0
+191,23.0,Male,Philadelphia,Gold,173.0,,Home Goods,2023-01-29 09:39:46.585300,Teacher,92,1
+192,29.0,,Phoenix,Silver,,4903.67,Home Goods,2023-03-02 09:39:46.585300,Manager,77,1
+193,53.0,Male,Chicago,Silver,94.0,2594.25,Clothing,2023-09-14 09:39:46.585300,Artist,37,1
+194,58.0,Female,New York,Bronze,58.0,5762.78,Home Goods,2023-02-22 09:39:46.585300,Manager,24,0
+195,30.0,Female,New York,Silver,70.0,3760.04,Clothing,2023-03-20 09:39:46.585300,Doctor,44,0
+196,33.0,Other,Los Angeles,Bronze,173.0,7720.65,Electronics,2023-01-12 09:39:46.585300,Engineer,14,0
+197,38.0,Male,Chicago,Bronze,89.0,1556.56,Home Goods,2023-07-22 09:39:46.585300,Teacher,29,1
+198,54.0,,New York,Platinum,119.0,512.88,Home Goods,2023-09-17 09:39:46.585300,Manager,73,1
+199,42.0,Male,Los Angeles,Silver,110.0,6424.35,Electronics,2023-05-27 09:39:46.585300,Artist,19,0
+200,33.0,Female,Philadelphia,Silver,42.0,4988.93,Clothing,2023-08-20 09:39:46.585300,Artist,93,1
+201,30.0,Male,New York,Platinum,119.0,5228.22,Clothing,2023-05-17 09:39:46.585300,Artist,32,0
+202,41.0,Female,Chicago,Bronze,6.0,3239.22,Home Goods,2023-12-22 09:39:46.585300,Doctor,74,0
+203,65.0,Male,Chicago,Silver,67.0,8021.7,Electronics,2023-11-06 09:39:46.585300,Teacher,69,1
+204,66.0,Other,Los Angeles,Bronze,123.0,,Electronics,2023-12-18 09:39:46.585300,Teacher,58,1
+205,22.0,,Chicago,Gold,167.0,8632.8,Clothing,2023-06-18 09:39:46.585300,Manager,79,0
+206,60.0,Female,Los Angeles,Platinum,135.0,2111.56,Clothing,2023-06-05 09:39:46.585300,Doctor,58,0
+207,52.0,Male,Chicago,,20.0,,Clothing,2023-01-24 09:39:46.585300,Engineer,54,0
+208,17.0,Female,Phoenix,Bronze,87.0,,Clothing,2023-09-12 09:39:46.585300,Doctor,75,1
+209,49.0,Other,Los Angeles,Gold,153.0,5449.1,,2023-08-23 09:39:46.585300,Artist,65,1
+210,23.0,Other,Phoenix,Bronze,32.0,9320.99,Home Goods,2023-04-24 09:39:46.585300,Artist,11,0
+211,47.0,Female,Philadelphia,Gold,,,Electronics,2023-06-13 09:39:46.585300,,57,0
+212,19.0,Male,,Bronze,121.0,1716.94,Electronics,2023-08-19 09:39:46.585300,Teacher,7,1
+213,68.0,Female,,Gold,72.0,3792.55,Electronics,2023-04-04 09:39:46.585300,Manager,10,1
+214,69.0,Male,,Bronze,28.0,2674.33,Electronics,2023-03-31 09:39:46.585300,Manager,77,1
+215,55.0,Male,Chicago,Gold,77.0,5742.67,Home Goods,2023-09-20 09:39:46.585300,Doctor,52,0
+216,52.0,Other,Philadelphia,Silver,157.0,8421.01,Clothing,2023-10-11 09:39:46.585300,Manager,25,1
+217,64.0,Female,Philadelphia,Gold,172.0,3627.94,,2023-06-12 09:39:46.585300,,15,1
+218,49.0,Male,Houston,Platinum,156.0,5216.73,Electronics,2023-10-23 09:39:46.585300,Manager,15,0
+219,21.0,Male,,Platinum,192.0,587.68,,2023-07-08 09:39:46.585300,Artist,57,1
+220,53.0,Male,Los Angeles,Gold,61.0,338.53,Home Goods,2023-09-17 09:39:46.585300,Manager,78,1
+221,61.0,Female,New York,Gold,198.0,3738.85,Electronics,2023-06-02 09:39:46.585300,Doctor,61,0
+222,32.0,Female,Los Angeles,Platinum,169.0,7552.23,Electronics,2023-09-20 09:39:46.585300,Engineer,59,1
+223,66.0,Male,Philadelphia,,198.0,2224.51,Clothing,2023-02-14 09:39:46.585300,,46,0
+224,57.0,Male,,Bronze,,3756.73,Clothing,2023-12-11 09:39:46.585300,Doctor,22,0
+225,38.0,Male,Chicago,Platinum,,1545.22,Home Goods,2023-12-06 09:39:46.585300,Teacher,6,1
+226,27.0,Other,Chicago,Silver,50.0,824.44,Home Goods,2023-07-05 09:39:46.585300,Artist,81,1
+227,17.0,Other,Chicago,Silver,183.0,6433.65,Electronics,2023-07-21 09:39:46.585300,Manager,27,0
+228,27.0,Male,New York,Platinum,15.0,,Electronics,2023-09-21 09:39:46.585300,,58,1
+229,67.0,Male,,Bronze,140.0,998.83,,2023-06-23 09:39:46.585300,Doctor,63,0
+230,61.0,Other,Los Angeles,Gold,45.0,9396.89,Electronics,2023-06-28 09:39:46.585300,Teacher,39,1
+231,,,Philadelphia,Bronze,25.0,1905.05,Clothing,2023-01-14 09:39:46.585300,Teacher,27,1
+232,23.0,Female,Los Angeles,Gold,81.0,5138.2,Electronics,2023-06-14 09:39:46.585300,Engineer,49,0
+233,52.0,Female,,Platinum,86.0,4655.35,Home Goods,2023-02-04 09:39:46.585300,,16,0
+234,52.0,Other,New York,Silver,97.0,1503.85,Electronics,2023-07-08 09:39:46.585300,Teacher,14,1
+235,49.0,Male,Phoenix,Platinum,5.0,7271.46,Clothing,2023-11-07 09:39:46.585300,Doctor,83,1
+236,21.0,,Los Angeles,Silver,79.0,6702.69,,2023-09-28 09:39:46.585300,Teacher,23,1
+237,35.0,Male,Philadelphia,Bronze,29.0,9574.77,Home Goods,2023-08-13 09:39:46.585300,Teacher,35,0
+238,64.0,Other,,Bronze,111.0,1203.57,Electronics,2023-05-20 09:39:46.585300,,29,1
+239,52.0,Male,Los Angeles,Platinum,184.0,6302.43,Electronics,2023-09-25 09:39:46.585300,,45,0
+240,38.0,Male,Philadelphia,,38.0,8931.22,Clothing,2023-09-09 09:39:46.585300,Artist,25,0
+241,35.0,Male,Phoenix,Bronze,126.0,8261.36,,2023-02-11 09:39:46.585300,Teacher,49,0
+242,68.0,Female,Phoenix,Platinum,120.0,8866.78,Clothing,2023-05-02 09:39:46.585300,Doctor,45,1
+243,45.0,Female,Los Angeles,Gold,182.0,,Clothing,2023-02-28 09:39:46.585300,Artist,30,0
+244,32.0,Other,New York,Bronze,81.0,777.34,Home Goods,2023-12-30 09:39:46.585300,Doctor,8,0
+245,59.0,Male,Los Angeles,Gold,62.0,8156.97,,2023-03-28 09:39:46.585300,Doctor,4,0
+246,19.0,Male,New York,Bronze,98.0,8642.85,Electronics,2023-08-27 09:39:46.585300,Doctor,71,0
+247,54.0,Other,Chicago,Gold,170.0,9995.29,Clothing,2023-01-19 09:39:46.585300,Teacher,11,0
+248,27.0,Female,Philadelphia,Platinum,126.0,9799.34,Electronics,2023-09-25 09:39:46.585300,Artist,95,1
+249,39.0,Female,,Gold,17.0,1205.27,Clothing,2023-09-22 09:39:46.585300,Teacher,46,1
+250,61.0,,Chicago,Bronze,101.0,4347.92,Electronics,2023-02-26 09:39:46.585300,Manager,48,1
+251,,,Chicago,Bronze,156.0,3776.43,Home Goods,2023-12-13 09:39:46.585300,Teacher,62,1
+252,29.0,Female,Philadelphia,Platinum,91.0,2882.88,Home Goods,2023-07-10 09:39:46.585300,Teacher,38,0
+253,21.0,Other,,Platinum,131.0,8223.85,Electronics,2023-09-18 09:39:46.585300,Engineer,28,1
+254,,Female,Houston,Silver,,6355.1,Electronics,2023-10-04 09:39:46.585300,Manager,24,0
+255,33.0,Male,Houston,Bronze,194.0,9867.39,,2023-03-29 09:39:46.585300,Manager,57,0
+256,49.0,Male,Los Angeles,Platinum,7.0,7076.23,,2023-04-07 09:39:46.585300,Manager,92,1
+257,,Male,Phoenix,Bronze,,6547.32,Electronics,2023-05-03 09:39:46.585300,Artist,62,1
+258,56.0,,Houston,Gold,,8928.56,Home Goods,2023-09-24 09:39:46.585300,Doctor,1,1
+259,37.0,Female,Houston,Platinum,2.0,1610.36,Home Goods,2023-06-30 09:39:46.585300,Engineer,33,1
+260,65.0,Female,Phoenix,Gold,39.0,8156.88,Electronics,2023-01-15 09:39:46.585300,Doctor,80,1
+261,59.0,Other,Houston,Bronze,120.0,2160.85,Home Goods,2023-07-26 09:39:46.585300,Teacher,25,1
+262,69.0,,Phoenix,Gold,18.0,2260.84,Home Goods,2023-01-26 09:39:46.585300,Doctor,76,0
+263,57.0,Female,,Platinum,,4427.84,Home Goods,2023-01-22 09:39:46.585300,Doctor,59,0
+264,30.0,Female,Chicago,,12.0,4097.55,Clothing,2023-06-03 09:39:46.585300,Doctor,76,0
+265,47.0,Male,Philadelphia,Silver,181.0,6828.72,Home Goods,2023-05-05 09:39:46.585300,Engineer,21,0
+266,43.0,Female,Phoenix,Gold,26.0,,,2023-01-25 09:39:46.585300,Manager,11,1
+267,20.0,Female,Chicago,Platinum,67.0,8313.66,Home Goods,2023-12-18 09:39:46.585300,Engineer,4,1
+268,20.0,Male,Los Angeles,Gold,,2265.32,Clothing,2023-06-08 09:39:46.585300,Artist,36,0
+269,48.0,Other,Phoenix,Platinum,100.0,3195.29,Clothing,2023-09-16 09:39:46.585300,,99,1
+270,50.0,Other,Phoenix,Silver,,8165.44,Electronics,2023-02-26 09:39:46.585300,Manager,71,0
+271,60.0,Other,New York,Silver,127.0,7671.33,Clothing,2023-01-16 09:39:46.585300,Manager,49,1
+272,33.0,Other,Houston,Silver,190.0,4464.23,Electronics,2023-02-03 09:39:46.585300,Doctor,6,1
+273,66.0,Other,,Bronze,14.0,5071.19,Electronics,2023-04-07 09:39:46.585300,,21,1
+274,59.0,Female,New York,Gold,,2357.43,Home Goods,2023-08-02 09:39:46.585300,Doctor,20,1
+275,,Female,Philadelphia,Platinum,,1675.41,Clothing,2023-10-25 09:39:46.585300,Teacher,65,1
+276,37.0,Female,New York,Silver,117.0,4014.55,Home Goods,2023-07-31 09:39:46.585300,Artist,50,1
+277,50.0,Other,New York,Platinum,165.0,8046.11,Clothing,2023-09-30 09:39:46.585300,Engineer,31,0
+278,25.0,Female,Philadelphia,Bronze,,3764.34,Clothing,2023-01-18 09:39:46.585300,Manager,36,0
+279,44.0,Other,,,25.0,6835.43,Electronics,2023-04-16 09:39:46.585300,Artist,42,1
+280,22.0,Female,New York,Platinum,166.0,4386.21,Home Goods,2023-01-21 09:39:46.585300,Engineer,45,1
+281,20.0,Female,Phoenix,Silver,171.0,3060.96,Electronics,2023-09-06 09:39:46.585300,Teacher,10,1
+282,61.0,,,Platinum,19.0,4598.15,Home Goods,2023-03-13 09:39:46.585300,Artist,95,0
+283,32.0,Female,Houston,Platinum,43.0,7882.65,Electronics,2023-07-22 09:39:46.585300,Teacher,86,1
+284,50.0,Other,Philadelphia,Silver,182.0,,Electronics,2023-06-11 09:39:46.585300,Manager,38,0
+285,23.0,Male,Chicago,Silver,20.0,8126.32,,2023-11-12 09:39:46.585300,,96,0
+286,22.0,Male,Philadelphia,Bronze,10.0,6050.15,,2023-11-12 09:39:46.585300,,49,1
+287,63.0,Female,New York,Bronze,157.0,8807.52,Clothing,2023-04-17 09:39:46.585300,Doctor,68,0
+288,,Other,New York,Platinum,135.0,1062.46,Home Goods,2023-08-06 09:39:46.585300,Manager,40,0
+289,41.0,Male,Chicago,Silver,90.0,4926.61,Home Goods,2023-10-03 09:39:46.585300,Manager,47,1
+290,,Female,Philadelphia,Silver,57.0,9486.82,Electronics,2023-07-01 09:39:46.585300,Doctor,93,1
+291,62.0,Female,Chicago,Silver,86.0,2242.58,,2023-06-04 09:39:46.585300,Engineer,54,0
+292,,Male,Philadelphia,Gold,4.0,5112.75,Home Goods,2023-12-25 09:39:46.585300,Teacher,50,1
+293,36.0,Other,Phoenix,Silver,19.0,996.21,Clothing,2023-02-16 09:39:46.585300,Doctor,77,1
+294,,Female,Phoenix,Silver,84.0,8129.15,,2023-12-27 09:39:46.585300,Doctor,88,1
+295,47.0,Female,Los Angeles,Platinum,44.0,8210.75,Electronics,2023-06-21 09:39:46.585300,Manager,65,1
+296,40.0,Female,Phoenix,Platinum,136.0,1499.27,Clothing,2023-08-23 09:39:46.585300,,48,0
+297,64.0,Other,Phoenix,Gold,95.0,6266.86,,2023-04-27 09:39:46.585300,Teacher,9,0
+298,44.0,Other,Philadelphia,Platinum,134.0,2891.76,Electronics,2023-02-12 09:39:46.585300,Engineer,47,0
+299,35.0,Female,Chicago,Gold,114.0,5094.96,Electronics,2023-05-31 09:39:46.585300,Teacher,8,0
+300,36.0,Female,Chicago,Silver,105.0,6010.95,Clothing,2023-04-17 09:39:46.585300,Artist,21,1
+301,,Other,Houston,Gold,,3108.73,Home Goods,2023-11-14 09:39:46.585300,Manager,30,0
+302,59.0,Female,Chicago,Gold,108.0,4238.5,Clothing,2023-12-18 09:39:46.585300,Manager,28,0
+303,50.0,Female,Chicago,Gold,103.0,7713.6,Clothing,2023-04-30 09:39:46.585300,Doctor,72,0
+304,55.0,Other,Phoenix,Platinum,,4860.82,Electronics,2023-09-21 09:39:46.585300,Artist,37,1
+305,24.0,Male,Philadelphia,Bronze,145.0,2011.76,Electronics,2023-10-12 09:39:46.585300,Teacher,62,0
+306,39.0,Male,Phoenix,,14.0,3372.52,Electronics,2023-12-16 09:39:46.585300,Teacher,21,1
+307,47.0,Female,Chicago,,6.0,2825.11,,2023-07-30 09:39:46.585300,Engineer,68,1
+308,,Other,,Bronze,135.0,,Electronics,2023-12-01 09:39:46.585300,Manager,69,1
+309,25.0,Female,,Bronze,140.0,7875.47,Clothing,2023-11-16 09:39:46.585300,Artist,84,1
+310,43.0,Female,,Bronze,188.0,4185.67,Electronics,2023-06-12 09:39:46.585300,Doctor,99,0
+311,34.0,Female,Chicago,Platinum,,,,2023-05-29 09:39:46.585300,Manager,6,1
+312,59.0,Male,Los Angeles,Bronze,,8302.31,Electronics,2023-02-23 09:39:46.585300,Doctor,86,1
+313,36.0,Male,Houston,Gold,103.0,4007.01,Home Goods,2023-08-15 09:39:46.585300,Manager,12,0
+314,58.0,Female,New York,Gold,160.0,3604.0,Home Goods,2023-05-04 09:39:46.585300,,95,1
+315,33.0,Other,Philadelphia,Platinum,53.0,5894.89,Home Goods,2023-01-20 09:39:46.585300,Manager,93,1
+316,30.0,Male,Phoenix,Platinum,68.0,4883.9,Home Goods,2023-11-22 09:39:46.585300,Teacher,78,1
+317,56.0,Other,Chicago,Gold,178.0,1241.7,Clothing,2023-11-29 09:39:46.585300,Manager,90,0
+318,64.0,Other,Los Angeles,Gold,43.0,,Clothing,2023-09-30 09:39:46.585300,,51,1
+319,46.0,Other,Phoenix,Gold,62.0,9809.85,Home Goods,2023-05-15 09:39:46.585300,Artist,88,1
+320,21.0,Female,Chicago,Gold,53.0,467.99,Electronics,2023-11-15 09:39:46.585300,Teacher,93,1
+321,48.0,Male,New York,Bronze,198.0,,Clothing,2023-05-22 09:39:46.585300,Manager,60,1
+322,63.0,Other,Chicago,Gold,180.0,3965.43,Electronics,2023-09-22 09:39:46.585300,Engineer,89,1
+323,,Female,Philadelphia,Gold,131.0,6005.16,Home Goods,2023-10-16 09:39:46.585300,Engineer,77,0
+324,42.0,Female,Chicago,Silver,24.0,7080.82,Clothing,2023-03-28 09:39:46.585300,Doctor,3,0
+325,21.0,Female,,Bronze,102.0,5998.08,Home Goods,2023-12-30 09:39:46.585300,Doctor,64,1
+326,37.0,Other,Houston,Silver,,7759.34,Clothing,2023-07-20 09:39:46.585300,Manager,2,0
+327,,Other,Phoenix,Silver,108.0,3584.01,Home Goods,2023-04-12 09:39:46.585300,,55,0
+328,21.0,Female,Philadelphia,Bronze,32.0,8950.72,Electronics,2023-05-18 09:39:46.585300,Teacher,40,1
+329,58.0,Male,Phoenix,Bronze,105.0,7435.44,,2023-08-24 09:39:46.585300,Artist,85,1
+330,30.0,Female,Chicago,Bronze,96.0,8440.34,Clothing,2023-02-13 09:39:46.585300,Teacher,7,1
+331,57.0,Other,Los Angeles,Bronze,195.0,9994.48,Home Goods,2023-05-09 09:39:46.585300,Artist,38,1
+332,53.0,Male,Houston,Silver,22.0,,Electronics,2023-01-20 09:39:46.585300,Artist,25,0
+333,41.0,Male,Chicago,Silver,155.0,9320.44,Electronics,2023-07-14 09:39:46.585300,Artist,70,0
+334,23.0,Male,Phoenix,Bronze,92.0,3000.97,Electronics,2023-07-23 09:39:46.585300,Artist,95,0
+335,41.0,Female,Chicago,Silver,60.0,7860.79,Electronics,2023-10-08 09:39:46.585300,Engineer,32,0
+336,63.0,Male,New York,Platinum,4.0,7565.99,Electronics,2023-11-06 09:39:46.585300,,45,0
+337,48.0,Male,Philadelphia,Gold,118.0,8596.76,Clothing,2023-02-09 09:39:46.585300,Teacher,13,0
+338,29.0,,Houston,Platinum,42.0,7572.64,Clothing,2023-08-10 09:39:46.585300,,85,0
+339,59.0,,Chicago,Bronze,51.0,9812.46,Clothing,2023-03-13 09:39:46.585300,Artist,95,1
+340,39.0,Male,Los Angeles,Platinum,94.0,4036.24,Home Goods,2023-02-23 09:39:46.585300,Manager,61,1
+341,29.0,Male,Philadelphia,Gold,151.0,9639.14,Electronics,2023-12-23 09:39:46.585300,Doctor,25,0
+342,62.0,Other,Phoenix,Gold,43.0,1825.95,Clothing,2023-06-04 09:39:46.585300,Artist,77,0
+343,,Other,Philadelphia,Platinum,147.0,4587.71,Clothing,2023-06-08 09:39:46.585300,Doctor,53,0
+344,48.0,Male,New York,Platinum,135.0,1173.52,,2023-01-22 09:39:46.585300,,45,0
+345,65.0,Male,Los Angeles,Gold,28.0,,Home Goods,2023-05-19 09:39:46.585300,Doctor,67,0
+346,58.0,Male,Phoenix,Gold,81.0,9755.48,Electronics,2023-09-28 09:39:46.585300,Engineer,45,1
+347,20.0,Male,New York,Gold,13.0,963.7,Electronics,2023-09-22 09:39:46.585300,Teacher,77,1
+348,45.0,Female,Phoenix,Bronze,158.0,6493.12,Home Goods,2023-06-11 09:39:46.585300,Doctor,39,0
+349,36.0,Male,Houston,Gold,48.0,2586.58,Home Goods,2023-05-16 09:39:46.585300,Manager,90,0
+350,44.0,Female,Chicago,Bronze,39.0,5583.37,Electronics,2023-03-08 09:39:46.585300,Teacher,36,1
+351,41.0,Female,Phoenix,,67.0,5190.15,Home Goods,2023-10-25 09:39:46.585300,Manager,77,1
+352,71.0,Male,New York,Platinum,187.0,5573.3,Clothing,2023-06-12 09:39:46.585300,Teacher,17,0
+353,64.0,Male,Houston,Silver,117.0,1957.83,Clothing,2023-02-15 09:39:46.585300,Manager,30,0
+354,38.0,Other,Chicago,Silver,194.0,4564.61,Clothing,2023-10-06 09:39:46.585300,,34,1
+355,47.0,Female,Houston,Gold,39.0,6915.01,Clothing,2023-02-15 09:39:46.585300,Artist,76,1
+356,20.0,Female,Los Angeles,Platinum,31.0,4285.52,Clothing,2023-05-04 09:39:46.585300,Teacher,4,1
+357,54.0,Male,Philadelphia,Silver,92.0,6432.25,Clothing,2023-11-08 09:39:46.585300,,86,0
+358,59.0,Male,Los Angeles,Platinum,188.0,5251.57,Electronics,2023-09-25 09:39:46.585300,Engineer,81,0
+359,27.0,Male,Chicago,Bronze,150.0,6500.19,Electronics,2023-03-13 09:39:46.585300,Doctor,55,0
+360,27.0,Male,Los Angeles,Bronze,141.0,,Home Goods,2023-04-10 09:39:46.585300,Engineer,58,0
+361,,Other,Chicago,Platinum,117.0,,Electronics,2023-03-27 09:39:46.585300,Teacher,99,0
+362,39.0,Male,Philadelphia,Gold,,7232.02,,2023-12-22 09:39:46.585300,Engineer,72,1
+363,21.0,Other,Los Angeles,Silver,112.0,7289.08,,2023-08-13 09:39:46.585300,Engineer,89,1
+364,64.0,Male,Philadelphia,Gold,96.0,1134.0,Home Goods,2023-12-27 09:39:46.585300,Engineer,76,0
+365,45.0,Male,Philadelphia,Silver,,7032.62,Home Goods,2023-09-06 09:39:46.585300,Artist,27,0
+366,69.0,Female,Los Angeles,Platinum,120.0,,Home Goods,2023-08-08 09:39:46.585300,Manager,27,1
+367,62.0,,Los Angeles,Platinum,160.0,9169.81,Home Goods,2023-04-01 09:39:46.585300,Manager,22,1
+368,21.0,Female,Chicago,,68.0,,Clothing,2023-03-03 09:39:46.585300,Doctor,10,1
+369,,Female,Phoenix,Silver,165.0,9531.83,Clothing,2023-12-19 09:39:46.585300,Engineer,87,0
+370,27.0,,Phoenix,,145.0,8369.12,Electronics,2023-12-30 09:39:46.585300,Engineer,27,0
+371,,Other,,,,7632.92,Home Goods,2023-06-08 09:39:46.585300,Doctor,89,0
+372,46.0,Female,Phoenix,Gold,182.0,4665.94,Electronics,2023-02-05 09:39:46.585300,Manager,35,1
+373,64.0,Male,Houston,Silver,82.0,,Electronics,2023-11-08 09:39:46.585300,,82,1
+374,25.0,Other,Los Angeles,Gold,56.0,9430.29,Clothing,2023-07-14 09:39:46.585300,Engineer,0,0
+375,56.0,Female,Houston,Silver,,4599.86,Clothing,2023-04-11 09:39:46.585300,,92,1
+376,37.0,Female,Phoenix,Gold,6.0,2109.87,Electronics,2023-09-19 09:39:46.585300,Engineer,67,0
+377,52.0,Female,Chicago,,143.0,3284.12,Electronics,2023-08-03 09:39:46.585300,Doctor,53,1
+378,61.0,Female,Philadelphia,Platinum,52.0,5743.0,Home Goods,2023-07-30 09:39:46.585300,Engineer,41,1
+379,50.0,Other,Philadelphia,Gold,10.0,6668.52,Clothing,2023-04-24 09:39:46.585300,Doctor,27,1
+380,54.0,Other,New York,Platinum,98.0,5244.55,Electronics,2023-03-23 09:39:46.585300,,47,1
+381,43.0,Male,Chicago,Platinum,173.0,270.25,Electronics,2023-06-02 09:39:46.585300,Artist,4,0
+382,50.0,Female,Chicago,Silver,,5165.64,Clothing,2023-11-21 09:39:46.585300,Teacher,18,0
+383,22.0,Female,Philadelphia,Bronze,144.0,4388.4,Home Goods,2023-08-21 09:39:46.585300,Artist,6,1
+384,59.0,,Philadelphia,Platinum,147.0,2700.85,Clothing,2023-06-03 09:39:46.585300,Teacher,77,0
+385,53.0,Female,,Silver,65.0,8847.04,Clothing,2023-03-21 09:39:46.585300,Teacher,82,0
+386,19.0,Female,,Bronze,7.0,8140.07,Electronics,2023-02-08 09:39:46.585300,Manager,43,1
+387,30.0,Female,Philadelphia,Platinum,119.0,3172.3,Electronics,2023-01-19 09:39:46.585300,Manager,8,0
+388,53.0,Other,Philadelphia,Gold,11.0,,Home Goods,2023-02-19 09:39:46.585300,,89,0
+389,,Female,Phoenix,Silver,169.0,8328.84,,2023-01-25 09:39:46.585300,Artist,17,0
+390,34.0,Other,New York,Silver,134.0,7053.48,Electronics,2023-11-26 09:39:46.585300,,51,0
+391,27.0,Male,Phoenix,Silver,94.0,6059.31,Electronics,2024-01-05 09:39:46.585300,Engineer,80,1
+392,19.0,Other,Houston,Platinum,91.0,7630.85,Electronics,2023-06-30 09:39:46.585300,Artist,84,0
+393,35.0,Male,Phoenix,Bronze,63.0,7557.99,Clothing,2023-05-03 09:39:46.585300,,81,0
+394,67.0,Male,Houston,Bronze,19.0,6634.88,Clothing,2023-01-11 09:39:46.585300,Engineer,77,0
+395,54.0,Other,Chicago,Gold,,7115.45,Electronics,2023-10-01 09:39:46.585300,Manager,0,0
+396,44.0,Other,Chicago,,187.0,6826.47,Clothing,2023-05-19 09:39:46.585300,Artist,82,1
+397,57.0,Female,Houston,Gold,80.0,4408.62,Clothing,2023-06-07 09:39:46.585300,Artist,37,1
+398,54.0,Female,Chicago,,69.0,4902.37,Home Goods,2023-07-11 09:39:46.585300,Teacher,30,0
+399,66.0,,Los Angeles,Bronze,96.0,6909.07,Home Goods,2023-08-12 09:39:46.585300,Artist,84,1
+400,45.0,Male,New York,Silver,33.0,7350.98,Home Goods,2023-02-21 09:39:46.585300,Engineer,52,1
+401,21.0,Other,Philadelphia,,41.0,8460.36,Home Goods,2023-02-02 09:39:46.585300,Doctor,7,1
+402,57.0,Male,Phoenix,Silver,1.0,4488.71,Home Goods,2023-08-08 09:39:46.585300,Doctor,71,1
+403,54.0,,New York,Silver,77.0,940.53,Electronics,2023-08-07 09:39:46.585300,Teacher,60,1
+404,68.0,Other,Chicago,Bronze,151.0,8406.22,Clothing,2023-12-23 09:39:46.585300,Artist,7,0
+405,48.0,Female,New York,Bronze,99.0,9984.69,Home Goods,2023-01-15 09:39:46.585300,Doctor,78,0
+406,46.0,Other,Los Angeles,Bronze,,4838.67,,2023-11-15 09:39:46.585300,Manager,6,0
+407,67.0,Male,Los Angeles,Bronze,63.0,5393.54,Electronics,2023-10-01 09:39:46.585300,,40,0
+408,52.0,Male,Phoenix,,30.0,8807.52,Clothing,2023-07-15 09:39:46.585300,Manager,79,0
+409,36.0,Female,,Silver,,9540.98,Electronics,2023-05-01 09:39:46.585300,Manager,6,0
+410,34.0,Male,Chicago,Gold,70.0,2610.39,Clothing,2023-07-16 09:39:46.585300,Manager,69,1
+411,49.0,Other,Los Angeles,Platinum,185.0,1358.68,Home Goods,2023-05-17 09:39:46.585300,Artist,6,0
+412,37.0,Female,Houston,Silver,49.0,2021.38,Electronics,2023-04-24 09:39:46.585300,Teacher,87,0
+413,,Female,New York,Gold,65.0,3112.34,Clothing,2023-08-02 09:39:46.585300,Manager,22,0
+414,24.0,Male,,Bronze,43.0,8632.71,Electronics,2023-09-02 09:39:46.585300,Manager,50,0
+415,55.0,Male,New York,Bronze,84.0,7412.56,,2023-12-02 09:39:46.585300,Artist,92,0
+416,29.0,Other,Phoenix,Platinum,96.0,5954.39,Clothing,2023-03-20 09:39:46.585300,Teacher,75,1
+417,61.0,Male,Los Angeles,Bronze,1.0,7276.61,,2023-12-13 09:39:46.585300,Teacher,40,1
+418,22.0,Female,Philadelphia,,79.0,8087.05,Electronics,2023-06-09 09:39:46.585300,Engineer,7,0
+419,65.0,Other,Phoenix,Silver,83.0,5151.51,,2023-03-01 09:39:46.585300,Manager,35,0
+420,46.0,Female,Houston,Platinum,77.0,764.13,,2023-12-02 09:39:46.585300,Doctor,18,0
+421,39.0,Female,,Platinum,161.0,8498.3,Clothing,2023-02-26 09:39:46.585300,Artist,48,0
+422,,Female,Chicago,Silver,,4496.1,Clothing,2023-05-19 09:39:46.585300,Teacher,15,0
+423,58.0,Male,Phoenix,Bronze,189.0,6052.76,Clothing,2023-03-18 09:39:46.585300,Doctor,11,1
+424,30.0,Other,Los Angeles,Platinum,150.0,,Clothing,2023-03-22 09:39:46.585300,Engineer,82,0
+425,40.0,Other,New York,Bronze,197.0,7429.94,Clothing,2023-05-25 09:39:46.585300,Doctor,68,1
+426,,,,Silver,129.0,8497.65,Clothing,2023-10-22 09:39:46.585300,Artist,91,0
+427,,Male,Phoenix,Gold,175.0,315.04,Electronics,2023-05-01 09:39:46.585300,Teacher,65,1
+428,23.0,,Los Angeles,Gold,163.0,,Clothing,2023-09-23 09:39:46.585300,Engineer,71,0
+429,25.0,Male,Chicago,Gold,194.0,6798.11,,2023-05-11 09:39:46.585300,Teacher,19,1
+430,37.0,Female,Houston,Gold,84.0,6410.04,Home Goods,2023-08-06 09:39:46.585300,Doctor,75,1
+431,47.0,Female,Houston,Silver,45.0,6179.95,Home Goods,2023-05-28 09:39:46.585300,,70,0
+432,61.0,Male,Chicago,Bronze,100.0,3508.77,Clothing,2023-10-11 09:39:46.585300,Manager,96,0
+433,36.0,Female,Philadelphia,Platinum,18.0,,Electronics,2023-05-03 09:39:46.585300,Manager,69,0
+434,64.0,Female,Los Angeles,Gold,163.0,8354.38,Home Goods,2023-09-28 09:39:46.585300,Doctor,45,0
+435,60.0,Male,New York,Bronze,118.0,2782.82,Electronics,2023-09-16 09:39:46.585300,Teacher,39,0
+436,46.0,Female,New York,Bronze,50.0,6922.24,Home Goods,2023-11-17 09:39:46.585300,Teacher,83,0
+437,64.0,Male,Philadelphia,,38.0,3791.78,Electronics,2023-11-01 09:39:46.585300,Engineer,68,1
+438,39.0,Other,Philadelphia,Gold,69.0,9006.63,Home Goods,2023-02-05 09:39:46.585300,Doctor,21,1
+439,26.0,Other,New York,Silver,49.0,1424.49,Clothing,2023-04-10 09:39:46.585300,Engineer,28,1
+440,43.0,Male,Los Angeles,Silver,197.0,208.12,Clothing,2023-08-26 09:39:46.585300,Teacher,49,1
+441,70.0,Female,Los Angeles,Platinum,194.0,2090.41,Home Goods,2023-01-09 09:39:46.585300,Manager,24,1
+442,,Male,Phoenix,Platinum,176.0,9486.75,Clothing,2023-01-07 09:39:46.585300,Artist,11,1
+443,,Other,Phoenix,,43.0,5357.89,Home Goods,2023-05-27 09:39:46.585300,Engineer,83,1
+444,25.0,Other,Chicago,Bronze,0.0,6840.75,,2023-07-12 09:39:46.585300,Engineer,97,1
+445,48.0,,Chicago,Bronze,12.0,,Electronics,2023-01-19 09:39:46.585300,Teacher,44,0
+446,60.0,Male,New York,Silver,19.0,6838.18,Home Goods,2023-01-23 09:39:46.585300,Teacher,79,0
+447,37.0,Male,Los Angeles,Gold,72.0,6737.84,Electronics,2023-08-25 09:39:46.585300,Manager,14,1
+448,57.0,Female,Phoenix,,27.0,1941.17,Home Goods,2023-12-18 09:39:46.585300,Teacher,19,1
+449,19.0,Male,,Bronze,50.0,1994.56,Electronics,2023-08-16 09:39:46.585300,Doctor,40,1
+450,,Male,Philadelphia,Platinum,107.0,7450.2,Home Goods,2023-11-24 09:39:46.585300,Artist,77,1
+451,33.0,Female,Phoenix,Bronze,99.0,2844.31,Electronics,2023-01-12 09:39:46.585300,,60,1
+452,60.0,Female,Los Angeles,Silver,196.0,2715.52,Clothing,2023-04-09 09:39:46.585300,Engineer,50,1
+453,55.0,Other,,Gold,138.0,884.87,Home Goods,2023-01-25 09:39:46.585300,Manager,52,1
+454,,Other,Chicago,Bronze,119.0,8287.85,Home Goods,2023-12-21 09:39:46.585300,Artist,90,0
+455,41.0,Male,Philadelphia,Platinum,130.0,6361.49,Electronics,2023-05-28 09:39:46.585300,Manager,56,1
+456,20.0,Other,Los Angeles,Gold,19.0,300.62,Clothing,2023-08-05 09:39:46.585300,Manager,95,1
+457,70.0,,Los Angeles,Silver,30.0,686.65,,2023-07-21 09:39:46.585300,Engineer,50,0
+458,26.0,Female,Philadelphia,Platinum,37.0,3452.01,Clothing,2023-07-30 09:39:46.585300,Artist,39,1
+459,44.0,Female,Philadelphia,Silver,47.0,3131.69,Electronics,2023-01-28 09:39:46.585300,Teacher,39,0
+460,48.0,Female,Philadelphia,,44.0,8760.18,Electronics,2023-05-24 09:39:46.585300,Manager,59,1
+461,65.0,Other,New York,Gold,101.0,5737.6,,2023-05-11 09:39:46.585300,Doctor,43,1
+462,40.0,Female,Los Angeles,Silver,5.0,1027.92,,2023-08-10 09:39:46.585300,Engineer,37,1
+463,49.0,,Houston,Silver,71.0,1036.07,Clothing,2023-10-23 09:39:46.585300,Manager,7,0
+464,38.0,Female,New York,Silver,58.0,,Electronics,2023-12-01 09:39:46.585300,Engineer,56,0
+465,25.0,Other,Philadelphia,Platinum,39.0,3817.55,Home Goods,2023-01-14 09:39:46.585300,,76,0
+466,25.0,Female,Philadelphia,Platinum,74.0,9413.5,Electronics,2023-12-22 09:39:46.585300,Doctor,42,0
+467,43.0,Other,Chicago,,176.0,1679.48,Electronics,2023-05-24 09:39:46.585300,Manager,97,1
+468,32.0,Other,New York,Silver,198.0,8520.25,,2023-09-07 09:39:46.585300,Artist,80,0
+469,34.0,Female,New York,Bronze,130.0,1903.27,Clothing,2023-07-02 09:39:46.585300,Artist,18,0
+470,18.0,Female,Los Angeles,Platinum,20.0,3178.54,Electronics,2023-09-07 09:39:46.585300,Manager,98,1
+471,28.0,,New York,Bronze,193.0,7128.09,,2023-10-17 09:39:46.585300,Engineer,49,0
+472,48.0,Male,Phoenix,Platinum,148.0,189.32,Home Goods,2023-09-13 09:39:46.585300,Teacher,70,1
+473,,Male,Houston,Bronze,88.0,5800.83,Clothing,2023-02-12 09:39:46.585300,Manager,89,0
+474,43.0,Female,Philadelphia,Platinum,151.0,1878.13,Clothing,2023-11-21 09:39:46.585300,Engineer,75,1
+475,50.0,Female,Phoenix,Gold,108.0,8408.81,Home Goods,2023-07-03 09:39:46.585300,,85,1
+476,60.0,Male,Chicago,Platinum,119.0,,Home Goods,2023-12-04 09:39:46.585300,Manager,99,0
+477,,Female,Philadelphia,Silver,72.0,,Clothing,2023-07-24 09:39:46.585300,,57,1
+478,39.0,Female,Houston,Gold,25.0,4562.15,Home Goods,2023-05-12 09:39:46.585300,Artist,83,1
+479,46.0,Male,Los Angeles,Bronze,154.0,5069.8,Clothing,2023-09-29 09:39:46.585300,Manager,27,0
+480,38.0,Other,Houston,Gold,137.0,9709.35,Clothing,2023-01-21 09:39:46.585300,Teacher,70,0
+481,36.0,Male,Los Angeles,Gold,,7140.01,,2023-04-11 09:39:46.585300,Doctor,67,1
+482,21.0,Female,New York,Silver,89.0,6066.25,Home Goods,2023-05-05 09:39:46.585300,Teacher,0,1
+483,39.0,Female,Los Angeles,Silver,9.0,8152.88,Home Goods,2023-07-13 09:39:46.585300,Artist,11,0
+484,53.0,Other,Chicago,Platinum,99.0,7315.66,,2023-12-18 09:39:46.585300,Doctor,68,0
+485,37.0,Female,Phoenix,Bronze,167.0,1224.49,Clothing,2023-01-11 09:39:46.585300,,63,0
+486,26.0,Female,Houston,,154.0,9884.71,Electronics,2023-03-10 09:39:46.585300,Engineer,26,0
+487,26.0,,Phoenix,,171.0,,Home Goods,2023-02-01 09:39:46.585300,Doctor,76,1
+488,32.0,Male,Philadelphia,Platinum,112.0,7666.13,Home Goods,2023-03-10 09:39:46.585300,Doctor,66,0
+489,22.0,Female,Philadelphia,Gold,56.0,,Home Goods,2023-08-04 09:39:46.585300,Engineer,54,1
+490,18.0,,Phoenix,Bronze,116.0,5244.9,Electronics,2023-10-09 09:39:46.585300,Manager,46,1
+491,,Female,Philadelphia,Gold,154.0,513.27,Home Goods,2023-04-28 09:39:46.585300,Manager,55,0
+492,32.0,Female,Phoenix,Silver,36.0,7412.65,Clothing,2023-02-19 09:39:46.585300,Teacher,55,1
+493,,Other,,Silver,174.0,2131.14,Clothing,2023-01-23 09:39:46.585300,Engineer,54,1
+494,28.0,Male,Phoenix,Platinum,24.0,1138.01,Clothing,2023-09-18 09:39:46.585300,Artist,87,1
+495,21.0,Male,New York,Gold,,3668.16,,2023-06-07 09:39:46.585300,Artist,14,0
+496,57.0,Female,Chicago,Silver,181.0,8108.8,Electronics,2023-04-21 09:39:46.585300,Engineer,30,0
+497,,Female,Philadelphia,Bronze,181.0,,Clothing,2023-06-07 09:39:46.585300,Teacher,6,0
+498,63.0,Female,,Silver,187.0,9518.66,Clothing,2023-05-14 09:39:46.585300,Teacher,13,0
+499,43.0,Male,Los Angeles,Bronze,40.0,3091.18,Clothing,2023-06-02 09:39:46.585300,Manager,19,0
+500,28.0,Female,Los Angeles,Gold,49.0,8973.41,Electronics,2023-07-15 09:39:46.585300,Manager,41,0
+501,64.0,,Los Angeles,Bronze,76.0,5319.66,,2023-04-26 09:39:46.585300,Engineer,63,1
+502,66.0,Other,Chicago,Bronze,92.0,3091.67,,2023-04-26 09:39:46.585300,,21,0
+503,45.0,Male,,Platinum,156.0,9585.38,Clothing,2023-08-20 09:39:46.585300,Teacher,69,1
+504,70.0,Other,,Bronze,193.0,1005.84,Clothing,2023-06-20 09:39:46.585300,Artist,35,1
+505,53.0,,Los Angeles,Platinum,68.0,6300.46,Home Goods,2023-05-19 09:39:46.585300,Doctor,15,1
+506,60.0,Other,New York,Bronze,77.0,244.9,Clothing,2023-06-09 09:39:46.585300,Manager,38,0
+507,36.0,Other,Philadelphia,Silver,44.0,,Home Goods,2023-12-13 09:39:46.585300,Artist,35,0
+508,53.0,Male,Philadelphia,,79.0,7357.13,Home Goods,2024-01-01 09:39:46.585300,Engineer,6,0
+509,68.0,Other,Phoenix,Bronze,99.0,8823.39,Clothing,2023-05-28 09:39:46.585300,Artist,60,0
+510,48.0,Female,Philadelphia,Platinum,77.0,923.81,Clothing,2023-05-04 09:39:46.585300,Doctor,21,1
+511,61.0,Female,Chicago,Bronze,144.0,941.66,Clothing,2023-10-13 09:39:46.585300,Doctor,45,1
+512,35.0,Female,,Gold,22.0,2469.58,Electronics,2023-10-16 09:39:46.585300,Doctor,77,0
+513,62.0,Female,,Silver,161.0,613.7,Clothing,2023-09-09 09:39:46.585300,Artist,87,1
+514,40.0,Male,Chicago,Silver,156.0,6475.13,Electronics,2023-09-24 09:39:46.585300,Doctor,95,1
+515,20.0,Female,Phoenix,Silver,8.0,8662.46,Clothing,2023-02-09 09:39:46.585300,Artist,49,0
+516,23.0,Male,Philadelphia,Gold,18.0,,Electronics,2023-08-07 09:39:46.585300,Engineer,29,0
+517,61.0,Male,Los Angeles,,7.0,2020.19,Home Goods,2023-06-15 09:39:46.585300,Doctor,97,1
+518,66.0,Male,,Gold,108.0,9010.49,Clothing,2023-11-14 09:39:46.585300,Engineer,61,0
+519,47.0,Female,Phoenix,Bronze,,7895.43,Electronics,2023-01-22 09:39:46.585300,,31,0
+520,35.0,Male,Philadelphia,Platinum,25.0,,Clothing,2023-08-22 09:39:46.585300,Artist,90,0
+521,43.0,Other,New York,Bronze,39.0,1465.37,Clothing,2023-05-29 09:39:46.585300,Manager,33,0
+522,54.0,Other,Phoenix,Gold,86.0,,Clothing,2023-03-16 09:39:46.585300,Teacher,85,0
+523,67.0,Female,Chicago,Platinum,5.0,3411.57,Home Goods,2023-11-10 09:39:46.585300,Doctor,16,0
+524,,Other,Los Angeles,,122.0,6895.39,Home Goods,2023-06-16 09:39:46.585300,Teacher,8,0
+525,26.0,Other,Phoenix,Silver,57.0,1576.99,Clothing,2023-07-07 09:39:46.585300,,76,0
+526,63.0,Other,Houston,Bronze,72.0,2048.03,Electronics,2023-03-02 09:39:46.585300,Engineer,39,1
+527,,Other,Phoenix,Bronze,35.0,2119.07,,2023-11-18 09:39:46.585300,Engineer,50,1
+528,23.0,Male,Houston,Silver,169.0,5320.72,Home Goods,2023-11-09 09:39:46.585300,Engineer,12,1
+529,59.0,Other,Houston,Bronze,102.0,3861.97,Home Goods,2023-06-25 09:39:46.585300,Teacher,72,0
+530,58.0,Female,Phoenix,Gold,29.0,6741.02,Home Goods,2023-03-23 09:39:46.585300,Teacher,27,1
+531,28.0,Female,Houston,Silver,136.0,5999.67,Clothing,2023-07-24 09:39:46.585300,Artist,96,1
+532,33.0,Other,Los Angeles,,170.0,524.53,Clothing,2023-01-11 09:39:46.585300,Teacher,42,1
+533,25.0,Other,Chicago,Bronze,110.0,8536.18,Home Goods,2023-03-09 09:39:46.585300,Teacher,68,1
+534,34.0,Other,New York,Silver,93.0,8604.42,Electronics,2023-12-16 09:39:46.585300,Artist,44,1
+535,40.0,Other,Phoenix,Silver,7.0,8156.23,Home Goods,2023-08-10 09:39:46.585300,Manager,97,1
+536,,Other,Houston,Gold,51.0,8407.05,Clothing,2023-06-12 09:39:46.585300,Artist,68,1
+537,42.0,Male,Chicago,Gold,14.0,385.52,Electronics,2023-01-13 09:39:46.585300,Engineer,63,0
+538,26.0,,Houston,Platinum,141.0,7750.79,Electronics,2023-06-02 09:39:46.585300,Artist,42,0
+539,55.0,Female,Chicago,Bronze,70.0,,Clothing,2023-11-13 09:39:46.585300,,22,0
+540,23.0,Male,Phoenix,Silver,176.0,1194.72,,2023-01-09 09:39:46.585300,Manager,80,1
+541,36.0,,Houston,Platinum,81.0,9986.84,Home Goods,2023-12-29 09:39:46.585300,Teacher,56,0
+542,24.0,Male,Philadelphia,Bronze,34.0,6616.16,Electronics,2023-05-02 09:39:46.585300,Doctor,80,1
+543,37.0,,New York,Silver,43.0,8159.37,Clothing,2023-09-16 09:39:46.585300,Doctor,91,1
+544,,Female,New York,Platinum,122.0,1755.14,Electronics,2023-04-17 09:39:46.585300,Manager,76,1
+545,,Other,Phoenix,Gold,26.0,2564.19,Clothing,2023-04-12 09:39:46.585300,Artist,18,0
+546,34.0,Male,Philadelphia,Bronze,47.0,4126.21,Clothing,2023-08-15 09:39:46.585300,Engineer,10,1
+547,69.0,Female,Philadelphia,Bronze,131.0,,Home Goods,2023-02-18 09:39:46.585300,Teacher,31,0
+548,64.0,Female,Houston,Silver,161.0,4453.54,Home Goods,2023-09-29 09:39:46.585300,Doctor,60,0
+549,41.0,,Phoenix,Gold,95.0,2692.5,Electronics,2023-11-04 09:39:46.585300,Manager,99,1
+550,42.0,,Chicago,Gold,162.0,205.19,Electronics,2023-03-31 09:39:46.585300,,7,1
+551,24.0,Female,Philadelphia,Gold,180.0,494.61,Home Goods,2023-05-24 09:39:46.585300,Manager,38,0
+552,53.0,Male,Phoenix,Gold,165.0,6650.87,Electronics,2023-09-02 09:39:46.585300,Artist,90,0
+553,63.0,Other,New York,Gold,186.0,6842.09,Electronics,2023-01-22 09:39:46.585300,Engineer,65,1
+554,65.0,Female,Los Angeles,Platinum,79.0,5355.48,Clothing,2023-05-12 09:39:46.585300,Doctor,81,0
+555,41.0,,Houston,Silver,126.0,1647.58,Electronics,2023-04-20 09:39:46.585300,,9,0
+556,48.0,Male,Philadelphia,Silver,24.0,4049.46,Home Goods,2023-11-19 09:39:46.585300,Teacher,42,0
+557,43.0,Female,Los Angeles,Gold,72.0,9128.22,Home Goods,2023-05-08 09:39:46.585300,Engineer,67,0
+558,39.0,Male,,Platinum,61.0,5138.32,Electronics,2023-08-24 09:39:46.585300,Manager,88,1
+559,,Other,Los Angeles,Bronze,46.0,5512.56,Electronics,2023-08-26 09:39:46.585300,Teacher,7,1
+560,56.0,Male,Philadelphia,Platinum,174.0,9283.62,Clothing,2023-04-17 09:39:46.585300,,3,1
+561,42.0,Male,Chicago,Gold,145.0,9704.52,,2023-09-24 09:39:46.585300,Teacher,17,0
+562,45.0,Other,Los Angeles,,87.0,6884.16,Clothing,2023-10-02 09:39:46.585300,Artist,17,0
+563,48.0,Male,Phoenix,Bronze,,4668.61,Home Goods,2023-02-24 09:39:46.585300,Artist,96,1
+564,51.0,,New York,Silver,,2934.48,Clothing,2023-02-06 09:39:46.585300,Manager,4,0
+565,69.0,Other,Houston,Gold,119.0,3696.62,Home Goods,2023-09-10 09:39:46.585300,Engineer,99,1
+566,68.0,Male,New York,Silver,110.0,3835.5,,2023-11-03 09:39:46.585300,Teacher,11,0
+567,41.0,Male,Philadelphia,Gold,129.0,3618.59,Clothing,2023-11-24 09:39:46.585300,Engineer,79,1
+568,,Other,Phoenix,Platinum,48.0,,Home Goods,2023-07-26 09:39:46.585300,Manager,88,1
+569,58.0,Male,New York,Gold,,2573.06,Clothing,2023-04-23 09:39:46.585300,Manager,98,1
+570,67.0,Female,Los Angeles,Silver,111.0,2697.75,Clothing,2023-12-20 09:39:46.585300,,96,0
+571,28.0,,Los Angeles,Silver,39.0,3970.67,Electronics,2023-02-08 09:39:46.585300,Manager,8,0
+572,18.0,Female,Chicago,Gold,100.0,2733.55,Home Goods,2023-02-26 09:39:46.585300,Teacher,72,1
+573,36.0,Female,Phoenix,Gold,50.0,8979.32,Clothing,2024-01-02 09:39:46.585300,Engineer,95,1
+574,54.0,Female,Phoenix,Platinum,196.0,404.52,Home Goods,2023-08-24 09:39:46.585300,Doctor,92,0
+575,33.0,Other,Houston,Platinum,40.0,6571.6,Electronics,2023-05-30 09:39:46.585300,,65,0
+576,39.0,Other,Houston,Gold,70.0,8219.39,Clothing,2023-05-29 09:39:46.585300,Doctor,98,1
+577,,Female,Houston,Platinum,41.0,4074.37,Electronics,2023-03-30 09:39:46.585300,Manager,70,1
+578,21.0,Other,Philadelphia,Platinum,4.0,,Electronics,2023-06-19 09:39:46.585300,Doctor,35,0
+579,61.0,Female,Phoenix,Silver,51.0,,Home Goods,2023-02-21 09:39:46.585300,Teacher,96,1
+580,18.0,Female,Chicago,Gold,101.0,7758.78,Electronics,2023-10-20 09:39:46.585300,Engineer,73,1
+581,,Male,Houston,Bronze,175.0,3706.15,Clothing,2023-01-18 09:39:46.585300,Doctor,82,0
+582,,,,Bronze,89.0,7243.78,Electronics,2023-03-19 09:39:46.585300,Engineer,94,0
+583,21.0,Other,Houston,,12.0,9382.03,Clothing,2023-11-24 09:39:46.585300,Engineer,85,1
+584,35.0,Female,Houston,Silver,135.0,5304.28,Clothing,2023-08-24 09:39:46.585300,Doctor,68,0
+585,67.0,Female,Phoenix,Platinum,29.0,,Clothing,2023-02-26 09:39:46.585300,Doctor,78,0
+586,67.0,Male,New York,Gold,184.0,3370.19,,2023-04-17 09:39:46.585300,Manager,50,0
+587,28.0,Female,New York,Silver,174.0,6489.64,Home Goods,2023-08-14 09:39:46.585300,Engineer,22,1
+588,63.0,Female,Los Angeles,Bronze,13.0,346.4,Electronics,2023-06-16 09:39:46.585300,Doctor,74,1
+589,57.0,Male,,Bronze,195.0,9964.16,Clothing,2023-06-11 09:39:46.585300,Doctor,22,0
+590,48.0,Male,Houston,Bronze,105.0,6744.25,,2023-02-03 09:39:46.585300,Artist,14,0
+591,44.0,Other,Los Angeles,Silver,20.0,3888.41,Home Goods,2023-08-25 09:39:46.585300,Teacher,86,1
+592,61.0,Female,Philadelphia,Silver,146.0,5278.6,Clothing,2023-05-09 09:39:46.585300,,35,0
+593,47.0,Female,Los Angeles,Silver,170.0,9708.54,Home Goods,2023-05-19 09:39:46.585300,Teacher,78,0
+594,,Male,Houston,Platinum,136.0,7220.98,Home Goods,2023-09-03 09:39:46.585300,,69,1
+595,23.0,Other,Los Angeles,Silver,75.0,7958.22,Home Goods,2023-11-03 09:39:46.585300,Doctor,88,0
+596,24.0,Female,Los Angeles,Platinum,74.0,3587.0,Electronics,2024-01-02 09:39:46.585300,Manager,13,0
+597,44.0,Female,Chicago,Platinum,103.0,2660.34,Home Goods,2023-03-24 09:39:46.585300,,3,1
+598,64.0,Male,Los Angeles,Gold,132.0,6898.32,Clothing,2023-02-15 09:39:46.585300,Artist,41,0
+599,52.0,Male,New York,Gold,121.0,5464.64,Electronics,2023-04-21 09:39:46.585300,Artist,50,1
+600,38.0,Male,Philadelphia,Platinum,64.0,7843.3,,2023-08-22 09:39:46.585300,Manager,58,1
+601,30.0,Female,Philadelphia,Platinum,34.0,6950.21,Clothing,2023-09-23 09:39:46.585300,Engineer,42,0
+602,36.0,Female,Chicago,Bronze,48.0,2062.44,Clothing,2023-01-11 09:39:46.585300,Doctor,9,1
+603,68.0,Other,Phoenix,Bronze,120.0,6506.35,,2023-08-31 09:39:46.585300,Teacher,50,0
+604,28.0,Male,Houston,,,7441.53,Home Goods,2023-02-15 09:39:46.585300,Doctor,32,1
+605,53.0,Male,,Platinum,,4600.85,Home Goods,2023-02-21 09:39:46.585300,Doctor,40,0
+606,50.0,Male,Houston,Bronze,85.0,8233.16,Clothing,2023-11-06 09:39:46.585300,Manager,65,0
+607,60.0,Female,Chicago,Gold,185.0,,Home Goods,2023-06-10 09:39:46.585300,Teacher,98,1
+608,,Other,Phoenix,Platinum,,9333.31,Clothing,2023-07-21 09:39:46.585300,Doctor,69,0
+609,27.0,Other,New York,Silver,38.0,8463.32,,2023-01-30 09:39:46.585300,Manager,55,1
+610,53.0,Male,Los Angeles,Gold,197.0,,Electronics,2023-02-06 09:39:46.585300,Doctor,45,1
+611,20.0,Female,Houston,Silver,81.0,4467.96,Electronics,2023-07-15 09:39:46.585300,Artist,35,1
+612,67.0,Male,Phoenix,Bronze,139.0,7713.08,Clothing,2023-04-28 09:39:46.585300,Manager,21,1
+613,,Male,Houston,Gold,37.0,3309.21,,2023-05-21 09:39:46.585300,Manager,52,1
+614,58.0,Other,Philadelphia,Silver,75.0,2637.95,Home Goods,2023-06-27 09:39:46.585300,Engineer,85,0
+615,,Other,Los Angeles,,81.0,1329.73,,2023-08-19 09:39:46.585300,Artist,27,1
+616,54.0,,Chicago,Silver,177.0,2308.8,Clothing,2023-08-18 09:39:46.585300,Teacher,13,0
+617,54.0,Male,Chicago,Platinum,,,Clothing,2023-11-23 09:39:46.585300,Engineer,52,1
+618,23.0,Male,New York,Platinum,85.0,8917.69,Home Goods,2023-11-20 09:39:46.585300,Artist,72,1
+619,23.0,Female,,Bronze,9.0,4791.95,Electronics,2023-11-08 09:39:46.585300,Manager,93,0
+620,22.0,Male,Chicago,Gold,133.0,2124.11,Clothing,2023-08-24 09:39:46.585300,Engineer,62,1
+621,53.0,Female,Houston,Platinum,131.0,,Clothing,2023-07-09 09:39:46.585300,Artist,21,1
+622,59.0,Female,Philadelphia,Silver,60.0,7974.98,Home Goods,2023-09-25 09:39:46.585300,Teacher,58,1
+623,52.0,Female,Houston,Bronze,179.0,7498.57,Clothing,2023-11-17 09:39:46.585300,Artist,51,0
+624,43.0,,Houston,Bronze,71.0,9513.33,Clothing,2023-10-07 09:39:46.585300,Doctor,1,0
+625,23.0,Male,Houston,Bronze,196.0,174.77,Clothing,2023-09-13 09:39:46.585300,Manager,41,1
+626,46.0,Other,Los Angeles,Gold,118.0,2032.27,Home Goods,2023-07-11 09:39:46.585300,Doctor,74,0
+627,50.0,Other,Chicago,Gold,110.0,8649.44,Clothing,2023-05-09 09:39:46.585300,Engineer,70,1
+628,63.0,Female,Phoenix,Bronze,,,Electronics,2024-01-03 09:39:46.585300,Doctor,67,0
+629,,,Chicago,Gold,141.0,1852.18,Electronics,2023-11-23 09:39:46.585300,Doctor,15,0
+630,27.0,,New York,Platinum,133.0,8825.15,Clothing,2023-01-09 09:39:46.585300,Engineer,66,0
+631,,Female,Philadelphia,Silver,18.0,2397.97,Clothing,2023-06-08 09:39:46.585300,Doctor,52,1
+632,,Male,,Platinum,110.0,855.82,Home Goods,2023-12-17 09:39:46.585300,Engineer,89,1
+633,24.0,Male,,,,7259.67,,2023-11-14 09:39:46.585300,Engineer,64,0
+634,,Male,Philadelphia,Bronze,194.0,608.37,Home Goods,2023-06-26 09:39:46.585300,Teacher,42,1
+635,25.0,Male,Chicago,,171.0,8602.07,Clothing,2023-08-13 09:39:46.585300,Doctor,51,1
+636,37.0,Male,Houston,Silver,151.0,7844.09,Home Goods,2023-09-07 09:39:46.585300,,4,0
+637,24.0,Female,Philadelphia,Gold,,,Clothing,2023-08-19 09:39:46.585300,Manager,43,1
+638,23.0,Other,Houston,Platinum,102.0,,Home Goods,2023-06-08 09:39:46.585300,,32,1
+639,40.0,Male,Los Angeles,Bronze,66.0,5665.51,Electronics,2023-12-10 09:39:46.585300,,16,1
+640,44.0,Other,Los Angeles,Silver,42.0,830.35,Home Goods,2023-01-25 09:39:46.585300,Doctor,14,0
+641,62.0,Male,,Silver,182.0,9767.3,Home Goods,2023-05-30 09:39:46.585300,Doctor,89,1
+642,21.0,Other,Chicago,Silver,27.0,8815.71,,2023-11-26 09:39:46.585300,Engineer,86,0
+643,55.0,Other,Philadelphia,,106.0,9808.3,Clothing,2023-07-23 09:39:46.585300,,20,1
+644,38.0,Male,Phoenix,Platinum,,9021.57,Electronics,2023-12-28 09:39:46.585300,Doctor,57,0
+645,,Female,Los Angeles,Gold,17.0,5607.26,Home Goods,2023-08-20 09:39:46.585300,Manager,27,1
+646,37.0,Female,Phoenix,Bronze,122.0,8976.34,Home Goods,2023-05-17 09:39:46.585300,Doctor,3,1
+647,49.0,Female,Phoenix,Platinum,103.0,2431.66,Home Goods,2023-06-16 09:39:46.585300,Manager,54,1
+648,19.0,Female,Houston,Silver,,8806.01,Home Goods,2023-09-09 09:39:46.585300,Doctor,53,1
+649,23.0,,Los Angeles,Gold,79.0,4107.85,Clothing,2023-01-31 09:39:46.585300,Manager,17,1
+650,45.0,Male,Houston,Bronze,155.0,3194.47,Home Goods,2023-01-12 09:39:46.585300,Teacher,81,1
+651,61.0,Male,Los Angeles,,79.0,9811.79,Clothing,2023-09-21 09:39:46.585300,Artist,54,0
+652,48.0,Female,,,153.0,2387.54,Electronics,2023-08-16 09:39:46.585300,Teacher,5,0
+653,27.0,Male,Chicago,Bronze,192.0,8457.21,Clothing,2023-07-07 09:39:46.585300,Engineer,11,0
+654,36.0,Male,Philadelphia,Silver,88.0,3417.05,Electronics,2023-09-29 09:39:46.585300,Doctor,95,1
+655,25.0,Male,New York,Platinum,8.0,1143.85,Clothing,2023-08-20 09:39:46.585300,Manager,63,0
+656,40.0,Other,Philadelphia,Bronze,183.0,427.38,Electronics,2023-08-10 09:39:46.585300,Doctor,5,0
+657,55.0,Male,Chicago,Gold,190.0,7014.68,Electronics,2023-05-14 09:39:46.585300,,36,1
+658,46.0,Male,Chicago,Silver,91.0,953.4,Electronics,2023-01-24 09:39:46.585300,Artist,49,1
+659,25.0,Female,Chicago,Silver,17.0,5006.56,Clothing,2023-08-03 09:39:46.585300,Doctor,84,1
+660,60.0,Other,Los Angeles,Silver,114.0,3913.29,Clothing,2023-04-18 09:39:46.585300,Engineer,12,0
+661,64.0,Other,Los Angeles,Silver,20.0,,Home Goods,2023-02-22 09:39:46.585300,Engineer,76,1
+662,19.0,Male,Chicago,Platinum,53.0,,Clothing,2023-03-12 09:39:46.585300,,28,1
+663,58.0,Male,New York,Bronze,183.0,6786.02,Clothing,2023-02-02 09:39:46.585300,Manager,67,1
+664,70.0,,Phoenix,Platinum,120.0,5916.24,,2023-11-18 09:39:46.585300,Engineer,79,0
+665,57.0,Male,Philadelphia,Bronze,119.0,2081.18,Home Goods,2023-03-01 09:39:46.585300,Manager,62,0
+666,46.0,Male,Chicago,Silver,,,Home Goods,2023-02-18 09:39:46.585300,Manager,61,0
+667,28.0,Female,Phoenix,Platinum,123.0,1277.47,Clothing,2023-12-22 09:39:46.585300,Teacher,40,0
+668,68.0,Other,Philadelphia,Bronze,191.0,4730.19,Electronics,2023-10-15 09:39:46.585300,Artist,70,1
+669,51.0,Female,,Silver,139.0,4979.43,Electronics,2023-03-13 09:39:46.585300,Teacher,59,1
+670,,Female,Phoenix,Silver,138.0,5251.15,,2023-06-23 09:39:46.585300,Doctor,88,1
+671,50.0,Female,Los Angeles,Bronze,,6790.3,Home Goods,2023-09-15 09:39:46.585300,Teacher,59,0
+672,35.0,Other,New York,Platinum,190.0,283.6,Electronics,2023-07-24 09:39:46.585300,Artist,58,1
+673,45.0,Male,Los Angeles,Bronze,81.0,1387.61,Home Goods,2023-06-13 09:39:46.585300,Artist,90,0
+674,32.0,Female,Phoenix,Gold,3.0,4630.57,Electronics,2023-07-01 09:39:46.585300,Manager,98,1
+675,,Male,Houston,Bronze,151.0,2582.27,Electronics,2023-08-24 09:39:46.585300,Manager,17,0
+676,68.0,,New York,Gold,102.0,1088.98,Clothing,2023-11-23 09:39:46.585300,Artist,70,0
+677,24.0,Male,Philadelphia,,59.0,5893.12,Clothing,2023-12-21 09:39:46.585300,Doctor,87,0
+678,51.0,Female,Houston,Silver,160.0,6236.7,Electronics,2023-12-16 09:39:46.585300,Artist,99,0
+679,62.0,Male,Chicago,Platinum,4.0,2598.85,Electronics,2023-05-17 09:39:46.585300,Artist,14,1
+680,68.0,Male,Houston,Bronze,92.0,7779.26,Home Goods,2023-10-17 09:39:46.585300,Engineer,70,0
+681,62.0,,Los Angeles,Platinum,15.0,9499.66,Home Goods,2023-11-29 09:39:46.585300,Doctor,36,1
+682,58.0,Male,Los Angeles,Gold,57.0,850.43,Home Goods,2023-08-20 09:39:46.585300,Engineer,15,1
+683,23.0,Female,Phoenix,Bronze,172.0,9010.76,Electronics,2023-03-21 09:39:46.585300,,26,1
+684,47.0,Female,Phoenix,,38.0,8603.19,Clothing,2023-06-25 09:39:46.585300,Manager,24,1
+685,45.0,Other,Chicago,Platinum,77.0,,,2023-07-18 09:39:46.585300,Manager,2,1
+686,36.0,Female,Los Angeles,Platinum,,4062.28,Electronics,2023-12-20 09:39:46.585300,Manager,63,0
+687,52.0,,New York,Platinum,174.0,6073.21,Electronics,2023-06-13 09:39:46.585300,Engineer,38,1
+688,19.0,Male,Philadelphia,Gold,,7368.32,Clothing,2023-03-25 09:39:46.585300,Teacher,26,1
+689,39.0,Other,Philadelphia,Gold,120.0,2378.39,Home Goods,2023-08-04 09:39:46.585300,Engineer,74,1
+690,62.0,Other,Chicago,Bronze,,2684.77,Home Goods,2023-03-12 09:39:46.585300,Artist,47,1
+691,32.0,,Houston,Silver,,6497.74,Home Goods,2023-05-17 09:39:46.585300,Artist,38,1
+692,55.0,Male,New York,Platinum,189.0,6273.89,Clothing,2023-11-23 09:39:46.585300,Engineer,92,0
+693,59.0,Other,Chicago,Gold,,4470.34,Electronics,2023-05-22 09:39:46.585300,Artist,84,1
+694,22.0,Male,Houston,Platinum,61.0,7278.53,Electronics,2023-01-28 09:39:46.585300,Doctor,40,0
+695,67.0,Other,New York,Gold,19.0,1775.91,Home Goods,2023-06-18 09:39:46.585300,Engineer,27,1
+696,68.0,Male,,Bronze,105.0,9262.05,Home Goods,2023-03-09 09:39:46.585300,Teacher,29,1
+697,31.0,Male,Los Angeles,Platinum,35.0,,Clothing,2023-09-16 09:39:46.585300,Artist,19,0
+698,49.0,Other,Houston,Bronze,183.0,2266.76,,2023-06-14 09:39:46.585300,Engineer,24,0
+699,63.0,Male,Los Angeles,Silver,63.0,8536.57,,2023-08-13 09:39:46.585300,Teacher,86,0
+700,41.0,Female,Houston,Platinum,105.0,2293.84,Electronics,2023-06-03 09:39:46.585300,Artist,11,1
+701,54.0,Female,Los Angeles,Silver,92.0,8049.95,Clothing,2023-11-12 09:39:46.585300,Engineer,75,1
+702,53.0,Male,Philadelphia,Gold,,8757.1,Home Goods,2023-10-30 09:39:46.585300,Artist,42,0
+703,29.0,Female,Houston,,,,Electronics,2023-12-10 09:39:46.585300,Engineer,93,0
+704,44.0,Male,,Gold,173.0,1867.51,Home Goods,2023-08-31 09:39:46.585300,Doctor,64,1
+705,45.0,Female,Philadelphia,Gold,138.0,5231.91,Clothing,2023-10-06 09:39:46.585300,Engineer,92,0
+706,38.0,Other,Phoenix,Platinum,152.0,9367.87,Clothing,2023-06-02 09:39:46.585300,Artist,76,0
+707,30.0,Male,Los Angeles,Bronze,145.0,,Electronics,2023-05-29 09:39:46.585300,Manager,43,1
+708,31.0,Male,Philadelphia,Platinum,33.0,5413.3,Home Goods,2023-09-11 09:39:46.585300,Artist,91,1
+709,53.0,Female,Houston,Bronze,43.0,9988.17,Home Goods,2023-12-06 09:39:46.585300,Artist,93,1
+710,43.0,Other,Philadelphia,Gold,7.0,7842.17,Electronics,2023-01-15 09:39:46.585300,Doctor,72,1
+711,69.0,Male,Philadelphia,Bronze,184.0,6615.31,Electronics,2023-06-23 09:39:46.585300,Doctor,29,0
+712,56.0,,Los Angeles,Gold,193.0,4759.39,Clothing,2023-04-27 09:39:46.585300,Manager,8,1
+713,63.0,Male,Los Angeles,Gold,117.0,,Electronics,2023-09-04 09:39:46.585300,,94,1
+714,32.0,Female,Chicago,Gold,,3958.52,Electronics,2023-05-25 09:39:46.585300,Doctor,97,1
+715,64.0,Female,,,81.0,1828.01,Home Goods,2023-06-21 09:39:46.585300,Artist,11,1
+716,60.0,Other,Philadelphia,Silver,158.0,549.03,,2023-04-04 09:39:46.585300,Doctor,68,1
+717,18.0,Female,Los Angeles,Platinum,114.0,,Electronics,2023-07-11 09:39:46.585300,Manager,19,0
+718,29.0,Other,Houston,Platinum,61.0,7986.97,Home Goods,2023-07-15 09:39:46.585300,Teacher,59,1
+719,,Female,Chicago,Platinum,110.0,,Electronics,2023-07-01 09:39:46.585300,Engineer,42,0
+720,32.0,Other,Houston,Gold,62.0,1995.76,Electronics,2023-03-13 09:39:46.585300,,68,0
+721,23.0,,Houston,Silver,82.0,7336.61,Electronics,2023-04-03 09:39:46.585300,Manager,75,1
+722,,,Houston,Platinum,31.0,,Home Goods,2023-08-15 09:39:46.585300,Doctor,87,1
+723,25.0,Female,New York,Platinum,187.0,8482.48,Home Goods,2023-04-10 09:39:46.585300,Teacher,23,0
+724,63.0,Other,Los Angeles,Silver,149.0,2061.0,Home Goods,2023-01-16 09:39:46.585300,Manager,67,1
+725,48.0,Male,New York,Bronze,189.0,4279.86,Clothing,2023-12-09 09:39:46.585300,Artist,52,1
+726,33.0,Other,Los Angeles,Gold,88.0,2378.82,Home Goods,2023-09-16 09:39:46.585300,Doctor,82,0
+727,60.0,Female,Los Angeles,,188.0,4479.58,Electronics,2023-09-19 09:39:46.585300,Manager,51,1
+728,56.0,Female,Chicago,,123.0,9806.04,Home Goods,2023-07-09 09:39:46.585300,Manager,79,1
+729,61.0,Male,New York,,156.0,4837.25,Electronics,2023-03-10 09:39:46.585300,Engineer,71,0
+730,37.0,Female,New York,Gold,,9949.58,Electronics,2023-07-30 09:39:46.585300,Engineer,68,1
+731,26.0,Male,Phoenix,Platinum,71.0,1114.27,,2023-07-20 09:39:46.585300,Teacher,81,1
+732,46.0,Other,Chicago,Bronze,132.0,1822.68,Clothing,2023-10-29 09:39:46.585300,Manager,31,1
+733,21.0,Female,Philadelphia,Platinum,180.0,1363.72,Electronics,2023-05-16 09:39:46.585300,Doctor,89,1
+734,59.0,Male,Los Angeles,,71.0,4138.59,Home Goods,2023-11-06 09:39:46.585300,Manager,41,0
+735,20.0,Male,Los Angeles,Platinum,146.0,7403.76,Home Goods,2023-08-28 09:39:46.585300,,89,1
+736,67.0,,Phoenix,Platinum,68.0,8418.76,Clothing,2023-12-19 09:39:46.585300,Artist,38,1
+737,46.0,Male,Los Angeles,Gold,33.0,5221.4,Home Goods,2023-06-27 09:39:46.585300,,75,1
+738,34.0,Male,New York,Silver,111.0,8575.85,Clothing,2023-01-31 09:39:46.585300,,59,0
+739,54.0,Other,Philadelphia,,73.0,9561.94,Clothing,2023-06-01 09:39:46.585300,Manager,83,1
+740,44.0,Other,,Gold,,145.86,Clothing,2023-05-14 09:39:46.585300,Engineer,81,1
+741,55.0,Other,Phoenix,Platinum,13.0,1743.97,Home Goods,2023-06-28 09:39:46.585300,Manager,22,1
+742,49.0,Male,Los Angeles,Platinum,57.0,1891.78,,2023-08-26 09:39:46.585300,Engineer,8,0
+743,47.0,Female,Los Angeles,Silver,,9914.76,,2023-07-04 09:39:46.585300,Teacher,65,0
+744,68.0,Other,Phoenix,Silver,59.0,9001.17,Home Goods,2023-10-27 09:39:46.585300,Doctor,9,0
+745,64.0,Female,Philadelphia,Bronze,146.0,1139.6,Electronics,2023-05-08 09:39:46.585300,Teacher,53,1
+746,48.0,Other,,Bronze,96.0,,Electronics,2023-02-14 09:39:46.585300,Manager,67,1
+747,,Male,Los Angeles,Platinum,,1866.87,,2023-11-17 09:39:46.585300,Artist,37,0
+748,50.0,Other,Los Angeles,Gold,6.0,3301.07,,2023-04-26 09:39:46.585300,Artist,89,1
+749,30.0,Female,Phoenix,Bronze,139.0,,Home Goods,2023-01-18 09:39:46.585300,,92,0
+750,48.0,Male,Chicago,Platinum,1.0,316.14,Clothing,2023-10-06 09:39:46.585300,Engineer,89,0
+751,58.0,Female,Philadelphia,Gold,94.0,3278.76,,2023-09-03 09:39:46.585300,Doctor,63,0
+752,36.0,Male,New York,,39.0,4667.2,Clothing,2023-04-02 09:39:46.585300,Teacher,90,0
+753,21.0,Female,Los Angeles,Gold,154.0,823.83,Electronics,2023-05-13 09:39:46.585300,Manager,85,1
+754,26.0,Other,Philadelphia,Bronze,111.0,6870.7,Clothing,2023-10-03 09:39:46.585300,Engineer,31,1
+755,70.0,Male,Los Angeles,Gold,69.0,1096.55,Electronics,2023-01-31 09:39:46.585300,Manager,18,1
+756,27.0,Female,Chicago,Platinum,,9639.65,Clothing,2023-12-12 09:39:46.585300,Doctor,39,1
+757,66.0,Male,Los Angeles,Bronze,69.0,8966.53,Electronics,2023-12-22 09:39:46.585300,Doctor,74,1
+758,45.0,Female,Houston,,37.0,594.53,Clothing,2023-07-01 09:39:46.585300,Teacher,22,1
+759,46.0,Female,Philadelphia,Gold,126.0,490.68,Electronics,2023-04-09 09:39:46.585300,Engineer,69,0
+760,20.0,Male,Phoenix,,107.0,8765.15,Clothing,2023-12-17 09:39:46.585300,Doctor,68,1
+761,15.0,Other,Los Angeles,Gold,45.0,967.37,Home Goods,2023-02-28 09:39:46.585300,Engineer,97,1
+762,22.0,Male,Philadelphia,Bronze,10.0,1685.78,Electronics,2023-07-08 09:39:46.585300,Artist,93,0
+763,42.0,Other,Houston,Gold,160.0,,Clothing,2023-04-15 09:39:46.585300,Engineer,44,0
+764,52.0,Female,,Platinum,148.0,2173.23,Electronics,2023-03-22 09:39:46.585300,Artist,54,0
+765,36.0,Male,Phoenix,Bronze,8.0,3456.43,Home Goods,2023-09-05 09:39:46.585300,,20,0
+766,22.0,,Houston,Bronze,29.0,7430.28,Electronics,2023-11-26 09:39:46.585300,Artist,69,1
+767,65.0,Other,Houston,Bronze,22.0,2531.7,Electronics,2023-06-25 09:39:46.585300,,15,1
+768,54.0,Other,Phoenix,Silver,138.0,1254.97,Home Goods,2023-09-07 09:39:46.585300,,36,1
+769,61.0,Male,Chicago,Bronze,134.0,8042.28,Home Goods,2023-12-02 09:39:46.585300,Engineer,29,1
+770,37.0,Male,Chicago,Silver,124.0,449.27,,2023-11-09 09:39:46.585300,Teacher,78,0
+771,43.0,Female,,Platinum,191.0,2800.82,,2023-12-31 09:39:46.585300,Engineer,49,1
+772,25.0,Male,Los Angeles,,79.0,3312.82,Home Goods,2023-03-02 09:39:46.585300,Doctor,41,0
+773,39.0,Male,New York,Gold,,2843.65,Clothing,2023-04-08 09:39:46.585300,Manager,96,1
+774,23.0,Male,Los Angeles,Platinum,83.0,8952.82,Electronics,2023-01-11 09:39:46.585300,Doctor,90,1
+775,47.0,Female,Houston,Silver,5.0,1265.34,Clothing,2023-05-16 09:39:46.585300,,64,0
+776,68.0,Other,New York,Silver,74.0,622.46,Clothing,2023-09-16 09:39:46.585300,Engineer,25,0
+777,23.0,Male,Houston,Gold,43.0,1247.68,Home Goods,2023-04-30 09:39:46.585300,Artist,26,1
+778,,Male,Houston,,112.0,1134.13,Home Goods,2023-12-20 09:39:46.585300,Doctor,15,1
+779,,Female,Phoenix,,120.0,376.91,Clothing,2023-10-13 09:39:46.585300,Engineer,6,0
+780,45.0,Male,Philadelphia,Bronze,131.0,2728.58,,2023-08-12 09:39:46.585300,Artist,36,1
+781,55.0,Other,,Platinum,67.0,7758.81,Home Goods,2023-06-02 09:39:46.585300,Doctor,15,1
+782,53.0,Female,Chicago,Platinum,111.0,428.92,Electronics,2023-12-13 09:39:46.585300,Engineer,7,0
+783,24.0,Female,Chicago,Bronze,194.0,8357.51,Electronics,2023-11-28 09:39:46.585300,Manager,36,1
+784,64.0,Male,,Platinum,93.0,4716.32,Electronics,2023-10-02 09:39:46.585300,Manager,71,1
+785,,Male,New York,Bronze,80.0,9149.09,Home Goods,2023-08-31 09:39:46.585300,Manager,93,1
+786,54.0,Other,Chicago,Silver,78.0,4783.98,Clothing,2023-01-22 09:39:46.585300,Manager,97,0
+787,30.0,Female,Phoenix,Silver,122.0,,Clothing,2023-10-04 09:39:46.585300,Doctor,70,1
+788,40.0,Female,Los Angeles,Bronze,147.0,8793.59,Electronics,2023-11-10 09:39:46.585300,Teacher,22,0
+789,,,,Bronze,71.0,969.28,Home Goods,2023-08-20 09:39:46.585300,Doctor,25,1
+790,33.0,Female,Los Angeles,Platinum,73.0,9094.15,Home Goods,2023-04-27 09:39:46.585300,Artist,99,1
+791,52.0,Female,New York,Gold,57.0,4757.67,Electronics,2023-07-30 09:39:46.585300,,38,0
+792,62.0,Other,Phoenix,Silver,196.0,4860.66,Home Goods,2023-02-23 09:39:46.585300,,73,0
+793,68.0,Other,,Silver,122.0,6242.04,,2023-03-14 09:39:46.585300,Manager,73,0
+794,26.0,Other,New York,Bronze,35.0,8759.16,Home Goods,2023-04-29 09:39:46.585300,Manager,64,1
+795,45.0,Female,Philadelphia,Silver,16.0,7219.37,Clothing,2023-05-19 09:39:46.585300,Engineer,32,1
+796,40.0,Other,Phoenix,Bronze,122.0,7036.42,Home Goods,2023-07-13 09:39:46.585300,Engineer,44,1
+797,64.0,Female,Houston,Bronze,29.0,1286.55,Electronics,2023-05-29 09:39:46.585300,Manager,37,1
+798,54.0,Other,Chicago,Bronze,109.0,5674.59,Clothing,2023-07-12 09:39:46.585300,,92,0
+799,39.0,Male,Houston,,163.0,5589.11,Electronics,2023-10-25 09:39:46.585300,,74,1
+800,33.0,Male,New York,Platinum,,5158.45,Electronics,2023-09-27 09:39:46.585300,Teacher,22,1
+801,,Female,,Silver,95.0,421.41,Clothing,2023-10-29 09:39:46.585300,Manager,72,1
+802,64.0,Other,Philadelphia,Platinum,105.0,7693.1,,2023-09-13 09:39:46.585300,Doctor,69,0
+803,55.0,Male,Houston,Platinum,16.0,3304.57,Home Goods,2023-11-22 09:39:46.585300,Doctor,81,1
+804,19.0,Female,Phoenix,Silver,198.0,4423.3,Electronics,2023-08-26 09:39:46.585300,Manager,19,0
+805,24.0,Male,Phoenix,Silver,102.0,8825.01,Electronics,2023-05-25 09:39:46.585300,Doctor,56,0
+806,23.0,Male,Chicago,Silver,170.0,9320.76,Clothing,2023-12-15 09:39:46.585300,Manager,27,1
+807,31.0,,New York,Platinum,18.0,214.45,Electronics,2023-05-23 09:39:46.585300,Doctor,50,1
+808,44.0,Male,Chicago,Bronze,23.0,8410.85,Clothing,2023-06-19 09:39:46.585300,Manager,84,1
+809,28.0,Male,,Bronze,180.0,7637.5,Home Goods,2023-11-15 09:39:46.585300,Manager,78,1
+810,32.0,Female,Phoenix,Platinum,189.0,9589.15,Electronics,2023-05-15 09:39:46.585300,Engineer,86,0
+811,,Female,Philadelphia,Silver,57.0,9570.92,Clothing,2023-04-12 09:39:46.585300,Engineer,86,0
+812,25.0,Female,,Silver,7.0,9645.0,Home Goods,2023-07-24 09:39:46.585300,Artist,13,0
+813,63.0,Male,Los Angeles,Gold,171.0,8062.18,Home Goods,2023-12-30 09:39:46.585300,Engineer,6,1
+814,22.0,Other,Chicago,Platinum,177.0,,Home Goods,2023-01-23 09:39:46.585300,Manager,95,0
+815,,,,Gold,107.0,1546.26,,2023-07-27 09:39:46.585300,Artist,31,0
+816,59.0,Other,Philadelphia,Platinum,183.0,5716.85,Clothing,2023-07-17 09:39:46.585300,Artist,8,1
+817,20.0,Other,New York,Gold,189.0,8012.82,Clothing,2023-12-23 09:39:46.585300,Teacher,74,1
+818,28.0,Male,Houston,Gold,,1974.87,Clothing,2023-01-28 09:39:46.585300,Engineer,16,1
+819,69.0,Female,Chicago,Silver,121.0,3515.38,Home Goods,2023-12-21 09:39:46.585300,Artist,69,0
+820,45.0,Male,Chicago,Platinum,87.0,1429.76,Home Goods,2023-02-09 09:39:46.585300,Engineer,80,1
+821,42.0,Female,Houston,Silver,,6251.35,,2023-09-27 09:39:46.585300,Teacher,72,1
+822,21.0,Female,New York,Gold,30.0,2155.78,Clothing,2023-07-08 09:39:46.585300,Teacher,74,0
+823,34.0,Other,Philadelphia,Bronze,173.0,7650.21,,2023-05-30 09:39:46.585300,Manager,65,0
+824,35.0,Male,Philadelphia,Silver,9.0,6873.86,Home Goods,2023-01-18 09:39:46.585300,Teacher,6,0
+825,23.0,,Philadelphia,Bronze,112.0,7459.8,Electronics,2023-08-01 09:39:46.585300,Teacher,12,1
+826,22.0,Male,New York,Gold,,,Clothing,2023-02-17 09:39:46.585300,Engineer,64,1
+827,36.0,Other,Philadelphia,Silver,,160.33,Electronics,2023-11-15 09:39:46.585300,Manager,68,0
+828,24.0,Female,Los Angeles,Silver,104.0,1227.81,Clothing,2023-08-03 09:39:46.585300,Manager,63,0
+829,,,Phoenix,Silver,85.0,2658.49,Home Goods,2023-10-14 09:39:46.585300,Manager,57,0
+830,40.0,Female,New York,Silver,54.0,7610.36,Home Goods,2023-12-24 09:39:46.585300,Manager,61,1
+831,22.0,Male,New York,Bronze,173.0,6854.3,Home Goods,2023-11-27 09:39:46.585300,Artist,63,1
+832,22.0,Female,Los Angeles,Bronze,92.0,1705.21,Home Goods,2023-02-19 09:39:46.585300,Doctor,37,0
+833,57.0,Male,Houston,Platinum,198.0,5230.81,Clothing,2023-05-02 09:39:46.585300,Manager,2,0
+834,55.0,Other,Philadelphia,Gold,85.0,291.55,Home Goods,2023-05-24 09:39:46.585300,Doctor,43,0
+835,66.0,Other,New York,Platinum,34.0,4317.31,Home Goods,2023-12-18 09:39:46.585300,Doctor,95,1
+836,43.0,Other,New York,,77.0,7716.31,Electronics,2023-07-13 09:39:46.585300,,5,0
+837,51.0,,Chicago,Silver,177.0,1487.81,Home Goods,2023-10-23 09:39:46.585300,Doctor,57,1
+838,36.0,Male,Phoenix,Bronze,9.0,5544.99,Home Goods,2023-10-17 09:39:46.585300,Engineer,18,0
+839,51.0,Female,Houston,Gold,171.0,7613.4,Electronics,2023-09-30 09:39:46.585300,,7,1
+840,30.0,Female,Chicago,Platinum,10.0,6968.03,Clothing,2023-08-17 09:39:46.585300,,98,1
+841,65.0,Female,Phoenix,,183.0,,Clothing,2023-11-20 09:39:46.585300,Teacher,51,1
+842,25.0,Male,Houston,Platinum,140.0,9421.59,,2023-06-10 09:39:46.585300,Manager,77,0
+843,,Male,Philadelphia,,187.0,8011.01,Clothing,2023-10-22 09:39:46.585300,Doctor,61,0
+844,64.0,Female,Phoenix,Platinum,24.0,1924.34,Clothing,2023-03-29 09:39:46.585300,Teacher,54,0
+845,65.0,Female,Houston,Silver,3.0,7840.23,Clothing,2023-06-13 09:39:46.585300,,19,0
+846,51.0,Male,New York,Gold,,2653.48,Clothing,2023-08-31 09:39:46.585300,Doctor,99,0
+847,35.0,Female,Houston,Silver,,9063.63,Clothing,2023-10-28 09:39:46.585300,Engineer,19,0
+848,46.0,Male,Philadelphia,Bronze,152.0,8511.13,,2023-08-27 09:39:46.585300,Teacher,82,0
+849,31.0,Other,Los Angeles,Bronze,90.0,6410.54,Clothing,2023-10-23 09:39:46.585300,Engineer,95,0
+850,62.0,Other,Philadelphia,Platinum,35.0,6573.73,Home Goods,2023-10-22 09:39:46.585300,Engineer,15,1
+851,51.0,Female,Philadelphia,Gold,106.0,826.44,Home Goods,2023-07-28 09:39:46.585300,,85,0
+852,52.0,Male,,,118.0,3423.09,Electronics,2023-05-01 09:39:46.585300,Manager,49,0
+853,70.0,Male,Los Angeles,Platinum,,8890.95,Home Goods,2023-05-13 09:39:46.585300,Engineer,19,1
+854,40.0,Female,Philadelphia,Silver,116.0,3188.67,Home Goods,2023-02-18 09:39:46.585300,Manager,62,1
+855,43.0,Female,Phoenix,Platinum,184.0,3058.86,Clothing,2023-05-10 09:39:46.585300,Artist,20,1
+856,66.0,Male,,Bronze,180.0,4653.25,Home Goods,2023-07-04 09:39:46.585300,Manager,35,1
+857,69.0,Other,Phoenix,Silver,,1950.01,Electronics,2023-03-26 09:39:46.585300,Teacher,49,1
+858,61.0,Female,Los Angeles,Silver,110.0,8763.37,Clothing,2023-10-17 09:39:46.585300,Artist,10,0
+859,60.0,Male,Houston,Gold,124.0,7858.12,Electronics,2023-11-07 09:39:46.585300,Artist,39,0
+860,64.0,Other,,Gold,31.0,1391.95,Home Goods,2023-10-01 09:39:46.585300,Teacher,12,0
+861,20.0,Female,Philadelphia,Platinum,121.0,3280.87,Home Goods,2023-02-27 09:39:46.585300,,13,0
+862,31.0,Other,,Gold,76.0,1565.65,Clothing,2023-01-19 09:39:46.585300,Doctor,20,1
+863,27.0,Other,Chicago,Silver,193.0,3926.26,Home Goods,2023-04-13 09:39:46.585300,Manager,62,1
+864,36.0,Female,Chicago,Silver,147.0,6568.95,Home Goods,2023-03-02 09:39:46.585300,Doctor,59,0
+865,,Male,Houston,Platinum,67.0,2678.6,Home Goods,2023-07-09 09:39:46.585300,Engineer,50,1
+866,26.0,,Philadelphia,,76.0,7663.25,Electronics,2023-01-18 09:39:46.585300,Artist,62,1
+867,20.0,Male,Phoenix,Bronze,31.0,9654.49,,2023-04-07 09:39:46.585300,Teacher,69,0
+868,64.0,Other,Houston,Silver,,6152.62,Clothing,2023-01-12 09:39:46.585300,Doctor,84,0
+869,31.0,Other,Houston,Silver,193.0,3386.31,Electronics,2023-06-26 09:39:46.585300,Teacher,59,1
+870,57.0,,New York,,71.0,7354.57,Clothing,2023-11-06 09:39:46.585300,Teacher,93,0
+871,63.0,Female,Phoenix,Platinum,13.0,2712.79,Electronics,2023-09-28 09:39:46.585300,Teacher,45,0
+872,66.0,Female,Philadelphia,Silver,151.0,8866.57,Clothing,2023-01-28 09:39:46.585300,Artist,70,0
+873,64.0,Female,,Bronze,18.0,7648.33,Clothing,2023-07-24 09:39:46.585300,Manager,58,0
+874,35.0,Other,New York,Silver,53.0,,Electronics,2023-08-11 09:39:46.585300,Manager,89,0
+875,69.0,Female,Chicago,,48.0,7345.48,Home Goods,2023-08-27 09:39:46.585300,Engineer,36,1
+876,67.0,Female,Phoenix,Bronze,37.0,104.69,Electronics,2023-08-24 09:39:46.585300,,45,0
+877,26.0,Other,Los Angeles,Bronze,179.0,,Electronics,2023-02-05 09:39:46.585300,Artist,67,1
+878,42.0,Other,Los Angeles,Gold,145.0,7434.35,Electronics,2023-10-03 09:39:46.585300,Artist,21,1
+879,,Other,Los Angeles,,113.0,3841.82,Clothing,2023-02-11 09:39:46.585300,Doctor,70,0
+880,65.0,Male,Chicago,Bronze,27.0,779.54,Electronics,2023-01-12 09:39:46.585300,Engineer,70,1
+881,46.0,Female,Los Angeles,Bronze,76.0,4360.88,Home Goods,2023-05-04 09:39:46.585300,Doctor,92,1
+882,20.0,Female,New York,Silver,170.0,,Clothing,2023-07-31 09:39:46.585300,Teacher,41,0
+883,30.0,Other,Phoenix,Bronze,10.0,1435.26,Clothing,2023-06-21 09:39:46.585300,Manager,38,1
+884,38.0,Other,New York,Bronze,,2636.77,,2023-02-06 09:39:46.585300,Teacher,8,0
+885,59.0,Male,Phoenix,Gold,67.0,,Home Goods,2023-04-13 09:39:46.585300,Manager,84,1
+886,17.0,,New York,Silver,63.0,6109.5,Home Goods,2023-02-28 09:39:46.585300,Doctor,16,0
+887,39.0,Other,New York,Silver,42.0,8996.22,Clothing,2023-03-25 09:39:46.585300,Engineer,0,1
+888,35.0,Male,Houston,Platinum,127.0,4131.58,,2023-05-05 09:39:46.585300,,39,1
+889,,Female,Philadelphia,Platinum,148.0,7014.91,Clothing,2023-05-24 09:39:46.585300,Manager,69,1
+890,67.0,Other,Chicago,Gold,120.0,,,2023-02-19 09:39:46.585300,Artist,86,1
+891,46.0,Female,New York,Gold,148.0,9362.04,Home Goods,2023-02-17 09:39:46.585300,Teacher,78,0
+892,43.0,Male,,Platinum,96.0,8647.1,Electronics,2023-08-02 09:39:46.585300,Doctor,38,1
+893,40.0,Female,Chicago,Platinum,174.0,,Electronics,2023-01-28 09:39:46.585300,Artist,12,1
+894,66.0,Male,Philadelphia,Bronze,125.0,9544.24,Electronics,2023-01-28 09:39:46.585300,Doctor,79,0
+895,19.0,Other,Houston,,130.0,9692.86,Clothing,2023-09-10 09:39:46.585300,Teacher,60,0
+896,56.0,Male,New York,Gold,43.0,9115.21,Home Goods,2023-04-24 09:39:46.585300,Artist,47,1
+897,28.0,Other,New York,Gold,102.0,9589.75,Clothing,2023-06-11 09:39:46.585300,Teacher,86,0
+898,19.0,Male,,Bronze,14.0,2836.5,Home Goods,2023-06-09 09:39:46.585300,Engineer,3,0
+899,61.0,Female,Los Angeles,Gold,61.0,6929.92,,2023-09-24 09:39:46.585300,Manager,54,0
+900,61.0,Other,Philadelphia,Silver,111.0,8365.05,Clothing,2023-08-11 09:39:46.585300,Artist,63,1
+901,42.0,Male,Chicago,Gold,,9557.13,Electronics,2023-05-23 09:39:46.585300,Teacher,18,1
+902,53.0,,Houston,,20.0,2193.18,Clothing,2023-11-12 09:39:46.585300,Manager,41,0
+903,44.0,Female,Chicago,,108.0,8520.14,Home Goods,2023-08-10 09:39:46.585300,Manager,11,1
+904,23.0,Male,New York,Silver,64.0,3781.73,Electronics,2023-12-20 09:39:46.585300,Engineer,10,0
+905,59.0,Female,Los Angeles,,74.0,6107.64,Electronics,2024-01-02 09:39:46.585300,Engineer,17,1
+906,28.0,,New York,Gold,25.0,3543.99,Clothing,2023-04-18 09:39:46.585300,Manager,78,1
+907,30.0,Female,Phoenix,Bronze,,8002.86,Electronics,2023-06-12 09:39:46.585300,Engineer,57,0
+908,57.0,,Los Angeles,Bronze,163.0,370.78,Electronics,2023-10-20 09:39:46.585300,Doctor,83,1
+909,52.0,Male,Houston,Silver,109.0,4110.86,Electronics,2023-08-20 09:39:46.585300,Doctor,92,0
+910,57.0,,Houston,Platinum,108.0,3677.95,Electronics,2023-11-10 09:39:46.585300,Doctor,88,1
+911,59.0,,Chicago,Silver,168.0,6470.03,Home Goods,2023-08-27 09:39:46.585300,Manager,58,0
+912,,Other,Chicago,Platinum,,1961.49,Home Goods,2023-03-15 09:39:46.585300,Doctor,85,0
+913,,Other,Los Angeles,Platinum,34.0,6647.94,,2023-02-15 09:39:46.585300,Manager,2,0
+914,44.0,Female,,Gold,77.0,3116.32,Electronics,2023-08-07 09:39:46.585300,Artist,44,0
+915,53.0,Female,Los Angeles,Gold,,210.48,Clothing,2023-09-22 09:39:46.585300,Engineer,7,1
+916,43.0,,Phoenix,Bronze,164.0,9886.55,Home Goods,2023-10-21 09:39:46.585300,Teacher,69,0
+917,68.0,,Philadelphia,Silver,154.0,7869.94,Clothing,2023-08-02 09:39:46.585300,Teacher,72,0
+918,41.0,Male,Los Angeles,Platinum,28.0,9852.54,Clothing,2023-09-29 09:39:46.585300,Artist,55,0
+919,35.0,,Philadelphia,Bronze,60.0,9492.77,,2023-12-11 09:39:46.585300,Engineer,45,1
+920,39.0,,Los Angeles,Bronze,75.0,4832.36,Home Goods,2023-04-04 09:39:46.585300,Doctor,98,0
+921,46.0,Female,Philadelphia,Platinum,157.0,3055.27,Clothing,2023-12-10 09:39:46.585300,Teacher,12,1
+922,47.0,Other,Phoenix,Gold,3.0,8953.79,,2023-03-31 09:39:46.585300,Manager,30,0
+923,24.0,Male,New York,Platinum,12.0,297.66,Home Goods,2023-03-15 09:39:46.585300,Teacher,66,1
+924,34.0,Female,Phoenix,Silver,13.0,2153.04,Clothing,2023-07-21 09:39:46.585300,Artist,82,0
+925,41.0,Female,Los Angeles,Gold,63.0,5528.83,Electronics,2023-03-28 09:39:46.585300,Doctor,17,1
+926,44.0,Female,Chicago,Platinum,118.0,2036.79,Home Goods,2024-01-02 09:39:46.585300,Engineer,56,1
+927,57.0,Male,Houston,Gold,,,Clothing,2023-08-30 09:39:46.585300,Manager,71,1
+928,60.0,Other,New York,Platinum,147.0,5981.87,Clothing,2023-04-17 09:39:46.585300,Engineer,35,0
+929,47.0,Female,New York,Bronze,138.0,8886.89,Clothing,2023-02-01 09:39:46.585300,Manager,12,0
+930,43.0,Female,Phoenix,Bronze,122.0,8328.86,Home Goods,2023-08-22 09:39:46.585300,,42,1
+931,35.0,Other,Chicago,Silver,59.0,7904.88,Clothing,2023-02-20 09:39:46.585300,Engineer,62,1
+932,22.0,Other,Los Angeles,Platinum,40.0,6121.31,Electronics,2023-08-20 09:39:46.585300,Engineer,20,1
+933,,Other,,Bronze,191.0,7782.58,,2023-02-24 09:39:46.585300,Engineer,1,1
+934,,Female,Phoenix,Bronze,65.0,1716.69,Home Goods,2023-03-16 09:39:46.585300,Artist,7,1
+935,63.0,Female,New York,Gold,,8373.76,Electronics,2023-12-26 09:39:46.585300,Engineer,54,0
+936,19.0,Female,Los Angeles,Gold,181.0,3141.31,,2023-01-21 09:39:46.585300,Engineer,79,1
+937,27.0,Other,Phoenix,Silver,192.0,,Home Goods,2023-08-11 09:39:46.585300,Artist,29,1
+938,21.0,Female,Houston,Bronze,78.0,3962.51,Home Goods,2023-05-22 09:39:46.585300,Manager,68,0
+939,24.0,Male,Houston,Bronze,,1033.57,Clothing,2023-02-21 09:39:46.585300,Teacher,12,1
+940,43.0,Female,Houston,Bronze,67.0,,Clothing,2023-09-06 09:39:46.585300,Doctor,71,0
+941,52.0,Other,Philadelphia,Platinum,149.0,,Electronics,2023-08-23 09:39:46.585300,Manager,71,1
+942,24.0,Male,,Gold,132.0,1659.9,Clothing,2023-09-21 09:39:46.585300,Engineer,51,1
+943,38.0,Other,New York,Platinum,9.0,9141.3,,2023-04-16 09:39:46.585300,,12,0
+944,53.0,,Chicago,,68.0,1097.33,Electronics,2023-03-28 09:39:46.585300,Engineer,68,1
+945,69.0,Male,Chicago,Gold,198.0,8035.7,Home Goods,2023-09-26 09:39:46.585300,Engineer,10,1
+946,67.0,Female,Houston,Gold,15.0,7950.92,Electronics,2023-04-26 09:39:46.585300,Manager,63,0
+947,58.0,Other,Phoenix,Bronze,187.0,8720.08,Clothing,2023-06-14 09:39:46.585300,Doctor,59,0
+948,38.0,Female,Houston,Silver,162.0,2681.54,Home Goods,2023-05-24 09:39:46.585300,Engineer,95,1
+949,60.0,Female,Los Angeles,Platinum,106.0,9780.95,Home Goods,2023-09-29 09:39:46.585300,Doctor,13,1
+950,18.0,Other,Los Angeles,Silver,71.0,4517.16,Clothing,2023-09-01 09:39:46.585300,Teacher,88,1
+951,55.0,Other,Houston,Platinum,46.0,5434.1,Electronics,2023-09-04 09:39:46.585300,Doctor,87,0
+952,63.0,Female,Phoenix,Platinum,99.0,2470.1,Home Goods,2023-03-18 09:39:46.585300,Artist,44,1
+953,60.0,Other,Chicago,Bronze,,,Home Goods,2023-01-17 09:39:46.585300,Manager,10,0
+954,21.0,,Houston,Bronze,11.0,3799.45,Home Goods,2023-07-08 09:39:46.585300,Teacher,85,0
+955,51.0,Female,Phoenix,Bronze,,9435.01,Home Goods,2023-12-27 09:39:46.585300,Teacher,6,0
+956,,Male,Phoenix,Gold,,986.54,Electronics,2023-08-31 09:39:46.585300,Teacher,84,1
+957,33.0,Female,Los Angeles,Gold,82.0,6232.17,Electronics,2023-10-16 09:39:46.585300,Manager,44,0
+958,51.0,Female,Chicago,Silver,95.0,3241.13,Electronics,2023-05-01 09:39:46.585300,Manager,4,1
+959,43.0,Other,Phoenix,Bronze,22.0,6561.84,Clothing,2023-07-12 09:39:46.585300,Teacher,95,0
+960,28.0,Male,Houston,Gold,111.0,9767.91,Clothing,2023-10-25 09:39:46.585300,Artist,95,1
+961,23.0,Male,Philadelphia,,2.0,2318.34,Home Goods,2023-04-24 09:39:46.585300,Teacher,92,0
+962,55.0,Male,Philadelphia,Platinum,122.0,9669.29,Electronics,2023-09-22 09:39:46.585300,Doctor,16,0
+963,19.0,Female,Phoenix,Platinum,39.0,768.84,Electronics,2023-02-27 09:39:46.585300,Artist,65,1
+964,26.0,,Houston,Silver,6.0,9532.92,Home Goods,2023-03-13 09:39:46.585300,Engineer,96,1
+965,25.0,Male,Phoenix,Silver,,6950.08,Clothing,2023-11-17 09:39:46.585300,,66,1
+966,24.0,Other,Los Angeles,Platinum,189.0,202.15,,2023-05-22 09:39:46.585300,Artist,29,1
+967,54.0,Other,Chicago,Gold,175.0,,Clothing,2023-12-11 09:39:46.585300,Manager,74,1
+968,56.0,Female,Phoenix,Silver,69.0,2273.68,Home Goods,2023-08-31 09:39:46.585300,Manager,24,0
+969,30.0,Female,Phoenix,Bronze,80.0,7405.41,Electronics,2023-04-18 09:39:46.585300,Teacher,8,0
+970,66.0,Female,Los Angeles,Platinum,21.0,3469.05,Clothing,2023-01-23 09:39:46.585300,Artist,47,1
+971,39.0,Other,Phoenix,Gold,177.0,,,2023-08-11 09:39:46.585300,Doctor,94,0
+972,,Male,New York,Silver,76.0,6031.82,Clothing,2023-03-01 09:39:46.585300,,25,1
+973,67.0,Male,New York,Platinum,190.0,7304.01,Electronics,2023-08-07 09:39:46.585300,Doctor,9,0
+974,69.0,Male,,Platinum,146.0,2050.08,Clothing,2023-08-23 09:39:46.585300,Artist,72,0
+975,20.0,Other,Phoenix,Gold,86.0,6684.8,Clothing,2023-05-16 09:39:46.585300,Artist,67,1
+976,,Other,Houston,Silver,184.0,6424.95,Electronics,2023-07-01 09:39:46.585300,Teacher,42,0
+977,47.0,Other,,Bronze,,9156.66,Home Goods,2023-01-17 09:39:46.585300,Engineer,13,0
+978,28.0,Other,Los Angeles,Bronze,50.0,1155.77,Clothing,2023-01-12 09:39:46.585300,,31,0
+979,69.0,Male,Chicago,Silver,114.0,4600.63,Clothing,2023-12-22 09:39:46.585300,Manager,46,1
+980,27.0,Male,Chicago,Platinum,49.0,5665.12,Electronics,2023-05-29 09:39:46.585300,Artist,21,0
+981,24.0,Other,Houston,Silver,10.0,5808.71,Home Goods,2023-06-01 09:39:46.585300,Teacher,0,1
+982,61.0,Other,New York,Bronze,,,Clothing,2023-04-11 09:39:46.585300,Engineer,67,0
+983,18.0,Male,Philadelphia,,179.0,,Electronics,2023-01-22 09:39:46.585300,Artist,58,1
+984,59.0,Female,Philadelphia,Platinum,80.0,4065.2,Clothing,2023-09-18 09:39:46.585300,Teacher,70,1
+985,33.0,Female,Phoenix,Platinum,173.0,1811.45,,2023-07-01 09:39:46.585300,Teacher,76,1
+986,30.0,Other,Chicago,Gold,23.0,6004.32,Home Goods,2023-06-03 09:39:46.585300,Artist,88,1
+987,66.0,Other,Houston,Platinum,14.0,8728.9,,2023-09-19 09:39:46.585300,Engineer,53,1
+988,28.0,Female,Phoenix,Gold,116.0,4825.87,,2023-03-01 09:39:46.585300,Teacher,15,1
+989,39.0,,Los Angeles,Gold,56.0,,Electronics,2023-06-08 09:39:46.585300,Doctor,4,0
+990,37.0,Female,Houston,Silver,142.0,,Electronics,2023-02-25 09:39:46.585300,Manager,56,0
+991,,Male,New York,Bronze,,2489.46,Electronics,2023-01-31 09:39:46.585300,Engineer,9,1
+992,30.0,Male,Phoenix,Gold,146.0,3655.81,Electronics,2023-07-30 09:39:46.585300,,29,0
+993,47.0,Other,Phoenix,Platinum,,8940.88,Home Goods,2023-09-07 09:39:46.585300,Engineer,29,1
+994,49.0,Female,Chicago,Silver,,3516.44,Electronics,2023-06-04 09:39:46.585300,Teacher,26,1
+995,,Other,Chicago,Bronze,124.0,527.82,Home Goods,2023-11-12 09:39:46.585300,Artist,4,1
+996,58.0,Other,Philadelphia,Gold,191.0,3268.83,Home Goods,2023-04-02 09:39:46.585300,Manager,27,1
+997,,Male,Houston,Platinum,48.0,7535.55,Electronics,2023-03-17 09:39:46.585300,Artist,29,0
+998,23.0,Female,Philadelphia,Platinum,84.0,1966.96,Home Goods,2023-12-24 09:39:46.585300,Artist,16,0
+999,54.0,Female,New York,,150.0,5095.26,Home Goods,2023-05-15 09:39:46.585300,Engineer,14,0
+1000,67.0,Other,Philadelphia,Silver,40.0,6020.17,Electronics,2023-05-27 09:39:46.585300,Doctor,4,1
+1001,58.0,Male,Chicago,Gold,35.0,8524.42,Electronics,2023-04-18 09:39:46.585300,Teacher,73,0
+1002,43.0,Female,Phoenix,Platinum,41.0,8807.75,Home Goods,2023-06-30 09:39:46.585300,Engineer,78,0
+1003,,Female,Philadelphia,,172.0,3039.46,Home Goods,2023-04-04 09:39:46.585300,Manager,11,0
+1004,23.0,Other,Houston,Platinum,182.0,9135.08,Clothing,2023-08-31 09:39:46.585300,Teacher,23,1
+1005,33.0,Male,,Bronze,94.0,7671.45,Clothing,2023-08-10 09:39:46.585300,Artist,88,0
+1006,57.0,Female,New York,,137.0,3460.4,Electronics,2023-08-15 09:39:46.585300,Artist,21,0
+1007,55.0,Male,Chicago,Platinum,118.0,8736.04,Home Goods,2023-02-04 09:39:46.585300,Doctor,65,0
+1008,67.0,Other,Chicago,,188.0,100.62,Electronics,2023-12-30 09:39:46.585300,Engineer,32,0
+1009,48.0,Other,Philadelphia,Gold,173.0,1574.27,Electronics,2023-08-23 09:39:46.585300,Manager,76,0
+1010,50.0,Female,,Bronze,28.0,4540.71,Home Goods,2023-10-07 09:39:46.585300,Artist,0,1
+1011,66.0,Male,,Platinum,74.0,,Home Goods,2023-08-02 09:39:46.585300,Teacher,95,0
+1012,34.0,Female,,,3.0,1251.91,Home Goods,2023-12-13 09:39:46.585300,Artist,36,0
+1013,,,New York,Platinum,131.0,4434.76,Clothing,2023-11-24 09:39:46.585300,Engineer,27,0
+1014,29.0,Male,Los Angeles,Gold,31.0,7440.22,Clothing,2023-09-08 09:39:46.585300,Teacher,4,1
+1015,30.0,Other,New York,Gold,7.0,1573.43,Home Goods,2023-01-22 09:39:46.585300,Engineer,60,0
+1016,,Male,Houston,Platinum,140.0,8753.82,Home Goods,2023-09-06 09:39:46.585300,Artist,54,0
+1017,16.0,Male,Phoenix,Silver,,6541.96,,2023-04-18 09:39:46.585300,,38,1
+1018,,Female,Los Angeles,Platinum,133.0,9080.33,Home Goods,2023-11-19 09:39:46.585300,Artist,50,0
+1019,44.0,Other,Los Angeles,Gold,21.0,9791.88,Home Goods,2023-05-09 09:39:46.585300,Engineer,34,1
+1020,56.0,Other,Philadelphia,Bronze,156.0,2860.87,Clothing,2023-09-28 09:39:46.585300,Doctor,67,0
+1021,41.0,Female,Los Angeles,,70.0,6111.73,Home Goods,2023-07-14 09:39:46.585300,Engineer,83,0
+1022,,Female,Houston,,108.0,7521.76,,2023-03-13 09:39:46.585300,Engineer,53,0
+1023,23.0,Other,Philadelphia,Gold,123.0,7959.52,Electronics,2023-07-08 09:39:46.585300,Engineer,61,0
+1024,54.0,Female,Philadelphia,Platinum,169.0,9029.65,Clothing,2023-08-02 09:39:46.585300,Doctor,83,0
+1025,36.0,Male,New York,Platinum,127.0,241.76,Electronics,2023-05-16 09:39:46.585300,,4,0
+1026,54.0,Male,Philadelphia,Platinum,161.0,3606.88,Home Goods,2023-08-27 09:39:46.585300,Manager,89,0
+1027,25.0,Female,Philadelphia,Gold,132.0,4806.65,Electronics,2023-05-14 09:39:46.585300,Artist,85,0
+1028,46.0,Male,,Platinum,62.0,4758.68,Electronics,2023-05-13 09:39:46.585300,Teacher,99,1
+1029,30.0,Female,Philadelphia,Gold,77.0,3427.52,Home Goods,2023-05-29 09:39:46.585300,Engineer,36,0
+1030,44.0,Other,Houston,Bronze,174.0,9666.94,Home Goods,2023-10-10 09:39:46.585300,,93,0
+1031,67.0,Female,Houston,Gold,136.0,659.72,Clothing,2023-09-23 09:39:46.585300,Doctor,18,0
+1032,37.0,Other,Philadelphia,Bronze,45.0,7863.86,Clothing,2023-06-12 09:39:46.585300,,1,1
+1033,30.0,Female,Houston,Gold,155.0,2827.48,Electronics,2023-12-25 09:39:46.585300,Doctor,59,1
+1034,,Female,Chicago,Platinum,108.0,3890.64,Electronics,2023-07-10 09:39:46.585300,Artist,26,0
+1035,25.0,Male,Philadelphia,Gold,14.0,1491.55,Clothing,2023-12-24 09:39:46.585300,Engineer,29,1
+1036,,Male,Houston,Platinum,93.0,6358.51,Home Goods,2023-06-17 09:39:46.585300,Artist,24,1
+1037,47.0,Male,Chicago,Platinum,153.0,2651.02,Home Goods,2023-12-20 09:39:46.585300,Engineer,54,0
+1038,17.0,Male,Los Angeles,,91.0,2795.87,Clothing,2023-01-30 09:39:46.585300,Engineer,66,1
+1039,40.0,Female,New York,Platinum,29.0,5811.31,,2023-02-25 09:39:46.585300,Engineer,49,1
+1040,32.0,,Houston,,8.0,3004.46,Home Goods,2023-07-15 09:39:46.585300,Artist,91,0
+1041,27.0,Female,Chicago,Platinum,2.0,9868.35,Electronics,2023-09-18 09:39:46.585300,Manager,50,1
+1042,22.0,Female,,Bronze,133.0,9835.61,Electronics,2024-01-05 09:39:46.585300,Artist,93,0
+1043,21.0,Other,Phoenix,,187.0,6929.36,Clothing,2023-05-04 09:39:46.585300,Teacher,75,0
+1044,35.0,Female,New York,Platinum,118.0,,Electronics,2023-06-15 09:39:46.585300,Engineer,54,1
+1045,65.0,Male,Philadelphia,Platinum,179.0,5401.35,Clothing,2023-01-10 09:39:46.585300,Teacher,0,1
+1046,27.0,Other,Phoenix,Gold,196.0,,Electronics,2023-02-14 09:39:46.585300,Teacher,72,1
+1047,37.0,Other,New York,Silver,,,Home Goods,2023-11-14 09:39:46.585300,Engineer,91,1
+1048,56.0,Other,Houston,Silver,,782.36,Home Goods,2023-05-01 09:39:46.585300,Doctor,8,0
+1049,66.0,Female,Philadelphia,Platinum,,4021.15,Electronics,2023-04-19 09:39:46.585300,Manager,38,1
+1050,,Male,Chicago,,196.0,8517.6,Electronics,2023-02-25 09:39:46.585300,Engineer,52,1
+1051,25.0,,New York,Silver,184.0,486.39,Electronics,2023-03-26 09:39:46.585300,Engineer,80,1
+1052,62.0,Female,Houston,Gold,15.0,7378.29,Clothing,2023-09-22 09:39:46.585300,Doctor,13,1
+1053,32.0,,Los Angeles,Bronze,198.0,6817.01,Home Goods,2023-04-16 09:39:46.585300,Doctor,56,1
+1054,56.0,Other,Houston,Gold,95.0,9608.79,Clothing,2023-09-01 09:39:46.585300,Teacher,35,0
+1055,32.0,Male,Philadelphia,Silver,87.0,2841.01,Electronics,2023-01-19 09:39:46.585300,Manager,27,1
+1056,52.0,Female,Phoenix,,64.0,4156.36,Home Goods,2023-12-02 09:39:46.585300,Teacher,23,0
+1057,23.0,Other,Philadelphia,Gold,182.0,3686.13,,2023-11-13 09:39:46.585300,Doctor,47,0
+1058,34.0,Female,New York,Silver,30.0,1759.85,Home Goods,2023-04-12 09:39:46.585300,Teacher,15,0
+1059,53.0,Male,Chicago,Gold,67.0,6206.36,Electronics,2023-08-09 09:39:46.585300,Manager,50,0
+1060,25.0,Male,Phoenix,,93.0,8632.96,Clothing,2023-01-07 09:39:46.585300,Teacher,61,0
+1061,43.0,Male,Los Angeles,Platinum,19.0,9303.14,Electronics,2023-10-23 09:39:46.585300,Teacher,8,1
+1062,44.0,Male,Houston,Platinum,184.0,7142.21,Home Goods,2023-12-28 09:39:46.585300,Artist,81,0
+1063,64.0,Female,New York,Platinum,,5168.43,Electronics,2023-02-11 09:39:46.585300,,80,0
+1064,23.0,Male,Los Angeles,Bronze,154.0,7436.11,Clothing,2023-06-28 09:39:46.585300,Engineer,24,0
+1065,41.0,Other,Chicago,Bronze,189.0,,Clothing,2023-12-22 09:39:46.585300,Manager,55,0
+1066,52.0,Male,Phoenix,Platinum,57.0,1803.49,Electronics,2023-02-20 09:39:46.585300,,14,1
+1067,49.0,Male,New York,Bronze,90.0,7423.35,Electronics,2023-05-13 09:39:46.585300,Doctor,80,1
+1068,,Other,Los Angeles,,197.0,9922.39,Clothing,2023-10-06 09:39:46.585300,Engineer,72,0
+1069,47.0,Male,,Bronze,141.0,,Home Goods,2023-02-23 09:39:46.585300,Manager,59,0
+1070,65.0,Male,Houston,Platinum,192.0,9843.0,,2023-01-28 09:39:46.585300,Teacher,87,1
+1071,66.0,Other,Chicago,Bronze,12.0,2241.05,,2023-06-13 09:39:46.585300,Doctor,21,0
+1072,68.0,Male,Phoenix,Gold,58.0,2800.0,Home Goods,2023-09-15 09:39:46.585300,Doctor,74,0
+1073,29.0,Female,Los Angeles,,168.0,2856.42,Home Goods,2023-07-11 09:39:46.585300,Manager,33,0
+1074,43.0,Female,Chicago,Gold,121.0,6077.34,Electronics,2023-06-30 09:39:46.585300,Teacher,56,0
+1075,30.0,Male,New York,Platinum,,,Home Goods,2023-09-21 09:39:46.585300,Doctor,96,1
+1076,57.0,Female,Phoenix,Gold,150.0,9960.88,,2023-02-05 09:39:46.585300,Engineer,37,0
+1077,,Other,New York,Silver,75.0,8079.66,Clothing,2023-10-17 09:39:46.585300,Manager,79,1
+1078,,Female,,Gold,,3776.75,Clothing,2023-06-02 09:39:46.585300,,49,1
+1079,52.0,Male,Chicago,Gold,177.0,1687.03,Clothing,2023-02-15 09:39:46.585300,Engineer,76,0
+1080,35.0,Male,Phoenix,Silver,65.0,8912.76,Electronics,2023-09-10 09:39:46.585300,,50,1
+1081,52.0,Male,Phoenix,Bronze,186.0,6798.43,Electronics,2023-06-28 09:39:46.585300,Engineer,81,0
+1082,25.0,Male,Houston,Bronze,189.0,1509.28,Home Goods,2023-12-13 09:39:46.585300,Doctor,75,1
+1083,64.0,Other,Chicago,,48.0,3390.79,Home Goods,2023-09-30 09:39:46.585300,Teacher,36,0
+1084,66.0,Male,Philadelphia,Silver,44.0,6207.72,Clothing,2023-11-23 09:39:46.585300,Teacher,56,1
+1085,55.0,Other,Philadelphia,Gold,121.0,4626.03,Home Goods,2023-11-03 09:39:46.585300,,26,0
+1086,22.0,Other,Chicago,Platinum,,3460.78,Electronics,2023-03-25 09:39:46.585300,Doctor,90,1
+1087,31.0,Male,,Silver,106.0,,,2023-06-03 09:39:46.585300,Teacher,41,1
+1088,56.0,Female,Philadelphia,Silver,75.0,7665.87,Electronics,2023-05-11 09:39:46.585300,Manager,22,1
+1089,35.0,Female,Houston,Silver,26.0,8351.7,Clothing,2023-03-26 09:39:46.585300,Teacher,70,1
+1090,61.0,Female,,Bronze,9.0,5324.63,Electronics,2023-12-10 09:39:46.585300,Doctor,20,0
+1091,26.0,Male,Chicago,Silver,194.0,1487.07,Electronics,2023-03-25 09:39:46.585300,Artist,58,1
+1092,51.0,Female,New York,Platinum,172.0,,Clothing,2023-10-04 09:39:46.585300,Engineer,11,0
+1093,35.0,Other,Los Angeles,Platinum,70.0,4659.26,Electronics,2023-05-02 09:39:46.585300,Doctor,40,0
+1094,24.0,Female,Phoenix,Gold,124.0,9001.17,Clothing,2023-02-23 09:39:46.585300,Artist,65,0
+1095,52.0,Other,New York,Bronze,11.0,8743.93,Clothing,2023-10-20 09:39:46.585300,Manager,62,0
+1096,19.0,Female,New York,Platinum,,1588.61,Electronics,2023-11-21 09:39:46.585300,Doctor,25,0
+1097,47.0,Other,Chicago,Bronze,193.0,3617.86,Home Goods,2023-09-11 09:39:46.585300,Manager,72,0
+1098,24.0,Female,Philadelphia,Gold,,3136.6,Electronics,2023-02-09 09:39:46.585300,Artist,68,1
+1099,32.0,Female,Houston,,,9537.71,Electronics,2023-07-28 09:39:46.585300,Doctor,58,1
+1100,56.0,Other,Philadelphia,,54.0,5703.13,Home Goods,2023-05-14 09:39:46.585300,,5,0
+1101,58.0,Female,New York,Gold,60.0,,Home Goods,2023-09-14 09:39:46.585300,Engineer,66,0
+1102,40.0,Female,Los Angeles,Platinum,40.0,3711.28,Electronics,2023-04-21 09:39:46.585300,Artist,52,0
+1103,49.0,Female,Chicago,Gold,10.0,,Home Goods,2023-08-24 09:39:46.585300,Doctor,87,0
+1104,,Male,Houston,Silver,157.0,9124.12,Electronics,2023-08-12 09:39:46.585300,Teacher,76,1
+1105,24.0,Male,New York,Platinum,181.0,9318.02,Home Goods,2023-02-23 09:39:46.585300,Artist,58,0
+1106,39.0,Female,Phoenix,,179.0,3681.31,Electronics,2023-04-25 09:39:46.585300,Teacher,84,1
+1107,61.0,Female,Phoenix,Platinum,67.0,3146.85,Electronics,2023-05-06 09:39:46.585300,Manager,56,1
+1108,29.0,Male,Phoenix,,30.0,821.41,,2023-02-09 09:39:46.585300,Teacher,61,0
+1109,20.0,Other,Chicago,Silver,,6262.02,Electronics,2023-01-07 09:39:46.585300,Doctor,40,1
+1110,40.0,Female,,Bronze,150.0,802.14,Home Goods,2023-09-25 09:39:46.585300,Artist,62,0
+1111,,Female,Houston,,101.0,5660.08,Home Goods,2023-04-23 09:39:46.585300,Manager,75,1
+1112,48.0,Other,Chicago,,181.0,3308.25,Clothing,2023-03-10 09:39:46.585300,Engineer,23,0
+1113,60.0,Other,,Gold,31.0,655.29,Clothing,2023-06-27 09:39:46.585300,Doctor,0,1
+1114,58.0,Other,Los Angeles,Bronze,22.0,9450.55,Electronics,2023-10-16 09:39:46.585300,Engineer,90,0
+1115,34.0,Female,Phoenix,Bronze,,8451.12,Electronics,2023-11-22 09:39:46.585300,Manager,89,1
+1116,70.0,Other,,Silver,169.0,,Electronics,2023-02-17 09:39:46.585300,Doctor,36,1
+1117,57.0,Other,Chicago,Bronze,,8333.37,Clothing,2023-10-17 09:39:46.585300,Teacher,46,0
+1118,61.0,Male,Phoenix,,123.0,4185.26,Electronics,2023-01-21 09:39:46.585300,Artist,57,1
+1119,49.0,Other,,Silver,64.0,2473.21,Clothing,2023-04-29 09:39:46.585300,Artist,29,0
+1120,47.0,Female,Philadelphia,Platinum,134.0,1789.47,Clothing,2023-09-22 09:39:46.585300,Artist,21,0
+1121,51.0,Female,,Silver,181.0,7021.29,Clothing,2023-01-26 09:39:46.585300,Manager,10,1
+1122,48.0,Male,Philadelphia,Bronze,177.0,7867.33,Home Goods,2023-05-27 09:39:46.585300,Teacher,80,0
+1123,65.0,Female,Los Angeles,Bronze,3.0,,,2023-10-21 09:39:46.585300,Engineer,89,1
+1124,55.0,Female,,,24.0,9572.61,Home Goods,2023-07-03 09:39:46.585300,Teacher,1,0
+1125,44.0,Male,Phoenix,Silver,7.0,,Clothing,2023-02-14 09:39:46.585300,Teacher,51,1
+1126,,Other,Chicago,,125.0,,Electronics,2023-03-02 09:39:46.585300,Engineer,42,1
+1127,52.0,Other,Houston,,34.0,2116.91,Home Goods,2023-08-30 09:39:46.585300,Doctor,9,0
+1128,56.0,Female,Houston,Silver,,7245.9,Clothing,2023-09-21 09:39:46.585300,Doctor,70,1
+1129,46.0,Male,Philadelphia,Gold,,,Clothing,2023-05-09 09:39:46.585300,Artist,53,1
+1130,17.0,Other,New York,Platinum,196.0,5995.71,Clothing,2023-10-23 09:39:46.585300,Doctor,70,1
+1131,40.0,Female,,Silver,134.0,8098.61,,2023-03-11 09:39:46.585300,Teacher,11,0
+1132,25.0,Other,Chicago,Gold,,589.32,Clothing,2023-12-09 09:39:46.585300,Manager,65,1
+1133,18.0,Female,Phoenix,Platinum,185.0,3765.19,Clothing,2023-11-03 09:39:46.585300,Manager,71,1
+1134,41.0,Other,New York,Silver,58.0,1558.42,,2023-05-01 09:39:46.585300,Engineer,84,1
+1135,54.0,Other,Houston,Gold,,,Electronics,2023-01-19 09:39:46.585300,,99,0
+1136,66.0,Female,Phoenix,Bronze,171.0,6799.28,Electronics,2023-06-11 09:39:46.585300,Manager,39,0
+1137,46.0,Other,,Bronze,135.0,3940.29,Home Goods,2023-04-03 09:39:46.585300,Teacher,2,0
+1138,43.0,Female,New York,Bronze,55.0,4002.8,Electronics,2023-04-27 09:39:46.585300,Artist,35,1
+1139,45.0,Male,Houston,Silver,6.0,4376.99,Electronics,2023-09-02 09:39:46.585300,Engineer,1,1
+1140,24.0,Other,Philadelphia,Platinum,156.0,9578.77,Home Goods,2023-07-30 09:39:46.585300,Teacher,11,0
+1141,44.0,Male,Phoenix,Platinum,171.0,2937.12,Home Goods,2023-04-18 09:39:46.585300,Doctor,16,0
+1142,34.0,Female,Phoenix,Bronze,12.0,7612.76,Home Goods,2023-05-02 09:39:46.585300,,94,1
+1143,53.0,Other,New York,,99.0,8092.32,Home Goods,2023-05-28 09:39:46.585300,Doctor,47,0
+1144,,Other,Philadelphia,Silver,3.0,4656.64,Home Goods,2023-05-05 09:39:46.585300,Artist,16,0
+1145,36.0,,Philadelphia,Silver,44.0,6696.32,Home Goods,2023-11-30 09:39:46.585300,Teacher,82,0
+1146,34.0,Male,Los Angeles,Gold,189.0,7163.22,Electronics,2023-08-31 09:39:46.585300,Artist,75,0
+1147,66.0,Other,Los Angeles,Platinum,19.0,5729.28,,2023-03-09 09:39:46.585300,Engineer,59,0
+1148,62.0,Other,Los Angeles,Bronze,174.0,3115.96,Clothing,2023-08-09 09:39:46.585300,Manager,89,0
+1149,63.0,Female,New York,Bronze,12.0,5375.47,,2023-08-30 09:39:46.585300,Engineer,24,0
+1150,23.0,Other,Los Angeles,Bronze,,1896.8,Home Goods,2023-10-22 09:39:46.585300,Manager,62,1
+1151,37.0,Other,Houston,Platinum,54.0,5797.85,Clothing,2023-11-20 09:39:46.585300,Artist,25,0
+1152,65.0,Male,New York,Platinum,185.0,8456.22,Electronics,2023-09-07 09:39:46.585300,Teacher,90,1
+1153,40.0,Male,Philadelphia,,192.0,1528.08,,2023-07-04 09:39:46.585300,Doctor,17,0
+1154,,Other,,Bronze,28.0,,Home Goods,2023-07-07 09:39:46.585300,Teacher,41,1
+1155,29.0,Male,Chicago,Silver,57.0,2912.56,Clothing,2023-12-11 09:39:46.585300,Teacher,86,1
+1156,28.0,Other,,Gold,137.0,2752.29,Clothing,2023-08-26 09:39:46.585300,Engineer,14,1
+1157,,Other,New York,Silver,171.0,3431.91,Home Goods,2023-02-27 09:39:46.585300,Engineer,68,0
+1158,24.0,Other,Phoenix,Bronze,114.0,2119.49,Electronics,2023-08-25 09:39:46.585300,Engineer,19,0
+1159,44.0,Other,Phoenix,Silver,70.0,4921.09,Electronics,2023-04-09 09:39:46.585300,Engineer,75,0
+1160,66.0,Other,Los Angeles,Platinum,174.0,,Electronics,2023-11-17 09:39:46.585300,Artist,95,0
+1161,24.0,Male,Chicago,Bronze,32.0,8814.97,Clothing,2023-04-12 09:39:46.585300,Engineer,5,1
+1162,64.0,Female,Los Angeles,Silver,148.0,6095.07,Home Goods,2023-03-08 09:39:46.585300,Artist,48,0
+1163,48.0,Other,Philadelphia,Platinum,106.0,9051.92,Electronics,2023-10-18 09:39:46.585300,Artist,67,0
+1164,54.0,Other,Chicago,Bronze,48.0,,Clothing,2023-03-28 09:39:46.585300,Manager,97,0
+1165,36.0,Other,Chicago,Gold,5.0,7764.85,Clothing,2024-01-03 09:39:46.585300,Manager,30,1
+1166,40.0,Other,Philadelphia,Platinum,1.0,8896.74,Clothing,2023-09-16 09:39:46.585300,Teacher,2,0
+1167,39.0,Male,Phoenix,Gold,106.0,3272.99,Electronics,2023-04-30 09:39:46.585300,Artist,55,1
+1168,21.0,Other,Phoenix,Platinum,158.0,8299.66,Clothing,2023-10-07 09:39:46.585300,Manager,54,0
+1169,25.0,Female,,,,9173.34,Home Goods,2023-12-09 09:39:46.585300,Engineer,55,1
+1170,29.0,,Philadelphia,Platinum,153.0,7036.97,Clothing,2023-08-13 09:39:46.585300,Engineer,24,0
+1171,23.0,Other,Chicago,Silver,,,Clothing,2023-12-06 09:39:46.585300,Doctor,14,1
+1172,,Other,Chicago,Platinum,65.0,5986.01,,2023-06-01 09:39:46.585300,Teacher,1,1
+1173,56.0,Other,,Gold,57.0,5714.9,Clothing,2023-09-28 09:39:46.585300,Teacher,54,1
+1174,55.0,Female,,Silver,68.0,5921.87,Electronics,2023-08-15 09:39:46.585300,Manager,52,0
+1175,19.0,Male,Philadelphia,,131.0,5144.56,Clothing,2023-02-15 09:39:46.585300,Teacher,20,0
+1176,53.0,Male,Houston,Platinum,,5252.71,Electronics,2023-10-16 09:39:46.585300,Doctor,21,1
+1177,22.0,Male,,,12.0,1787.37,Electronics,2023-04-08 09:39:46.585300,Artist,71,0
+1178,21.0,Female,Philadelphia,Silver,29.0,6797.49,Home Goods,2023-06-18 09:39:46.585300,Engineer,22,0
+1179,54.0,Female,New York,Gold,192.0,3592.77,Clothing,2023-10-21 09:39:46.585300,Engineer,89,1
+1180,53.0,Male,Houston,Platinum,47.0,6070.2,Clothing,2023-07-16 09:39:46.585300,Manager,4,0
+1181,41.0,Other,,Gold,100.0,,Home Goods,2023-12-23 09:39:46.585300,,80,1
+1182,67.0,Other,Phoenix,Platinum,33.0,7075.96,Home Goods,2023-08-18 09:39:46.585300,Doctor,39,1
+1183,32.0,Male,Houston,Silver,123.0,6012.99,,2023-12-15 09:39:46.585300,Teacher,22,1
+1184,37.0,Male,Chicago,Platinum,26.0,7273.94,Clothing,2023-07-15 09:39:46.585300,Manager,44,1
+1185,68.0,Female,Chicago,Silver,30.0,7511.54,Clothing,2023-01-18 09:39:46.585300,Doctor,40,1
+1186,28.0,Female,Los Angeles,Bronze,139.0,7292.83,Electronics,2023-12-29 09:39:46.585300,Doctor,65,1
+1187,23.0,Female,,Platinum,11.0,8736.94,Electronics,2023-03-31 09:39:46.585300,Doctor,72,1
+1188,67.0,Male,Chicago,Gold,3.0,9622.6,Clothing,2023-02-27 09:39:46.585300,Engineer,42,1
+1189,41.0,Male,Philadelphia,Bronze,118.0,4734.47,Electronics,2023-10-20 09:39:46.585300,Engineer,8,0
+1190,49.0,Other,Houston,Platinum,181.0,,Clothing,2023-01-30 09:39:46.585300,Teacher,55,1
+1191,21.0,,Philadelphia,Silver,133.0,5072.32,Clothing,2023-05-18 09:39:46.585300,Teacher,71,0
+1192,37.0,Other,Chicago,Gold,135.0,941.17,Home Goods,2023-03-07 09:39:46.585300,Artist,63,0
+1193,20.0,Other,New York,Gold,95.0,3465.29,Home Goods,2023-12-12 09:39:46.585300,Manager,28,0
+1194,32.0,Other,Los Angeles,Gold,85.0,3212.04,Electronics,2023-04-14 09:39:46.585300,Artist,4,0
+1195,29.0,Female,New York,Gold,92.0,5979.06,Electronics,2023-11-18 09:39:46.585300,Doctor,84,0
+1196,28.0,Male,New York,Bronze,158.0,3347.68,Home Goods,2023-01-12 09:39:46.585300,Engineer,99,0
+1197,55.0,Female,Phoenix,Gold,70.0,6799.47,Clothing,2023-06-27 09:39:46.585300,Manager,54,1
+1198,33.0,Female,Chicago,Gold,156.0,4946.47,Clothing,2023-02-02 09:39:46.585300,Doctor,71,0
+1199,45.0,Female,Philadelphia,,8.0,8967.12,Electronics,2023-02-21 09:39:46.585300,,41,0
+1200,24.0,Other,Chicago,,99.0,,Electronics,2023-06-05 09:39:46.585300,Teacher,77,0
+1201,66.0,Other,Houston,Silver,28.0,201.53,Home Goods,2023-07-12 09:39:46.585300,Artist,61,0
+1202,52.0,Other,New York,,25.0,,Clothing,2023-09-03 09:39:46.585300,Teacher,56,1
+1203,38.0,Male,Los Angeles,Silver,,2685.52,Clothing,2023-03-13 09:39:46.585300,Manager,19,0
+1204,38.0,Male,Chicago,Bronze,49.0,4299.79,Clothing,2023-02-19 09:39:46.585300,Engineer,32,0
+1205,61.0,Male,,Gold,99.0,9836.31,Clothing,2023-11-29 09:39:46.585300,Engineer,73,1
+1206,35.0,,Philadelphia,Platinum,174.0,9327.92,,2023-03-26 09:39:46.585300,Artist,94,0
+1207,,Female,,Gold,47.0,3699.71,Home Goods,2023-02-20 09:39:46.585300,Engineer,37,1
+1208,44.0,Other,Philadelphia,Platinum,122.0,6914.16,Clothing,2023-11-19 09:39:46.585300,Doctor,77,1
+1209,39.0,Other,Philadelphia,Platinum,52.0,3407.08,,2023-02-13 09:39:46.585300,Engineer,94,1
+1210,54.0,Female,Phoenix,,138.0,4175.45,Home Goods,2023-04-06 09:39:46.585300,Artist,65,0
+1211,23.0,Female,,Silver,113.0,677.34,Electronics,2023-08-17 09:39:46.585300,Doctor,76,0
+1212,67.0,Other,Chicago,Bronze,40.0,,Clothing,2023-08-20 09:39:46.585300,Artist,4,1
+1213,53.0,Other,Philadelphia,Bronze,162.0,7693.19,,2023-11-21 09:39:46.585300,Artist,89,0
+1214,29.0,Male,Chicago,Bronze,121.0,9737.83,Clothing,2023-06-02 09:39:46.585300,Engineer,27,0
+1215,53.0,Male,Houston,Bronze,,7726.04,Clothing,2023-03-12 09:39:46.585300,Manager,9,1
+1216,52.0,Female,Houston,Gold,27.0,9175.65,Clothing,2023-04-03 09:39:46.585300,,72,1
+1217,65.0,Other,Chicago,Gold,115.0,3169.33,Electronics,2023-05-02 09:39:46.585300,Doctor,61,0
+1218,36.0,Other,Houston,Gold,78.0,3804.15,Home Goods,2023-11-25 09:39:46.585300,Doctor,99,0
+1219,66.0,,Houston,Bronze,38.0,668.41,Home Goods,2023-07-29 09:39:46.585300,Doctor,24,1
+1220,28.0,Male,Los Angeles,Bronze,73.0,668.31,Electronics,2023-09-21 09:39:46.585300,Doctor,97,1
+1221,51.0,Other,Houston,Bronze,98.0,9531.8,Electronics,2023-05-25 09:39:46.585300,Artist,9,1
+1222,43.0,Female,Los Angeles,Bronze,158.0,2234.54,Home Goods,2023-12-01 09:39:46.585300,Manager,68,0
+1223,51.0,,New York,Platinum,,2345.27,Home Goods,2023-07-01 09:39:46.585300,Manager,17,0
+1224,49.0,Other,Houston,Silver,57.0,2758.47,Electronics,2023-02-27 09:39:46.585300,Engineer,66,1
+1225,64.0,Female,Philadelphia,Silver,77.0,3170.47,Electronics,2023-10-25 09:39:46.585300,Teacher,21,0
+1226,22.0,Other,Los Angeles,Gold,122.0,4987.72,Electronics,2023-12-26 09:39:46.585300,Teacher,11,1
+1227,,Other,New York,Platinum,106.0,4092.88,Electronics,2023-03-19 09:39:46.585300,Doctor,98,0
+1228,40.0,Other,Houston,Silver,142.0,607.13,Electronics,2023-09-06 09:39:46.585300,Teacher,28,0
+1229,,Female,Houston,Gold,49.0,2986.96,Clothing,2023-02-22 09:39:46.585300,Doctor,93,1
+1230,55.0,Female,Phoenix,Silver,117.0,4799.87,Electronics,2023-04-24 09:39:46.585300,,99,0
+1231,70.0,Other,Chicago,Bronze,23.0,8379.72,Home Goods,2023-04-25 09:39:46.585300,Teacher,20,1
+1232,34.0,,Philadelphia,Gold,103.0,9764.35,Home Goods,2023-06-15 09:39:46.585300,Artist,67,0
+1233,41.0,Female,Phoenix,Silver,144.0,,Clothing,2023-05-13 09:39:46.585300,,63,0
+1234,43.0,Other,,Bronze,61.0,3140.48,Clothing,2023-03-04 09:39:46.585300,Artist,30,0
+1235,20.0,Other,Phoenix,Platinum,,,Clothing,2023-05-03 09:39:46.585300,Manager,28,0
+1236,44.0,Female,Phoenix,Bronze,167.0,1827.37,Electronics,2023-08-19 09:39:46.585300,Teacher,90,0
+1237,65.0,Male,Houston,Platinum,4.0,7221.56,Electronics,2023-01-07 09:39:46.585300,Artist,84,0
+1238,50.0,Female,Philadelphia,Platinum,182.0,8237.68,Electronics,2023-05-12 09:39:46.585300,Doctor,35,1
+1239,20.0,Male,Chicago,Silver,155.0,845.14,Home Goods,2023-07-19 09:39:46.585300,Teacher,50,1
+1240,24.0,Male,Philadelphia,Gold,124.0,7372.73,,2023-03-14 09:39:46.585300,,46,0
+1241,23.0,Female,New York,Silver,44.0,4263.62,Home Goods,2023-07-29 09:39:46.585300,Manager,83,1
+1242,32.0,Male,,Platinum,14.0,4042.5,Clothing,2023-09-12 09:39:46.585300,,29,0
+1243,32.0,Other,Houston,Platinum,,,Home Goods,2023-04-17 09:39:46.585300,Manager,98,1
+1244,52.0,Female,Houston,Gold,187.0,3728.2,Electronics,2023-12-18 09:39:46.585300,Artist,94,1
+1245,58.0,Male,Los Angeles,Gold,20.0,,Clothing,2023-01-31 09:39:46.585300,Doctor,48,0
+1246,25.0,Male,New York,Bronze,7.0,1953.74,Electronics,2023-11-21 09:39:46.585300,Teacher,28,0
+1247,70.0,Female,Houston,Bronze,85.0,,Clothing,2023-11-29 09:39:46.585300,Manager,79,0
+1248,57.0,Female,Chicago,Gold,18.0,7370.57,Electronics,2023-08-29 09:39:46.585300,Doctor,36,0
+1249,69.0,Other,New York,Gold,,6183.25,Clothing,2023-09-18 09:39:46.585300,Doctor,10,1
+1250,48.0,Male,Philadelphia,Gold,,7583.58,,2023-07-05 09:39:46.585300,Artist,69,1
+1251,67.0,Female,Los Angeles,Gold,112.0,5072.09,Clothing,2023-08-23 09:39:46.585300,Doctor,19,0
+1252,30.0,Male,New York,Platinum,81.0,,Clothing,2023-09-12 09:39:46.585300,Teacher,2,1
+1253,21.0,Male,Los Angeles,Gold,,126.69,Home Goods,2023-12-22 09:39:46.585300,Engineer,70,0
+1254,31.0,Male,Houston,Silver,6.0,335.22,Clothing,2023-12-29 09:39:46.585300,Artist,64,1
+1255,43.0,Female,Houston,Platinum,193.0,3412.74,Home Goods,2023-02-16 09:39:46.585300,Manager,57,0
+1256,24.0,Other,,Silver,148.0,2746.35,,2023-04-08 09:39:46.585300,Doctor,30,0
+1257,70.0,,Chicago,,195.0,4186.81,Clothing,2023-09-01 09:39:46.585300,Teacher,4,0
+1258,40.0,,Phoenix,,177.0,5245.4,Electronics,2023-02-19 09:39:46.585300,Manager,0,0
+1259,,Male,,Silver,94.0,1981.23,Electronics,2023-01-24 09:39:46.585300,Artist,86,1
+1260,55.0,Other,Philadelphia,Platinum,30.0,8805.76,Clothing,2023-11-13 09:39:46.585300,Doctor,87,1
+1261,28.0,Male,,Gold,115.0,4453.57,Electronics,2023-09-01 09:39:46.585300,Teacher,10,0
+1262,32.0,Other,Houston,Bronze,104.0,,Electronics,2023-07-26 09:39:46.585300,Artist,6,1
+1263,35.0,Female,Chicago,Gold,,,Home Goods,2023-05-30 09:39:46.585300,Engineer,62,1
+1264,42.0,Female,Philadelphia,Bronze,60.0,,Home Goods,2023-12-01 09:39:46.585300,Artist,96,0
+1265,63.0,Female,New York,Platinum,119.0,7954.13,Clothing,2023-03-14 09:39:46.585300,Manager,67,0
+1266,23.0,,Phoenix,Bronze,180.0,4921.26,,2023-06-08 09:39:46.585300,Manager,36,0
+1267,53.0,Other,Philadelphia,Platinum,160.0,2646.04,Home Goods,2023-11-01 09:39:46.585300,Doctor,97,1
+1268,27.0,Male,New York,Platinum,144.0,950.99,Clothing,2023-08-01 09:39:46.585300,Doctor,96,0
+1269,47.0,,New York,Platinum,180.0,8328.89,Home Goods,2023-01-18 09:39:46.585300,Manager,6,1
+1270,,Female,Chicago,Bronze,71.0,8159.71,Electronics,2023-02-24 09:39:46.585300,Doctor,69,0
+1271,29.0,,Phoenix,Silver,89.0,,Home Goods,2023-05-07 09:39:46.585300,Artist,63,0
+1272,,Female,Houston,Platinum,179.0,1847.12,Clothing,2023-09-02 09:39:46.585300,Manager,79,0
+1273,27.0,Female,Houston,Gold,115.0,4584.92,Home Goods,2023-04-10 09:39:46.585300,Engineer,99,0
+1274,34.0,Other,Houston,Gold,119.0,2939.02,Home Goods,2023-04-08 09:39:46.585300,Engineer,89,1
+1275,,Other,Los Angeles,Silver,7.0,5138.43,,2023-08-12 09:39:46.585300,,19,1
+1276,20.0,Other,Los Angeles,Gold,137.0,4252.05,Electronics,2023-09-01 09:39:46.585300,Teacher,1,1
+1277,38.0,Male,Chicago,Bronze,168.0,5548.09,Clothing,2023-01-11 09:39:46.585300,Manager,24,0
+1278,46.0,Female,Phoenix,,83.0,6485.74,Clothing,2023-10-31 09:39:46.585300,Doctor,85,1
+1279,18.0,Male,Phoenix,Gold,9.0,2601.11,Clothing,2023-12-09 09:39:46.585300,Teacher,98,0
+1280,39.0,Other,Los Angeles,Silver,141.0,,Electronics,2023-11-07 09:39:46.585300,Engineer,14,1
+1281,,Other,Los Angeles,,159.0,5460.55,Home Goods,2023-05-04 09:39:46.585300,Engineer,2,0
+1282,29.0,Other,Los Angeles,Gold,45.0,1646.07,,2023-12-03 09:39:46.585300,,71,0
+1283,28.0,Female,Chicago,Gold,95.0,4487.37,,2023-03-24 09:39:46.585300,Artist,23,0
+1284,,Female,Philadelphia,Silver,95.0,3319.47,Electronics,2023-08-25 09:39:46.585300,Engineer,54,1
+1285,29.0,Other,Philadelphia,Silver,,,Electronics,2023-09-07 09:39:46.585300,Engineer,38,1
+1286,46.0,Female,,Platinum,66.0,3733.74,,2023-12-05 09:39:46.585300,Teacher,31,1
+1287,,Female,New York,Platinum,169.0,2065.46,Electronics,2023-03-04 09:39:46.585300,Doctor,65,0
+1288,37.0,Male,Philadelphia,Bronze,189.0,2263.44,Home Goods,2023-12-17 09:39:46.585300,Artist,59,1
+1289,34.0,Male,New York,Platinum,,3983.31,Clothing,2023-04-10 09:39:46.585300,Doctor,17,0
+1290,21.0,Other,Phoenix,Silver,89.0,5291.19,Home Goods,2023-04-24 09:39:46.585300,Artist,52,1
+1291,58.0,,Philadelphia,Bronze,39.0,5192.65,Clothing,2023-02-20 09:39:46.585300,Artist,77,1
+1292,39.0,Female,New York,Gold,,4498.85,Electronics,2023-04-19 09:39:46.585300,Doctor,30,1
+1293,38.0,,Chicago,,,7074.87,Clothing,2023-03-08 09:39:46.585300,Doctor,99,1
+1294,46.0,Male,Los Angeles,Gold,197.0,4161.46,Clothing,2023-07-16 09:39:46.585300,Manager,57,0
+1295,,Other,Phoenix,,138.0,1395.85,Home Goods,2023-11-09 09:39:46.585300,Engineer,86,1
+1296,31.0,Male,Philadelphia,Bronze,91.0,1541.74,Clothing,2023-12-15 09:39:46.585300,Teacher,83,0
+1297,66.0,Female,New York,Platinum,,6774.26,Clothing,2023-12-21 09:39:46.585300,Engineer,28,0
+1298,20.0,Male,Los Angeles,Gold,148.0,6414.57,Home Goods,2023-04-08 09:39:46.585300,Manager,70,1
+1299,30.0,Male,Phoenix,Gold,165.0,7015.41,Clothing,2023-11-10 09:39:46.585300,Artist,65,1
+1300,29.0,Other,Houston,Silver,178.0,2052.02,Home Goods,2023-03-28 09:39:46.585300,Doctor,5,1
+1301,42.0,Male,Chicago,Platinum,,4317.19,Electronics,2023-09-21 09:39:46.585300,Manager,11,0
+1302,56.0,Other,Chicago,Bronze,,2025.14,Clothing,2023-10-14 09:39:46.585300,,53,0
+1303,29.0,,Chicago,Bronze,126.0,3154.68,Home Goods,2023-03-01 09:39:46.585300,Doctor,24,1
+1304,44.0,Male,Chicago,,100.0,2398.17,Home Goods,2023-01-31 09:39:46.585300,Doctor,90,1
+1305,63.0,Other,Chicago,Bronze,185.0,401.36,Home Goods,2023-03-03 09:39:46.585300,Artist,47,1
+1306,52.0,Female,New York,Bronze,186.0,4871.06,Clothing,2023-12-31 09:39:46.585300,Manager,65,0
+1307,20.0,,New York,Silver,145.0,4846.07,Clothing,2023-06-15 09:39:46.585300,Doctor,42,0
+1308,33.0,Other,Houston,Platinum,146.0,,Clothing,2023-06-22 09:39:46.585300,Artist,63,0
+1309,19.0,Male,Phoenix,Gold,25.0,1064.56,Home Goods,2023-12-11 09:39:46.585300,Teacher,32,1
+1310,36.0,Male,New York,Platinum,131.0,4738.08,Electronics,2023-12-23 09:39:46.585300,Artist,11,0
+1311,50.0,Other,Chicago,Silver,50.0,5773.76,Home Goods,2023-07-22 09:39:46.585300,Doctor,18,1
+1312,,Other,Philadelphia,Bronze,,2877.75,Home Goods,2023-09-29 09:39:46.585300,Engineer,24,1
+1313,61.0,Other,Los Angeles,Platinum,179.0,9628.48,Home Goods,2023-04-10 09:39:46.585300,Teacher,4,0
+1314,56.0,Female,Los Angeles,Gold,113.0,3482.87,Electronics,2023-10-16 09:39:46.585300,Artist,7,0
+1315,59.0,Male,Phoenix,Gold,141.0,1261.46,Clothing,2023-10-25 09:39:46.585300,Doctor,32,1
+1316,26.0,Female,Houston,Platinum,9.0,2189.9,Clothing,2023-06-15 09:39:46.585300,Artist,15,1
+1317,31.0,Male,Houston,Bronze,189.0,9094.67,Clothing,2023-07-30 09:39:46.585300,,1,1
+1318,60.0,Male,New York,Silver,4.0,5142.93,Clothing,2023-10-07 09:39:46.585300,Manager,88,0
+1319,38.0,Female,,Gold,69.0,9967.7,Electronics,2023-08-15 09:39:46.585300,Artist,37,0
+1320,67.0,Female,Philadelphia,Platinum,44.0,9792.47,Home Goods,2023-01-22 09:39:46.585300,Teacher,81,0
+1321,50.0,Male,Houston,Gold,165.0,5084.21,,2023-12-21 09:39:46.585300,Teacher,31,0
+1322,39.0,Male,Chicago,Bronze,197.0,6393.83,Clothing,2023-02-16 09:39:46.585300,Manager,31,1
+1323,21.0,Female,Philadelphia,Silver,48.0,3626.57,Clothing,2023-07-06 09:39:46.585300,Doctor,72,0
+1324,49.0,Female,Philadelphia,Bronze,196.0,7835.47,Home Goods,2023-06-04 09:39:46.585300,,65,1
+1325,41.0,Male,Los Angeles,Bronze,41.0,5086.98,Home Goods,2023-08-05 09:39:46.585300,Engineer,52,1
+1326,18.0,Female,New York,Bronze,141.0,5689.12,Electronics,2023-05-15 09:39:46.585300,Doctor,0,0
+1327,54.0,Other,Houston,Bronze,17.0,6611.31,Electronics,2023-04-28 09:39:46.585300,Teacher,29,0
+1328,48.0,Male,Houston,Gold,181.0,5959.7,Electronics,2023-05-27 09:39:46.585300,Manager,56,1
+1329,33.0,Female,Los Angeles,Bronze,27.0,3317.7,,2023-01-28 09:39:46.585300,Doctor,1,0
+1330,35.0,Other,Phoenix,Bronze,,,Clothing,2023-02-26 09:39:46.585300,Manager,25,0
+1331,,Male,New York,Silver,8.0,1833.68,Electronics,2023-11-17 09:39:46.585300,Artist,66,1
+1332,69.0,Male,Philadelphia,Platinum,49.0,7762.83,Electronics,2023-11-30 09:39:46.585300,Artist,44,0
+1333,28.0,Female,Houston,Silver,83.0,1792.96,Clothing,2023-06-06 09:39:46.585300,Engineer,18,0
+1334,62.0,Other,New York,Platinum,89.0,4845.34,,2023-01-16 09:39:46.585300,Teacher,84,0
+1335,27.0,Female,Philadelphia,,-1.0,3364.86,Clothing,2023-07-18 09:39:46.585300,Manager,97,0
+1336,58.0,Female,Philadelphia,Gold,130.0,,,2023-08-04 09:39:46.585300,Engineer,51,1
+1337,33.0,Other,Philadelphia,Platinum,67.0,2452.25,Electronics,2023-03-24 09:39:46.585300,Doctor,77,1
+1338,23.0,Female,New York,Bronze,12.0,289.18,Clothing,2023-11-07 09:39:46.585300,Doctor,31,1
+1339,38.0,Male,Phoenix,Platinum,187.0,,Home Goods,2023-09-21 09:39:46.585300,Engineer,4,0
+1340,47.0,Other,Houston,Silver,1.0,2343.15,Electronics,2023-07-15 09:39:46.585300,Engineer,40,0
+1341,22.0,,Philadelphia,Silver,198.0,7354.64,Clothing,2023-04-09 09:39:46.585300,Manager,99,1
+1342,34.0,Female,New York,Silver,188.0,9972.8,Clothing,2023-11-16 09:39:46.585300,Engineer,98,0
+1343,17.0,,Houston,Bronze,62.0,6312.48,Clothing,2023-12-09 09:39:46.585300,Artist,23,1
+1344,19.0,Male,Philadelphia,Silver,96.0,5738.54,Home Goods,2023-06-13 09:39:46.585300,Manager,94,1
+1345,67.0,Male,Philadelphia,Gold,154.0,7886.5,Clothing,2023-04-15 09:39:46.585300,Engineer,56,0
+1346,,Other,Philadelphia,,185.0,657.07,,2023-07-19 09:39:46.585300,Teacher,57,1
+1347,62.0,Other,Houston,,84.0,4204.31,Clothing,2023-10-26 09:39:46.585300,Doctor,61,0
+1348,36.0,Male,Chicago,Gold,7.0,3724.68,Home Goods,2023-10-06 09:39:46.585300,Artist,3,0
+1349,38.0,Other,Phoenix,Bronze,17.0,9971.91,Electronics,2023-08-15 09:39:46.585300,,77,1
+1350,40.0,Male,New York,Bronze,180.0,7016.93,Home Goods,2023-05-15 09:39:46.585300,,46,0
+1351,32.0,Male,Philadelphia,Platinum,19.0,7108.64,Electronics,2023-06-03 09:39:46.585300,Doctor,27,1
+1352,34.0,Female,New York,Bronze,89.0,3819.02,Clothing,2023-08-29 09:39:46.585300,Teacher,96,1
+1353,47.0,Other,Houston,Platinum,145.0,8232.45,Electronics,2023-10-13 09:39:46.585300,Engineer,1,0
+1354,26.0,Female,New York,Bronze,197.0,3585.29,Clothing,2023-04-22 09:39:46.585300,Artist,3,1
+1355,44.0,Male,Chicago,Platinum,,532.01,Clothing,2023-06-02 09:39:46.585300,,98,1
+1356,42.0,Other,Chicago,Silver,2.0,3379.95,,2023-09-23 09:39:46.585300,Artist,11,0
+1357,43.0,Female,Los Angeles,,144.0,3599.02,,2023-04-26 09:39:46.585300,Artist,59,1
+1358,,Male,New York,Silver,80.0,7401.17,Clothing,2023-09-17 09:39:46.585300,Manager,86,0
+1359,31.0,Male,New York,Silver,142.0,8926.68,Home Goods,2023-12-19 09:39:46.585300,Engineer,17,1
+1360,,Female,Philadelphia,Gold,71.0,5534.9,Clothing,2023-08-26 09:39:46.585300,Engineer,28,1
+1361,,Female,Phoenix,Silver,41.0,1779.05,Electronics,2023-12-08 09:39:46.585300,Engineer,39,1
+1362,31.0,Female,Philadelphia,Platinum,101.0,310.53,Home Goods,2023-09-08 09:39:46.585300,Doctor,66,1
+1363,39.0,Other,Houston,Platinum,4.0,7692.62,Home Goods,2023-05-14 09:39:46.585300,Manager,52,0
+1364,25.0,Other,Phoenix,Platinum,30.0,5493.07,Home Goods,2023-04-07 09:39:46.585300,Teacher,89,0
+1365,61.0,Female,Chicago,Platinum,165.0,5286.42,Clothing,2023-01-08 09:39:46.585300,Manager,16,0
+1366,60.0,,Philadelphia,Bronze,119.0,6840.69,Home Goods,2023-09-08 09:39:46.585300,Manager,44,0
+1367,45.0,Male,,Platinum,197.0,3300.01,Home Goods,2023-03-18 09:39:46.585300,Manager,87,0
+1368,62.0,Other,Philadelphia,Silver,,8912.38,Electronics,2023-10-22 09:39:46.585300,Artist,4,0
+1369,34.0,Female,New York,Bronze,179.0,,Electronics,2023-06-29 09:39:46.585300,Doctor,76,0
+1370,42.0,Other,Phoenix,Silver,170.0,,,2023-04-02 09:39:46.585300,Manager,71,0
+1371,,Other,Philadelphia,Bronze,92.0,8118.98,Home Goods,2023-07-23 09:39:46.585300,Artist,23,0
+1372,30.0,Other,Phoenix,Bronze,126.0,8201.74,Clothing,2023-01-20 09:39:46.585300,Manager,88,0
+1373,,Male,Philadelphia,Silver,160.0,499.97,,2023-05-13 09:39:46.585300,Doctor,63,0
+1374,48.0,Female,Los Angeles,Gold,42.0,6080.69,Home Goods,2023-06-10 09:39:46.585300,Artist,81,0
+1375,66.0,Female,Philadelphia,Platinum,60.0,6908.39,Electronics,2023-02-02 09:39:46.585300,Teacher,43,1
+1376,35.0,Female,Los Angeles,Gold,118.0,1880.14,Electronics,2023-10-12 09:39:46.585300,Teacher,92,1
+1377,23.0,Male,Philadelphia,Silver,66.0,4087.68,Clothing,2023-03-25 09:39:46.585300,Doctor,69,0
+1378,45.0,Male,Los Angeles,Silver,193.0,6434.37,Home Goods,2023-02-28 09:39:46.585300,Manager,86,0
+1379,18.0,Male,Phoenix,Bronze,,826.12,Electronics,2024-01-02 09:39:46.585300,Engineer,16,0
+1380,68.0,Female,Houston,Platinum,-0.0,5606.47,Clothing,2023-10-12 09:39:46.585300,Manager,47,1
+1381,67.0,,Philadelphia,Silver,144.0,4496.03,Clothing,2023-05-31 09:39:46.585300,Artist,2,1
+1382,42.0,Male,Phoenix,Gold,128.0,3852.39,Electronics,2023-01-31 09:39:46.585300,,69,1
+1383,34.0,Other,Philadelphia,,26.0,2802.82,,2023-08-31 09:39:46.585300,Engineer,43,0
+1384,,,Chicago,Silver,130.0,7582.12,Home Goods,2023-01-19 09:39:46.585300,,22,0
+1385,43.0,Male,New York,,60.0,6496.97,Clothing,2023-03-25 09:39:46.585300,Engineer,19,1
+1386,66.0,Male,,Gold,153.0,5873.68,Electronics,2023-12-29 09:39:46.585300,Manager,84,0
+1387,20.0,Female,,Gold,,7625.29,Clothing,2023-08-11 09:39:46.585300,Doctor,38,1
+1388,64.0,Male,Houston,Gold,162.0,736.4,Clothing,2023-06-23 09:39:46.585300,,82,1
+1389,37.0,Female,Houston,Gold,,2358.62,Electronics,2023-02-12 09:39:46.585300,Engineer,9,0
+1390,37.0,Male,Chicago,Silver,93.0,4602.49,Home Goods,2024-01-04 09:39:46.585300,Doctor,87,1
+1391,56.0,Male,Philadelphia,Silver,189.0,5296.9,Electronics,2023-09-01 09:39:46.585300,Engineer,67,1
+1392,17.0,Other,Chicago,,20.0,,Electronics,2023-03-17 09:39:46.585300,,46,0
+1393,22.0,Male,Chicago,Platinum,,5172.61,,2023-07-22 09:39:46.585300,Engineer,6,1
+1394,64.0,Male,New York,Platinum,124.0,3829.92,Electronics,2024-01-02 09:39:46.585300,Teacher,12,0
+1395,40.0,Other,Chicago,Platinum,199.0,,Electronics,2023-05-06 09:39:46.585300,Manager,9,0
+1396,33.0,Male,Houston,Gold,46.0,8677.49,Home Goods,2023-10-08 09:39:46.585300,Artist,26,0
+1397,,Female,New York,,192.0,3546.76,Clothing,2023-02-11 09:39:46.585300,,73,1
+1398,53.0,Male,Houston,,130.0,6148.83,Home Goods,2023-01-08 09:39:46.585300,,11,1
+1399,57.0,Female,Los Angeles,Gold,139.0,6345.69,Clothing,2023-09-14 09:39:46.585300,Manager,69,0
+1400,,Male,Philadelphia,Gold,113.0,7083.88,Clothing,2023-06-18 09:39:46.585300,Doctor,0,1
+1401,39.0,,Philadelphia,Silver,18.0,5902.1,Electronics,2023-07-22 09:39:46.585300,Teacher,71,1
+1402,51.0,Male,New York,Silver,195.0,7054.89,Electronics,2023-08-31 09:39:46.585300,Manager,54,1
+1403,51.0,Other,,Platinum,186.0,8770.8,Electronics,2023-08-11 09:39:46.585300,Artist,61,0
+1404,61.0,Male,Houston,Platinum,129.0,,Electronics,2023-03-15 09:39:46.585300,Teacher,85,0
+1405,61.0,Female,New York,Silver,127.0,7607.39,Clothing,2023-02-27 09:39:46.585300,Teacher,73,1
+1406,52.0,Male,Los Angeles,,1.0,7522.09,Clothing,2023-09-04 09:39:46.585300,Artist,28,1
+1407,58.0,Male,New York,Silver,57.0,8921.36,Clothing,2023-08-12 09:39:46.585300,Teacher,80,1
+1408,58.0,Male,Chicago,Gold,64.0,5696.56,,2023-09-16 09:39:46.585300,Doctor,46,0
+1409,44.0,Female,Chicago,Gold,197.0,8344.25,Clothing,2023-07-27 09:39:46.585300,Doctor,52,0
+1410,64.0,Female,Chicago,Bronze,192.0,7226.8,Clothing,2023-01-28 09:39:46.585300,Manager,84,1
+1411,29.0,Male,Phoenix,Gold,68.0,6461.44,Clothing,2023-09-11 09:39:46.585300,Engineer,40,1
+1412,,Male,Los Angeles,Bronze,119.0,9744.02,Electronics,2023-01-22 09:39:46.585300,,94,1
+1413,36.0,Male,New York,Silver,35.0,102.08,Home Goods,2023-10-21 09:39:46.585300,,14,1
+1414,21.0,Other,,,94.0,5178.32,Home Goods,2023-10-12 09:39:46.585300,Teacher,40,1
+1415,,Other,Los Angeles,Platinum,121.0,,Home Goods,2023-06-05 09:39:46.585300,Manager,84,0
+1416,,,Philadelphia,Gold,58.0,2108.41,Electronics,2023-03-12 09:39:46.585300,Manager,1,1
+1417,41.0,Male,Houston,Gold,128.0,6073.55,Electronics,2023-08-28 09:39:46.585300,,44,1
+1418,45.0,Male,New York,Silver,30.0,,Electronics,2023-04-05 09:39:46.585300,,28,1
+1419,57.0,Male,Chicago,Platinum,127.0,,Electronics,2023-06-03 09:39:46.585300,,11,1
+1420,50.0,,Los Angeles,Platinum,16.0,9726.93,Clothing,2023-08-22 09:39:46.585300,Artist,61,1
+1421,30.0,,Houston,Silver,70.0,,Clothing,2023-12-29 09:39:46.585300,Engineer,66,0
+1422,18.0,,Los Angeles,Platinum,192.0,1299.5,Electronics,2023-02-22 09:39:46.585300,Teacher,33,1
+1423,46.0,Female,Houston,Silver,196.0,8137.66,Clothing,2023-11-13 09:39:46.585300,Manager,24,1
+1424,25.0,Male,Los Angeles,Silver,184.0,936.75,Home Goods,2023-05-10 09:39:46.585300,Artist,4,0
+1425,69.0,,Chicago,Platinum,,7393.57,,2023-11-02 09:39:46.585300,Artist,36,0
+1426,27.0,Female,Phoenix,Gold,102.0,3088.69,Clothing,2023-07-11 09:39:46.585300,Manager,50,1
+1427,41.0,,Houston,Silver,,8471.79,Clothing,2023-10-12 09:39:46.585300,Doctor,60,1
+1428,19.0,Male,New York,,103.0,1180.89,Clothing,2023-04-01 09:39:46.585300,Engineer,92,1
+1429,67.0,Male,New York,Bronze,6.0,4995.36,Home Goods,2023-12-12 09:39:46.585300,Manager,5,0
+1430,35.0,Female,,,18.0,821.76,Home Goods,2023-11-08 09:39:46.585300,,93,1
+1431,59.0,Male,,Platinum,120.0,8629.18,Clothing,2023-02-26 09:39:46.585300,,50,1
+1432,66.0,Female,Houston,Platinum,19.0,9345.58,Clothing,2023-01-16 09:39:46.585300,Engineer,87,0
+1433,,Other,Phoenix,Silver,83.0,7108.1,,2023-10-24 09:39:46.585300,,37,1
+1434,48.0,Male,Los Angeles,Bronze,23.0,8665.25,Clothing,2023-03-30 09:39:46.585300,Engineer,7,1
+1435,44.0,Female,Houston,Gold,65.0,1666.2,Clothing,2023-04-22 09:39:46.585300,Artist,78,0
+1436,,,New York,Bronze,29.0,4617.27,Electronics,2023-09-08 09:39:46.585300,Manager,96,0
+1437,,Male,New York,Bronze,181.0,5829.73,Electronics,2023-06-25 09:39:46.585300,Engineer,98,1
+1438,36.0,,Houston,Silver,95.0,9641.77,Electronics,2023-03-23 09:39:46.585300,,67,1
+1439,27.0,Other,Houston,Gold,,5946.05,Clothing,2023-04-04 09:39:46.585300,Teacher,70,1
+1440,33.0,Other,,Silver,154.0,4515.64,Home Goods,2023-05-30 09:39:46.585300,Teacher,33,0
+1441,22.0,Male,New York,Silver,,9193.89,Electronics,2023-09-05 09:39:46.585300,Engineer,62,1
+1442,,Male,,Platinum,85.0,6871.47,Home Goods,2023-12-15 09:39:46.585300,,60,0
+1443,28.0,Other,Houston,Gold,109.0,9245.51,Electronics,2023-01-12 09:39:46.585300,Teacher,5,0
+1444,47.0,Male,Phoenix,Silver,36.0,781.0,Clothing,2023-10-23 09:39:46.585300,Doctor,4,1
+1445,20.0,Other,Los Angeles,Platinum,129.0,887.81,,2023-06-21 09:39:46.585300,Engineer,44,1
+1446,25.0,Female,Phoenix,Platinum,1.0,8427.95,Clothing,2023-12-03 09:39:46.585300,Teacher,20,0
+1447,34.0,,Los Angeles,Silver,168.0,8293.63,Electronics,2023-08-09 09:39:46.585300,Artist,34,0
+1448,52.0,Other,Los Angeles,Silver,22.0,1400.55,Clothing,2023-06-12 09:39:46.585300,Teacher,57,0
+1449,22.0,Male,Philadelphia,,107.0,5662.15,,2023-02-02 09:39:46.585300,Doctor,96,1
+1450,44.0,Other,Los Angeles,Gold,86.0,3297.05,,2023-01-27 09:39:46.585300,Manager,23,0
+1451,55.0,Male,New York,Gold,137.0,3021.24,Home Goods,2023-12-30 09:39:46.585300,Doctor,84,0
+1452,24.0,Female,New York,Platinum,62.0,1645.64,Home Goods,2023-09-15 09:39:46.585300,,12,0
+1453,51.0,Female,Houston,Gold,136.0,3543.54,Clothing,2023-08-19 09:39:46.585300,Engineer,88,1
+1454,,Male,Phoenix,Silver,105.0,8405.55,Home Goods,2023-02-21 09:39:46.585300,Artist,14,0
+1455,,Other,Phoenix,Silver,180.0,8768.81,Clothing,2023-04-26 09:39:46.585300,Teacher,78,0
+1456,46.0,Male,Houston,Gold,2.0,5960.37,Home Goods,2023-03-26 09:39:46.585300,Engineer,22,0
+1457,68.0,Other,Phoenix,Bronze,4.0,4184.83,Home Goods,2023-10-31 09:39:46.585300,Manager,6,0
+1458,31.0,Other,Houston,Gold,65.0,1539.47,Clothing,2023-05-19 09:39:46.585300,Engineer,60,1
+1459,40.0,Female,Chicago,Platinum,1.0,1570.96,Home Goods,2023-06-18 09:39:46.585300,Engineer,44,0
+1460,48.0,Other,Phoenix,Platinum,6.0,,,2023-07-25 09:39:46.585300,Doctor,84,1
+1461,,Female,New York,Gold,49.0,8928.26,Clothing,2023-06-01 09:39:46.585300,Teacher,8,0
+1462,47.0,,Chicago,Silver,182.0,,Clothing,2023-05-21 09:39:46.585300,Doctor,59,0
+1463,45.0,Male,Houston,Silver,,5441.08,Clothing,2023-05-09 09:39:46.585300,Manager,63,0
+1464,48.0,Female,New York,Silver,136.0,9887.67,Electronics,2023-06-04 09:39:46.585300,Engineer,84,0
+1465,52.0,Female,Phoenix,Bronze,111.0,6995.08,Clothing,2023-07-25 09:39:46.585300,Manager,72,1
+1466,,Female,Los Angeles,Silver,9.0,7116.02,Home Goods,2023-10-06 09:39:46.585300,Teacher,66,0
+1467,46.0,Other,Houston,Bronze,195.0,8949.53,Clothing,2023-12-13 09:39:46.585300,Teacher,35,0
+1468,65.0,Male,Phoenix,Gold,26.0,7664.04,Electronics,2023-12-03 09:39:46.585300,Engineer,57,1
+1469,35.0,Other,,Silver,104.0,7438.3,Electronics,2023-10-19 09:39:46.585300,Engineer,77,1
+1470,26.0,Female,,Gold,152.0,753.05,Home Goods,2023-08-13 09:39:46.585300,Manager,76,1
+1471,62.0,Other,Houston,Silver,161.0,,Home Goods,2023-02-17 09:39:46.585300,Engineer,57,0
+1472,,Female,Houston,Platinum,85.0,2291.71,Home Goods,2023-12-06 09:39:46.585300,Doctor,50,1
+1473,30.0,Male,Phoenix,Platinum,7.0,6766.92,Home Goods,2023-12-18 09:39:46.585300,Manager,22,1
+1474,51.0,Female,Chicago,Platinum,121.0,9665.19,Electronics,2023-01-29 09:39:46.585300,,4,1
+1475,37.0,Female,Philadelphia,Gold,87.0,7356.33,Electronics,2023-10-06 09:39:46.585300,Manager,42,1
+1476,60.0,Female,Los Angeles,Bronze,7.0,6187.53,Clothing,2023-09-13 09:39:46.585300,Doctor,58,1
+1477,28.0,Other,Phoenix,Gold,111.0,,Home Goods,2023-09-25 09:39:46.585300,Doctor,42,0
+1478,,Female,Houston,Silver,,2865.67,,2023-04-26 09:39:46.585300,Doctor,32,0
+1479,58.0,Female,,Gold,111.0,,Electronics,2023-04-10 09:39:46.585300,Manager,69,0
+1480,19.0,Female,Los Angeles,Platinum,12.0,9553.31,Home Goods,2023-02-02 09:39:46.585300,Artist,8,0
+1481,38.0,,Chicago,Bronze,,2963.92,Electronics,2023-02-12 09:39:46.585300,Manager,64,0
+1482,63.0,,Houston,Silver,118.0,,Clothing,2023-04-18 09:39:46.585300,Engineer,47,0
+1483,46.0,Female,Los Angeles,Gold,83.0,5488.45,Home Goods,2023-01-19 09:39:46.585300,Artist,92,0
+1484,31.0,,,Silver,107.0,2359.95,Clothing,2023-02-14 09:39:46.585300,,55,1
+1485,55.0,Male,Chicago,Bronze,20.0,6474.81,Electronics,2023-12-28 09:39:46.585300,Doctor,88,1
+1486,67.0,Male,Philadelphia,Silver,,,Clothing,2023-12-23 09:39:46.585300,Engineer,20,1
+1487,56.0,Male,Chicago,Gold,78.0,2007.59,Home Goods,2023-05-02 09:39:46.585300,Manager,11,0
+1488,69.0,Male,Philadelphia,Silver,68.0,7653.87,Electronics,2023-11-14 09:39:46.585300,Manager,1,0
+1489,,Other,Philadelphia,Platinum,22.0,1658.82,Clothing,2023-08-01 09:39:46.585300,Artist,89,1
+1490,64.0,Female,Philadelphia,,117.0,4984.17,Home Goods,2023-11-28 09:39:46.585300,Artist,55,0
+1491,30.0,Female,Los Angeles,Platinum,146.0,8456.9,Home Goods,2023-09-15 09:39:46.585300,,37,0
+1492,55.0,Other,Houston,Bronze,,4557.59,Clothing,2023-12-11 09:39:46.585300,Teacher,32,1
+1493,67.0,Male,Los Angeles,Gold,113.0,337.78,Electronics,2023-07-16 09:39:46.585300,Doctor,49,0
+1494,22.0,Other,Chicago,Silver,,1460.43,Electronics,2023-05-28 09:39:46.585300,Teacher,75,0
+1495,58.0,Other,Chicago,Silver,11.0,3154.2,,2023-07-12 09:39:46.585300,Artist,69,1
+1496,55.0,Male,Houston,Bronze,186.0,4238.71,Electronics,2023-02-06 09:39:46.585300,Engineer,16,1
+1497,,Other,New York,Bronze,94.0,367.14,Electronics,2023-08-21 09:39:46.585300,Engineer,40,0
+1498,36.0,Female,Houston,Platinum,4.0,9999.14,Home Goods,2023-05-11 09:39:46.585300,Engineer,12,0
+1499,,Other,Los Angeles,Gold,171.0,,Electronics,2023-09-01 09:39:46.585300,Artist,87,0
+1500,46.0,Male,Chicago,Bronze,162.0,2810.25,Clothing,2023-05-07 09:39:46.585300,Artist,89,1
+1501,65.0,Male,Phoenix,Bronze,143.0,3246.71,Home Goods,2023-12-01 09:39:46.585300,Engineer,40,1
+1502,54.0,Male,Chicago,Silver,195.0,9743.4,Clothing,2023-03-10 09:39:46.585300,Teacher,65,1
+1503,67.0,Other,New York,Silver,191.0,2181.3,Electronics,2023-03-12 09:39:46.585300,Manager,89,0
+1504,20.0,Male,New York,,169.0,7247.29,Home Goods,2023-11-25 09:39:46.585300,Teacher,22,1
+1505,66.0,Female,Houston,Silver,,3107.12,,2023-08-22 09:39:46.585300,Doctor,65,1
+1506,28.0,Male,Phoenix,Gold,77.0,5282.34,Home Goods,2023-09-08 09:39:46.585300,Doctor,55,1
+1507,68.0,Female,Philadelphia,Gold,149.0,9226.32,Clothing,2023-08-19 09:39:46.585300,Artist,77,0
+1508,,Other,Los Angeles,Silver,123.0,1462.07,Home Goods,2023-05-25 09:39:46.585300,Doctor,21,1
+1509,66.0,,Houston,Bronze,74.0,5220.71,Electronics,2023-07-02 09:39:46.585300,Doctor,35,0
+1510,67.0,Male,Chicago,Gold,83.0,8309.85,Electronics,2023-11-27 09:39:46.585300,Engineer,58,1
+1511,,Female,Phoenix,Silver,112.0,431.75,Electronics,2023-01-26 09:39:46.585300,Manager,96,1
+1512,24.0,Other,Chicago,Bronze,55.0,,Home Goods,2023-08-18 09:39:46.585300,Doctor,15,1
+1513,68.0,Female,Phoenix,Gold,36.0,8275.35,Home Goods,2023-12-04 09:39:46.585300,Teacher,71,1
+1514,,Other,Phoenix,Gold,102.0,5637.77,Clothing,2023-02-25 09:39:46.585300,Doctor,55,0
+1515,51.0,Female,Phoenix,,3.0,4641.62,Electronics,2023-12-05 09:39:46.585300,Doctor,9,1
+1516,56.0,Female,Los Angeles,Silver,,,Clothing,2023-01-31 09:39:46.585300,Doctor,73,0
+1517,54.0,Male,Philadelphia,Bronze,198.0,6115.89,Clothing,2023-03-13 09:39:46.585300,Manager,25,1
+1518,49.0,Female,Phoenix,Platinum,21.0,5460.02,Home Goods,2023-05-28 09:39:46.585300,Manager,91,1
+1519,68.0,Other,Houston,Gold,20.0,4801.19,Electronics,2023-07-15 09:39:46.585300,Teacher,53,0
+1520,,Female,New York,Bronze,190.0,7827.34,Clothing,2023-02-14 09:39:46.585300,Manager,88,0
+1521,57.0,Other,Phoenix,Platinum,103.0,,Electronics,2023-07-24 09:39:46.585300,,98,0
+1522,62.0,Female,Philadelphia,Platinum,134.0,785.07,Clothing,2023-04-22 09:39:46.585300,Teacher,45,1
+1523,53.0,Male,Los Angeles,Platinum,48.0,6293.03,Electronics,2023-04-30 09:39:46.585300,Teacher,24,0
+1524,33.0,Female,Chicago,Silver,68.0,453.42,Electronics,2023-09-11 09:39:46.585300,Artist,79,0
+1525,48.0,Other,Phoenix,Platinum,,,Electronics,2023-05-16 09:39:46.585300,Doctor,2,1
+1526,71.0,Other,New York,Bronze,,1455.84,Clothing,2023-08-26 09:39:46.585300,Manager,44,1
+1527,35.0,Male,Los Angeles,Bronze,150.0,1848.64,Electronics,2023-03-16 09:39:46.585300,Engineer,4,1
+1528,21.0,Other,Los Angeles,,178.0,5040.83,Electronics,2023-04-06 09:39:46.585300,,7,0
+1529,46.0,Male,Chicago,Platinum,39.0,1902.17,,2023-12-23 09:39:46.585300,Manager,25,0
+1530,46.0,Female,,Platinum,196.0,5905.44,Home Goods,2023-02-08 09:39:46.585300,Doctor,78,0
+1531,20.0,Other,Philadelphia,Silver,167.0,1135.71,,2023-01-08 09:39:46.585300,Artist,29,1
+1532,49.0,Male,Houston,Platinum,17.0,9860.02,Home Goods,2023-09-06 09:39:46.585300,,85,0
+1533,70.0,Female,Phoenix,Silver,175.0,6001.27,Electronics,2023-11-19 09:39:46.585300,Artist,76,0
+1534,44.0,Female,Los Angeles,Silver,94.0,5890.56,Electronics,2023-02-05 09:39:46.585300,Doctor,18,0
+1535,55.0,,Phoenix,Gold,25.0,4487.24,Electronics,2023-10-04 09:39:46.585300,Engineer,11,1
+1536,,Male,,Gold,27.0,4425.8,Clothing,2023-08-19 09:39:46.585300,Engineer,11,0
+1537,55.0,Female,,Platinum,139.0,6829.97,Home Goods,2023-07-15 09:39:46.585300,Doctor,1,0
+1538,57.0,Female,Los Angeles,Silver,127.0,,Home Goods,2023-05-24 09:39:46.585300,Doctor,79,0
+1539,27.0,Male,New York,Platinum,64.0,4135.97,Electronics,2023-12-23 09:39:46.585300,Artist,16,1
+1540,47.0,Male,Philadelphia,Platinum,121.0,5028.61,Clothing,2023-12-02 09:39:46.585300,Doctor,27,0
+1541,66.0,Female,Los Angeles,Silver,158.0,3780.79,Clothing,2023-06-10 09:39:46.585300,Manager,77,1
+1542,46.0,Female,Philadelphia,Silver,47.0,8595.06,Home Goods,2023-04-29 09:39:46.585300,Doctor,39,1
+1543,41.0,Other,Houston,Bronze,49.0,,,2023-01-12 09:39:46.585300,Doctor,31,0
+1544,68.0,Other,Houston,Bronze,117.0,8787.27,Home Goods,2023-03-28 09:39:46.585300,Teacher,73,0
+1545,34.0,Male,,Platinum,49.0,8660.04,Home Goods,2023-09-30 09:39:46.585300,Teacher,39,0
+1546,18.0,Male,Philadelphia,Platinum,,7393.14,Electronics,2023-03-12 09:39:46.585300,Engineer,81,1
+1547,55.0,Female,Philadelphia,Silver,3.0,1470.01,Electronics,2023-01-24 09:39:46.585300,Engineer,46,0
+1548,53.0,Female,Chicago,Silver,82.0,445.12,Clothing,2023-11-12 09:39:46.585300,Manager,72,1
+1549,32.0,Male,Houston,Gold,63.0,3087.78,Electronics,2023-06-19 09:39:46.585300,,36,0
+1550,17.0,Male,New York,Bronze,4.0,5052.62,Clothing,2023-12-03 09:39:46.585300,Doctor,34,0
+1551,19.0,Male,Philadelphia,Gold,81.0,,Electronics,2023-05-07 09:39:46.585300,Manager,43,0
+1552,20.0,Male,Los Angeles,Silver,197.0,4532.67,Clothing,2023-01-07 09:39:46.585300,,7,0
+1553,36.0,Female,Houston,Bronze,157.0,8676.86,Home Goods,2023-12-17 09:39:46.585300,Manager,35,0
+1554,30.0,Other,Phoenix,Platinum,48.0,3673.98,Home Goods,2023-11-12 09:39:46.585300,Engineer,25,1
+1555,49.0,Other,,,114.0,,Electronics,2023-05-02 09:39:46.585300,Engineer,11,1
+1556,58.0,Male,Chicago,Bronze,,458.98,Clothing,2023-02-14 09:39:46.585300,Doctor,34,1
+1557,40.0,Male,,Bronze,47.0,7200.01,Electronics,2023-09-20 09:39:46.585300,Artist,23,1
+1558,31.0,,Houston,Platinum,81.0,5228.35,Home Goods,2023-03-17 09:39:46.585300,Engineer,60,1
+1559,68.0,Female,Chicago,Silver,40.0,6945.41,Home Goods,2023-01-26 09:39:46.585300,Artist,17,1
+1560,43.0,Female,New York,Gold,72.0,5008.83,Clothing,2023-07-03 09:39:46.585300,,49,1
+1561,70.0,Male,Houston,,125.0,2370.62,Clothing,2023-05-20 09:39:46.585300,Doctor,52,1
+1562,30.0,Male,Chicago,Bronze,125.0,7125.19,Home Goods,2023-07-08 09:39:46.585300,Teacher,85,1
+1563,66.0,Other,Philadelphia,Gold,168.0,2493.03,Clothing,2023-12-27 09:39:46.585300,Doctor,90,0
+1564,16.0,Male,Philadelphia,Platinum,98.0,4992.9,,2023-03-05 09:39:46.585300,Manager,75,1
+1565,19.0,Other,Philadelphia,Bronze,,8251.45,,2023-09-29 09:39:46.585300,Artist,34,0
+1566,54.0,Female,New York,Bronze,188.0,8711.85,Clothing,2023-04-04 09:39:46.585300,Manager,2,1
+1567,29.0,,Phoenix,Silver,4.0,4173.16,Home Goods,2023-05-31 09:39:46.585300,Engineer,73,0
+1568,60.0,Other,Los Angeles,Gold,67.0,3128.78,Electronics,2023-08-20 09:39:46.585300,Teacher,36,1
+1569,50.0,Male,,Platinum,35.0,,Electronics,2023-06-04 09:39:46.585300,Doctor,1,0
+1570,47.0,Male,New York,Gold,124.0,8946.91,Clothing,2023-07-09 09:39:46.585300,Doctor,58,1
+1571,20.0,Other,,Gold,41.0,7673.51,Home Goods,2023-04-23 09:39:46.585300,Engineer,63,0
+1572,45.0,Male,Los Angeles,Bronze,119.0,4053.58,,2023-08-01 09:39:46.585300,Engineer,55,1
+1573,20.0,Other,Los Angeles,Platinum,85.0,4387.95,Electronics,2023-10-25 09:39:46.585300,Manager,61,1
+1574,31.0,Male,New York,Gold,163.0,824.47,Electronics,2023-03-22 09:39:46.585300,Engineer,73,1
+1575,38.0,Male,New York,Silver,174.0,8138.85,Home Goods,2023-04-02 09:39:46.585300,Engineer,43,0
+1576,64.0,Male,Philadelphia,Silver,196.0,5917.87,Clothing,2023-03-01 09:39:46.585300,Doctor,75,0
+1577,35.0,Other,Phoenix,Platinum,173.0,5813.78,Clothing,2023-10-07 09:39:46.585300,Manager,20,0
+1578,54.0,Male,New York,,39.0,7185.47,Clothing,2023-05-28 09:39:46.585300,Teacher,5,0
+1579,25.0,Female,New York,Bronze,164.0,8544.47,Clothing,2023-07-10 09:39:46.585300,Teacher,36,0
+1580,24.0,Other,,Platinum,105.0,144.66,Electronics,2023-06-12 09:39:46.585300,Engineer,56,1
+1581,28.0,Female,,Gold,185.0,1118.09,Home Goods,2023-03-27 09:39:46.585300,Engineer,83,1
+1582,33.0,Female,Chicago,Bronze,29.0,5717.3,Electronics,2023-12-19 09:39:46.585300,Doctor,54,0
+1583,36.0,Other,New York,Bronze,170.0,3922.85,Home Goods,2023-01-11 09:39:46.585300,,71,1
+1584,46.0,Other,Phoenix,Gold,82.0,1857.55,Clothing,2023-04-02 09:39:46.585300,Artist,50,1
+1585,61.0,,Houston,Bronze,91.0,8741.33,Home Goods,2023-09-10 09:39:46.585300,Doctor,58,0
+1586,37.0,Other,Chicago,Gold,66.0,9563.11,Home Goods,2023-04-23 09:39:46.585300,Artist,35,1
+1587,21.0,Female,Chicago,Silver,26.0,1657.01,Clothing,2023-03-04 09:39:46.585300,Engineer,6,1
+1588,46.0,Male,Houston,Silver,138.0,8543.61,,2023-11-04 09:39:46.585300,Teacher,33,0
+1589,35.0,Other,Philadelphia,Bronze,43.0,2439.43,Electronics,2023-09-05 09:39:46.585300,Teacher,88,1
+1590,54.0,Other,New York,Silver,123.0,9671.41,Home Goods,2023-09-07 09:39:46.585300,Manager,3,1
+1591,36.0,Female,,Platinum,,9594.75,Home Goods,2023-10-10 09:39:46.585300,Artist,89,1
+1592,,Female,Chicago,Gold,115.0,5726.73,,2023-02-25 09:39:46.585300,Doctor,17,1
+1593,43.0,Female,Los Angeles,Silver,83.0,7088.66,Electronics,2023-05-24 09:39:46.585300,Doctor,47,0
+1594,32.0,Female,Houston,Gold,130.0,7002.53,Electronics,2023-06-23 09:39:46.585300,Engineer,76,0
+1595,54.0,,Phoenix,Silver,101.0,6656.81,Home Goods,2023-04-08 09:39:46.585300,Engineer,49,0
+1596,64.0,,Chicago,Silver,52.0,6505.63,Home Goods,2023-04-07 09:39:46.585300,,53,1
+1597,19.0,Other,,Silver,125.0,2602.09,Home Goods,2023-07-31 09:39:46.585300,Artist,11,1
+1598,39.0,Male,Chicago,Platinum,149.0,5714.39,Clothing,2023-04-11 09:39:46.585300,Artist,8,0
+1599,21.0,,Los Angeles,Gold,121.0,7495.47,Clothing,2023-03-17 09:39:46.585300,Artist,93,0
+1600,34.0,Female,Los Angeles,,109.0,9532.05,Home Goods,2023-10-21 09:39:46.585300,Manager,49,0
+1601,,,Los Angeles,Bronze,81.0,2799.39,Clothing,2023-05-05 09:39:46.585300,,24,0
+1602,56.0,Other,Los Angeles,Silver,,7568.17,Home Goods,2023-08-13 09:39:46.585300,Doctor,28,0
+1603,59.0,Female,New York,Bronze,190.0,2081.52,,2023-11-12 09:39:46.585300,Teacher,32,1
+1604,27.0,Male,Philadelphia,Bronze,,,Clothing,2023-05-08 09:39:46.585300,Teacher,83,1
+1605,56.0,Other,Houston,Bronze,120.0,4279.31,,2023-02-02 09:39:46.585300,Artist,46,1
+1606,60.0,Male,Phoenix,Silver,21.0,7412.74,Electronics,2023-10-14 09:39:46.585300,Artist,72,1
+1607,58.0,Male,Phoenix,Platinum,76.0,2284.58,Electronics,2023-01-19 09:39:46.585300,,89,0
+1608,65.0,Male,,Silver,85.0,5719.13,Home Goods,2023-10-23 09:39:46.585300,,16,0
+1609,44.0,Male,New York,Gold,123.0,7531.13,Clothing,2023-07-01 09:39:46.585300,Artist,76,0
+1610,,Male,Chicago,Platinum,11.0,7539.36,Electronics,2023-02-13 09:39:46.585300,Engineer,35,1
+1611,69.0,Male,Phoenix,Gold,133.0,,Home Goods,2023-04-14 09:39:46.585300,,56,0
+1612,39.0,Male,Houston,Bronze,156.0,3238.5,,2023-06-27 09:39:46.585300,Manager,35,1
+1613,,Male,New York,Bronze,144.0,4416.62,Electronics,2023-02-19 09:39:46.585300,Doctor,29,1
+1614,53.0,,New York,Platinum,103.0,,,2023-09-18 09:39:46.585300,Manager,78,0
+1615,47.0,,Phoenix,Silver,91.0,5544.44,Electronics,2023-12-21 09:39:46.585300,Artist,77,1
+1616,26.0,Female,Chicago,Bronze,149.0,4230.96,Electronics,2023-11-27 09:39:46.585300,Engineer,10,0
+1617,43.0,Other,Houston,Gold,26.0,387.64,Clothing,2023-02-18 09:39:46.585300,Engineer,16,1
+1618,,Female,New York,Bronze,71.0,2210.08,,2023-03-20 09:39:46.585300,Artist,3,1
+1619,64.0,Male,Chicago,Bronze,163.0,1328.36,Clothing,2023-07-23 09:39:46.585300,Doctor,21,0
+1620,,Other,New York,Platinum,129.0,,Electronics,2023-10-06 09:39:46.585300,Artist,30,1
+1621,28.0,Other,Philadelphia,Silver,94.0,462.89,Home Goods,2023-09-12 09:39:46.585300,Engineer,27,1
+1622,37.0,Female,,Platinum,120.0,5455.6,Electronics,2023-11-02 09:39:46.585300,Teacher,10,1
+1623,31.0,Other,Los Angeles,Bronze,37.0,8227.19,Home Goods,2023-01-09 09:39:46.585300,Artist,55,0
+1624,58.0,Female,,Silver,163.0,8089.45,Clothing,2023-07-07 09:39:46.585300,Artist,96,0
+1625,55.0,,Phoenix,Gold,44.0,513.75,Home Goods,2023-08-22 09:39:46.585300,Artist,9,1
+1626,57.0,Other,,Platinum,196.0,1957.14,Electronics,2023-07-08 09:39:46.585300,Teacher,90,1
+1627,37.0,Male,New York,Bronze,155.0,1214.86,Electronics,2023-09-25 09:39:46.585300,Doctor,93,0
+1628,27.0,,Chicago,Platinum,8.0,2642.95,Home Goods,2023-11-14 09:39:46.585300,Artist,51,0
+1629,44.0,Male,Phoenix,Gold,162.0,2949.38,Electronics,2023-07-22 09:39:46.585300,Teacher,20,0
+1630,51.0,Male,Houston,Platinum,7.0,1904.51,Clothing,2023-05-18 09:39:46.585300,Teacher,28,0
+1631,,Female,Philadelphia,Platinum,,7022.01,Electronics,2023-03-16 09:39:46.585300,Manager,46,0
+1632,56.0,Other,Chicago,,118.0,4020.89,Home Goods,2023-05-09 09:39:46.585300,Teacher,24,1
+1633,57.0,,Chicago,Gold,137.0,624.93,Electronics,2023-10-06 09:39:46.585300,,32,0
+1634,67.0,Male,New York,Bronze,81.0,4198.18,Home Goods,2023-08-19 09:39:46.585300,Teacher,11,1
+1635,53.0,,Los Angeles,Silver,85.0,8198.55,Electronics,2023-12-11 09:39:46.585300,Engineer,63,0
+1636,60.0,Male,New York,Bronze,123.0,2848.35,Electronics,2023-10-17 09:39:46.585300,Teacher,68,1
+1637,,,Los Angeles,Gold,153.0,3883.24,Home Goods,2023-08-25 09:39:46.585300,,11,0
+1638,43.0,Other,Houston,Silver,39.0,552.63,Home Goods,2023-11-17 09:39:46.585300,,27,0
+1639,58.0,Male,New York,Bronze,8.0,742.2,,2023-11-19 09:39:46.585300,Manager,40,0
+1640,34.0,Female,,Gold,28.0,8937.26,Electronics,2023-11-02 09:39:46.585300,Teacher,13,0
+1641,63.0,Male,Phoenix,Gold,139.0,,Clothing,2023-01-23 09:39:46.585300,Doctor,58,0
+1642,51.0,Male,Philadelphia,,41.0,5627.3,Home Goods,2023-05-02 09:39:46.585300,Manager,0,1
+1643,46.0,Female,Phoenix,Silver,65.0,596.73,Electronics,2023-11-14 09:39:46.585300,Doctor,36,0
+1644,37.0,Male,,Platinum,90.0,9597.39,Clothing,2023-07-31 09:39:46.585300,Engineer,36,1
+1645,42.0,Male,Los Angeles,Bronze,35.0,1500.65,Home Goods,2023-09-24 09:39:46.585300,Doctor,75,0
+1646,32.0,,Chicago,Bronze,97.0,1178.92,Home Goods,2023-04-05 09:39:46.585300,Teacher,21,0
+1647,62.0,Female,Houston,Platinum,5.0,8869.98,Clothing,2023-07-09 09:39:46.585300,,76,1
+1648,36.0,Male,Philadelphia,Silver,186.0,2831.98,Home Goods,2023-07-04 09:39:46.585300,Teacher,93,1
+1649,52.0,Male,Phoenix,Silver,57.0,3945.99,Home Goods,2023-10-14 09:39:46.585300,Teacher,54,0
+1650,,Other,Houston,Silver,91.0,8130.13,Clothing,2023-01-10 09:39:46.585300,Doctor,88,1
+1651,62.0,Female,New York,Bronze,43.0,5168.73,Home Goods,2023-03-14 09:39:46.585300,Artist,10,1
+1652,50.0,Female,Los Angeles,Gold,37.0,4686.84,Electronics,2023-02-08 09:39:46.585300,Artist,23,0
+1653,35.0,Female,Los Angeles,Silver,,7360.59,,2023-12-12 09:39:46.585300,Manager,2,0
+1654,41.0,Male,Los Angeles,Silver,132.0,7886.55,Home Goods,2023-12-16 09:39:46.585300,Teacher,95,1
+1655,44.0,,Chicago,Silver,74.0,2327.32,Clothing,2023-06-04 09:39:46.585300,Artist,92,0
+1656,32.0,Female,Chicago,Gold,123.0,6824.08,Clothing,2023-05-28 09:39:46.585300,Engineer,59,1
+1657,65.0,Male,Los Angeles,Gold,52.0,,Home Goods,2023-06-20 09:39:46.585300,Manager,36,0
+1658,42.0,Other,Chicago,Gold,176.0,9127.44,Clothing,2023-08-06 09:39:46.585300,Engineer,44,1
+1659,50.0,Female,Houston,Platinum,158.0,4566.99,Clothing,2023-01-27 09:39:46.585300,,44,1
+1660,23.0,,Houston,Bronze,26.0,1211.99,Home Goods,2023-07-11 09:39:46.585300,Artist,86,1
+1661,56.0,Female,Houston,Bronze,89.0,4735.11,Home Goods,2023-10-24 09:39:46.585300,Teacher,68,1
+1662,50.0,Female,Houston,Gold,,7349.62,Electronics,2023-01-10 09:39:46.585300,,72,0
+1663,66.0,Male,Philadelphia,Gold,,2832.15,Clothing,2023-08-10 09:39:46.585300,Doctor,6,1
+1664,53.0,Female,New York,Platinum,,983.39,Home Goods,2023-11-19 09:39:46.585300,Doctor,78,0
+1665,46.0,Male,New York,Silver,189.0,,Clothing,2023-08-21 09:39:46.585300,Engineer,20,1
+1666,20.0,,Los Angeles,Bronze,143.0,1575.21,Clothing,2023-11-16 09:39:46.585300,Teacher,56,1
+1667,23.0,Other,Philadelphia,Silver,108.0,919.87,Home Goods,2023-04-08 09:39:46.585300,,66,0
+1668,39.0,Female,Phoenix,Silver,192.0,5371.34,Electronics,2023-01-08 09:39:46.585300,Doctor,83,1
+1669,26.0,,Philadelphia,Silver,,3908.26,Clothing,2023-01-26 09:39:46.585300,Engineer,45,0
+1670,70.0,Female,Philadelphia,Bronze,8.0,8781.66,Home Goods,2023-11-06 09:39:46.585300,Artist,68,1
+1671,52.0,Other,Chicago,Gold,123.0,3551.07,,2023-04-23 09:39:46.585300,Engineer,70,0
+1672,53.0,,Chicago,Bronze,104.0,2750.33,Clothing,2023-08-03 09:39:46.585300,Manager,56,1
+1673,67.0,Male,Philadelphia,Platinum,54.0,7502.46,Home Goods,2023-11-02 09:39:46.585300,Manager,84,1
+1674,54.0,,Los Angeles,Gold,54.0,761.36,Clothing,2023-11-16 09:39:46.585300,Manager,56,1
+1675,44.0,Other,Chicago,Silver,156.0,8802.44,Electronics,2023-10-01 09:39:46.585300,Teacher,33,1
+1676,24.0,Female,Houston,Platinum,58.0,8733.41,Clothing,2023-06-29 09:39:46.585300,,25,1
+1677,18.0,Other,Chicago,Bronze,57.0,8914.87,Home Goods,2023-03-19 09:39:46.585300,Teacher,0,1
+1678,,Female,Philadelphia,,135.0,8139.43,,2023-02-26 09:39:46.585300,Doctor,9,1
+1679,26.0,Other,Los Angeles,Gold,21.0,6908.57,Home Goods,2023-05-26 09:39:46.585300,Artist,90,1
+1680,21.0,Female,Chicago,,128.0,,Clothing,2023-03-24 09:39:46.585300,Teacher,85,0
+1681,,Female,Los Angeles,Gold,62.0,4404.68,Electronics,2023-09-15 09:39:46.585300,Artist,77,0
+1682,25.0,Other,Chicago,Silver,6.0,1838.5,Electronics,2023-01-25 09:39:46.585300,,80,0
+1683,42.0,Female,Houston,Silver,15.0,6529.03,Clothing,2023-04-28 09:39:46.585300,,25,1
+1684,55.0,Other,Phoenix,Silver,132.0,2855.13,Electronics,2023-03-20 09:39:46.585300,Artist,10,1
+1685,29.0,Female,New York,Gold,28.0,9598.08,,2023-01-25 09:39:46.585300,Manager,59,1
+1686,60.0,Male,Philadelphia,Gold,173.0,9157.84,,2023-01-26 09:39:46.585300,Doctor,63,1
+1687,68.0,Other,New York,Platinum,49.0,2814.03,Electronics,2023-03-12 09:39:46.585300,Artist,5,1
+1688,45.0,Other,Houston,,87.0,1271.97,Electronics,2023-12-31 09:39:46.585300,Artist,10,0
+1689,50.0,Female,Chicago,Platinum,76.0,8035.31,Home Goods,2023-08-14 09:39:46.585300,Doctor,28,1
+1690,61.0,,Los Angeles,Silver,128.0,5025.89,Electronics,2023-12-21 09:39:46.585300,Teacher,18,1
+1691,38.0,Other,,Gold,88.0,9165.86,Clothing,2023-10-05 09:39:46.585300,Manager,62,0
+1692,,Male,Philadelphia,Bronze,92.0,9740.66,Electronics,2024-01-02 09:39:46.585300,Artist,21,1
+1693,,Other,Chicago,Bronze,15.0,6303.02,Home Goods,2023-06-03 09:39:46.585300,Doctor,58,1
+1694,53.0,Female,Houston,Platinum,24.0,9450.44,Clothing,2023-04-28 09:39:46.585300,,47,0
+1695,35.0,Male,Los Angeles,Silver,1.0,9689.18,Electronics,2023-10-12 09:39:46.585300,Doctor,79,1
+1696,,Male,Phoenix,Bronze,,9678.33,Home Goods,2023-11-22 09:39:46.585300,Manager,66,1
+1697,,Other,Los Angeles,Platinum,,,Clothing,2023-05-27 09:39:46.585300,Manager,73,0
+1698,61.0,Male,New York,Gold,72.0,,Clothing,2023-01-08 09:39:46.585300,Doctor,57,1
+1699,22.0,Female,Chicago,Bronze,174.0,,Electronics,2023-03-21 09:39:46.585300,Artist,19,1
+1700,27.0,,Phoenix,,,,Electronics,2023-08-08 09:39:46.585300,Doctor,57,0
+1701,37.0,Male,,,129.0,3377.64,Electronics,2023-02-04 09:39:46.585300,Engineer,50,1
+1702,63.0,,Phoenix,Silver,75.0,5664.02,Electronics,2023-05-31 09:39:46.585300,Artist,29,1
+1703,18.0,,,Platinum,41.0,9626.49,Home Goods,2023-04-06 09:39:46.585300,,7,0
+1704,39.0,Male,New York,,105.0,6928.11,,2023-05-21 09:39:46.585300,Engineer,11,0
+1705,50.0,,New York,Silver,30.0,4384.89,Electronics,2023-06-27 09:39:46.585300,Doctor,87,0
+1706,52.0,Female,New York,Silver,76.0,5066.21,Clothing,2023-08-01 09:39:46.585300,Engineer,72,1
+1707,61.0,Male,Phoenix,Platinum,191.0,1179.07,Clothing,2023-07-30 09:39:46.585300,Manager,23,0
+1708,,Female,Los Angeles,Platinum,188.0,7878.38,Home Goods,2023-04-26 09:39:46.585300,Teacher,68,1
+1709,39.0,Male,Phoenix,Bronze,93.0,6373.53,Electronics,2023-06-29 09:39:46.585300,Teacher,0,1
+1710,41.0,Other,New York,Bronze,,3755.95,Clothing,2023-02-26 09:39:46.585300,Teacher,26,1
+1711,19.0,Other,New York,Platinum,69.0,6177.57,Home Goods,2023-02-20 09:39:46.585300,Manager,84,0
+1712,24.0,Male,Los Angeles,Bronze,18.0,9224.43,Clothing,2023-02-12 09:39:46.585300,Engineer,64,1
+1713,63.0,,,Silver,15.0,3154.68,Clothing,2023-10-15 09:39:46.585300,Doctor,81,1
+1714,29.0,Male,Phoenix,Platinum,10.0,9540.96,Electronics,2023-07-22 09:39:46.585300,,95,1
+1715,70.0,Female,Los Angeles,Platinum,131.0,2276.98,Electronics,2023-07-10 09:39:46.585300,Teacher,52,1
+1716,46.0,Male,Phoenix,Gold,192.0,6240.7,Clothing,2023-10-20 09:39:46.585300,Manager,69,0
+1717,48.0,Female,Houston,Gold,7.0,5898.92,Home Goods,2023-10-27 09:39:46.585300,Manager,7,1
+1718,20.0,,Houston,Gold,106.0,5592.57,,2023-04-18 09:39:46.585300,Manager,37,1
+1719,34.0,Male,,Silver,150.0,3840.61,Home Goods,2023-07-30 09:39:46.585300,Teacher,20,0
+1720,69.0,Other,Chicago,Bronze,84.0,433.94,,2023-03-13 09:39:46.585300,Manager,84,0
+1721,37.0,Male,New York,Platinum,3.0,4666.6,Home Goods,2023-02-14 09:39:46.585300,,30,1
+1722,34.0,Other,Houston,Bronze,55.0,4729.77,Electronics,2023-02-14 09:39:46.585300,Teacher,15,1
+1723,39.0,Female,Phoenix,Gold,104.0,1503.51,Clothing,2023-06-21 09:39:46.585300,Doctor,38,0
+1724,66.0,,Los Angeles,Silver,2.0,6754.73,Home Goods,2023-08-16 09:39:46.585300,Engineer,28,0
+1725,66.0,Male,Phoenix,Bronze,172.0,4030.52,Electronics,2023-08-17 09:39:46.585300,Manager,49,0
+1726,22.0,Other,Houston,,39.0,8095.23,Home Goods,2023-10-29 09:39:46.585300,,85,1
+1727,51.0,Other,New York,Platinum,176.0,8633.3,Electronics,2023-01-18 09:39:46.585300,Engineer,89,1
+1728,59.0,,Phoenix,Bronze,95.0,2986.03,Clothing,2023-09-19 09:39:46.585300,Engineer,15,0
+1729,18.0,Other,Houston,Gold,103.0,2152.76,Home Goods,2023-02-09 09:39:46.585300,,48,0
+1730,45.0,Male,,Silver,77.0,7486.89,Home Goods,2023-11-19 09:39:46.585300,Teacher,99,1
+1731,,Male,Phoenix,Platinum,90.0,,Clothing,2023-07-01 09:39:46.585300,Doctor,12,1
+1732,38.0,Other,Houston,Gold,39.0,4027.89,,2023-05-07 09:39:46.585300,Teacher,23,0
+1733,33.0,Other,Chicago,Platinum,168.0,,Electronics,2023-10-29 09:39:46.585300,Engineer,37,1
+1734,26.0,,Los Angeles,Gold,,2861.65,Home Goods,2023-04-28 09:39:46.585300,Teacher,75,1
+1735,61.0,Other,Los Angeles,Bronze,38.0,3340.77,Clothing,2023-01-30 09:39:46.585300,Teacher,81,1
+1736,47.0,Other,Los Angeles,Bronze,18.0,1926.77,Home Goods,2023-01-07 09:39:46.585300,Engineer,88,1
+1737,54.0,Male,Philadelphia,Silver,165.0,4450.1,Clothing,2023-05-04 09:39:46.585300,Teacher,12,0
+1738,51.0,Other,Houston,Gold,131.0,1770.79,Electronics,2023-05-09 09:39:46.585300,Manager,42,0
+1739,66.0,,Chicago,Bronze,189.0,7283.97,Home Goods,2023-09-22 09:39:46.585300,Teacher,60,1
+1740,68.0,Other,Philadelphia,Bronze,120.0,1620.08,Clothing,2023-02-19 09:39:46.585300,,27,1
+1741,33.0,,,Bronze,106.0,7456.34,Home Goods,2023-12-08 09:39:46.585300,,96,1
+1742,,Other,Philadelphia,Gold,195.0,3657.85,,2023-09-26 09:39:46.585300,Manager,6,0
+1743,23.0,Other,Philadelphia,Silver,172.0,2090.82,Clothing,2023-07-27 09:39:46.585300,,58,1
+1744,70.0,Female,New York,Bronze,125.0,3744.31,Electronics,2023-01-19 09:39:46.585300,Manager,45,0
+1745,60.0,Female,New York,Platinum,44.0,8627.25,Clothing,2023-03-03 09:39:46.585300,Doctor,22,0
+1746,36.0,Other,,Platinum,,4255.1,Clothing,2023-08-21 09:39:46.585300,Doctor,12,1
+1747,36.0,Female,New York,Bronze,109.0,502.68,Electronics,2023-11-26 09:39:46.585300,Doctor,85,0
+1748,64.0,Female,,Gold,77.0,,Clothing,2023-10-16 09:39:46.585300,Doctor,0,0
+1749,51.0,,Phoenix,,4.0,8477.94,Electronics,2023-12-16 09:39:46.585300,Engineer,28,0
+1750,41.0,,New York,,169.0,7784.8,,2023-10-06 09:39:46.585300,Manager,43,0
+1751,49.0,Male,,Gold,80.0,3606.15,Electronics,2023-05-27 09:39:46.585300,Manager,99,0
+1752,55.0,Other,,Platinum,,1730.78,Clothing,2023-03-24 09:39:46.585300,Doctor,65,0
+1753,27.0,Other,Philadelphia,Silver,101.0,9528.48,Electronics,2023-11-15 09:39:46.585300,Artist,17,1
+1754,23.0,Other,Los Angeles,Gold,186.0,6187.97,Electronics,2023-08-17 09:39:46.585300,Artist,25,0
+1755,,Female,Phoenix,Platinum,141.0,3073.9,Home Goods,2023-02-20 09:39:46.585300,Teacher,15,0
+1756,59.0,Other,Phoenix,Gold,,3925.64,,2023-07-12 09:39:46.585300,Artist,77,0
+1757,34.0,,New York,Gold,115.0,559.57,Clothing,2023-10-22 09:39:46.585300,Artist,21,0
+1758,34.0,Female,Phoenix,Bronze,79.0,1030.27,,2023-03-05 09:39:46.585300,Doctor,2,0
+1759,20.0,Female,New York,,82.0,284.62,Electronics,2023-11-25 09:39:46.585300,Manager,14,1
+1760,43.0,Male,Los Angeles,Bronze,88.0,,Clothing,2023-05-22 09:39:46.585300,Manager,20,0
+1761,33.0,Female,Phoenix,Gold,98.0,1024.34,Electronics,2023-06-24 09:39:46.585300,Doctor,23,1
+1762,,Female,Los Angeles,Platinum,16.0,2203.91,,2023-08-23 09:39:46.585300,Teacher,34,1
+1763,,Male,Los Angeles,Bronze,132.0,6630.0,Clothing,2023-02-10 09:39:46.585300,Engineer,72,1
+1764,,Other,New York,Bronze,118.0,6173.86,Clothing,2023-07-31 09:39:46.585300,Artist,22,1
+1765,25.0,Female,Philadelphia,Bronze,31.0,4111.78,Clothing,2023-02-23 09:39:46.585300,Artist,7,0
+1766,46.0,Male,Philadelphia,Gold,91.0,9393.92,Clothing,2023-05-05 09:39:46.585300,Doctor,52,0
+1767,,Female,,Gold,181.0,,Electronics,2023-07-10 09:39:46.585300,Doctor,63,0
+1768,,Male,,Bronze,80.0,5294.07,Clothing,2023-09-27 09:39:46.585300,Doctor,1,1
+1769,52.0,Female,Phoenix,Bronze,33.0,7762.86,Electronics,2023-04-23 09:39:46.585300,Engineer,72,0
+1770,55.0,Other,,,35.0,1081.05,Clothing,2023-06-30 09:39:46.585300,Doctor,28,0
+1771,37.0,Male,,Bronze,189.0,4718.12,,2023-01-23 09:39:46.585300,Teacher,91,0
+1772,67.0,Other,Los Angeles,Silver,185.0,6662.27,Clothing,2023-10-11 09:39:46.585300,Engineer,98,0
+1773,68.0,Male,Los Angeles,Platinum,150.0,8980.02,Electronics,2023-01-25 09:39:46.585300,Manager,29,1
+1774,40.0,Female,Philadelphia,Gold,83.0,534.89,,2023-05-31 09:39:46.585300,Doctor,58,0
+1775,28.0,Female,Los Angeles,Platinum,195.0,1597.81,Clothing,2023-02-17 09:39:46.585300,Manager,94,1
+1776,60.0,Female,Houston,,15.0,8764.74,Clothing,2023-11-22 09:39:46.585300,Teacher,9,1
+1777,47.0,Female,New York,Gold,96.0,9919.69,Home Goods,2023-03-16 09:39:46.585300,Doctor,60,0
+1778,33.0,Male,Chicago,Gold,23.0,3925.69,Electronics,2023-11-22 09:39:46.585300,Artist,80,0
+1779,69.0,Male,Chicago,Platinum,96.0,8348.79,,2023-06-22 09:39:46.585300,Doctor,29,1
+1780,66.0,Female,Houston,Silver,190.0,9374.28,Electronics,2023-08-30 09:39:46.585300,Engineer,48,1
+1781,,Other,Los Angeles,,3.0,8130.4,Electronics,2023-08-25 09:39:46.585300,Teacher,89,0
+1782,58.0,Female,,Gold,108.0,5106.11,,2023-01-17 09:39:46.585300,,97,1
+1783,24.0,,Los Angeles,,-1.0,8885.57,Home Goods,2023-04-03 09:39:46.585300,Doctor,65,1
+1784,22.0,Male,Philadelphia,Platinum,80.0,,Home Goods,2023-10-20 09:39:46.585300,Teacher,33,1
+1785,34.0,Male,,Silver,32.0,,Home Goods,2023-11-11 09:39:46.585300,,82,1
+1786,58.0,Female,Chicago,Silver,80.0,585.46,Clothing,2023-07-04 09:39:46.585300,Engineer,28,1
+1787,49.0,Female,Houston,Bronze,101.0,6925.67,Home Goods,2023-11-25 09:39:46.585300,Engineer,48,1
+1788,41.0,Female,New York,Platinum,120.0,5256.51,Clothing,2023-01-19 09:39:46.585300,Manager,53,1
+1789,,Male,Philadelphia,Silver,,4745.8,Clothing,2023-10-19 09:39:46.585300,Manager,82,0
+1790,,Female,,Silver,,9956.18,Home Goods,2023-03-07 09:39:46.585300,Manager,70,1
+1791,48.0,Female,,Silver,,9114.57,Electronics,2023-04-15 09:39:46.585300,Engineer,35,0
+1792,,Other,New York,Gold,27.0,4717.03,Electronics,2023-10-09 09:39:46.585300,Engineer,9,1
+1793,42.0,Male,New York,Bronze,73.0,9033.14,Clothing,2023-10-14 09:39:46.585300,Engineer,24,0
+1794,,Female,Houston,Silver,,6409.31,Home Goods,2023-07-31 09:39:46.585300,Teacher,2,0
+1795,17.0,Other,Phoenix,Bronze,180.0,9211.2,Clothing,2023-03-09 09:39:46.585300,Doctor,27,0
+1796,42.0,Other,Los Angeles,Silver,165.0,3182.85,Electronics,2023-08-12 09:39:46.585300,Artist,62,0
+1797,38.0,Female,Chicago,Bronze,182.0,6881.85,Home Goods,2023-12-13 09:39:46.585300,Artist,66,0
+1798,24.0,Male,Chicago,Gold,,4682.65,Electronics,2023-09-11 09:39:46.585300,Teacher,79,1
+1799,,Other,,Platinum,149.0,1548.84,Electronics,2023-10-10 09:39:46.585300,Manager,2,1
+1800,34.0,,Philadelphia,Platinum,149.0,7935.74,Clothing,2023-03-08 09:39:46.585300,Artist,75,1
+1801,23.0,Other,Chicago,Silver,,2965.89,Home Goods,2023-03-04 09:39:46.585300,Doctor,27,1
+1802,51.0,Other,New York,Platinum,118.0,312.31,Home Goods,2023-10-20 09:39:46.585300,Doctor,99,1
+1803,67.0,Male,,Gold,43.0,5397.46,Electronics,2023-09-03 09:39:46.585300,Artist,15,0
+1804,36.0,Other,Phoenix,Platinum,162.0,2056.8,Home Goods,2023-01-18 09:39:46.585300,Teacher,36,0
+1805,27.0,Female,Houston,Silver,105.0,9919.56,Clothing,2023-06-09 09:39:46.585300,Teacher,87,0
+1806,29.0,Female,New York,Bronze,28.0,8938.45,Clothing,2023-01-29 09:39:46.585300,Teacher,13,0
+1807,54.0,Other,Philadelphia,Bronze,89.0,7010.33,Clothing,2023-12-08 09:39:46.585300,Engineer,50,0
+1808,49.0,Female,Phoenix,Gold,154.0,6108.25,Clothing,2023-07-11 09:39:46.585300,Manager,73,0
+1809,47.0,Male,Chicago,Platinum,133.0,2574.39,Electronics,2023-05-15 09:39:46.585300,Doctor,59,0
+1810,27.0,Male,Chicago,Silver,66.0,2316.96,Home Goods,2023-07-23 09:39:46.585300,Teacher,19,0
+1811,63.0,Female,Chicago,Bronze,25.0,3337.55,Home Goods,2023-05-04 09:39:46.585300,Manager,86,1
+1812,66.0,Female,Phoenix,Gold,24.0,,Electronics,2023-08-29 09:39:46.585300,Engineer,36,1
+1813,52.0,,Chicago,,187.0,7729.15,Electronics,2023-02-13 09:39:46.585300,Artist,60,1
+1814,50.0,Male,Phoenix,Silver,175.0,893.06,Clothing,2023-10-30 09:39:46.585300,Doctor,15,0
+1815,32.0,Other,Phoenix,Silver,165.0,6544.02,Home Goods,2023-06-26 09:39:46.585300,Engineer,41,0
+1816,41.0,Female,Los Angeles,Gold,82.0,8938.53,Electronics,2023-05-11 09:39:46.585300,Manager,59,0
+1817,,Female,Chicago,,44.0,7996.39,Home Goods,2023-09-22 09:39:46.585300,Artist,94,0
+1818,47.0,Male,Phoenix,Platinum,15.0,4903.09,Home Goods,2023-06-24 09:39:46.585300,Engineer,13,0
+1819,62.0,Other,Phoenix,Platinum,39.0,7695.37,Home Goods,2023-09-12 09:39:46.585300,Artist,68,0
+1820,,,Chicago,Silver,,9335.01,Home Goods,2023-07-22 09:39:46.585300,Manager,66,1
+1821,68.0,Female,,Bronze,1.0,2140.88,Electronics,2023-05-13 09:39:46.585300,Manager,22,0
+1822,62.0,,,Gold,140.0,4458.63,Electronics,2023-03-05 09:39:46.585300,Artist,86,1
+1823,62.0,Other,Houston,Bronze,1.0,5135.3,Home Goods,2023-02-17 09:39:46.585300,Teacher,75,0
+1824,27.0,,,,47.0,6888.57,Clothing,2023-07-29 09:39:46.585300,Doctor,86,1
+1825,54.0,Male,Los Angeles,Platinum,190.0,9211.45,Home Goods,2023-07-08 09:39:46.585300,Teacher,93,1
+1826,18.0,Other,New York,Bronze,161.0,3863.32,Home Goods,2023-06-20 09:39:46.585300,,36,0
+1827,33.0,Female,Phoenix,Silver,125.0,1723.9,Electronics,2023-10-18 09:39:46.585300,Teacher,98,0
+1828,,Male,Chicago,Gold,166.0,6530.8,Clothing,2023-12-26 09:39:46.585300,Teacher,96,0
+1829,21.0,,Houston,Silver,,5893.87,Electronics,2023-01-16 09:39:46.585300,Teacher,96,0
+1830,,Other,Phoenix,,195.0,4885.19,Clothing,2023-05-14 09:39:46.585300,Manager,24,0
+1831,,,Phoenix,Gold,155.0,5417.71,Clothing,2023-09-23 09:39:46.585300,Teacher,56,0
+1832,66.0,Other,Los Angeles,Gold,128.0,,Electronics,2023-04-11 09:39:46.585300,Artist,26,1
+1833,46.0,Female,,Platinum,,7888.8,Electronics,2023-12-22 09:39:46.585300,Doctor,23,1
+1834,56.0,Female,,Bronze,37.0,3116.87,Electronics,2023-02-14 09:39:46.585300,Doctor,82,0
+1835,40.0,Male,Phoenix,Platinum,-2.0,6425.38,Home Goods,2023-04-28 09:39:46.585300,Artist,67,0
+1836,37.0,Female,Los Angeles,Bronze,81.0,5274.4,,2023-10-06 09:39:46.585300,Teacher,88,0
+1837,25.0,Female,,Silver,,1662.12,Electronics,2023-04-27 09:39:46.585300,,82,1
+1838,67.0,Male,Philadelphia,Gold,183.0,4640.41,Clothing,2023-10-06 09:39:46.585300,Engineer,25,1
+1839,44.0,,Philadelphia,Gold,22.0,7635.64,Clothing,2023-06-15 09:39:46.585300,,31,1
+1840,24.0,,Houston,Silver,84.0,3466.73,Home Goods,2023-03-05 09:39:46.585300,Artist,56,0
+1841,63.0,,Chicago,Bronze,153.0,,Home Goods,2023-11-02 09:39:46.585300,,41,0
+1842,43.0,Female,,Platinum,172.0,1655.3,Home Goods,2023-11-02 09:39:46.585300,Doctor,12,1
+1843,44.0,Other,Los Angeles,Silver,143.0,6867.05,,2023-11-08 09:39:46.585300,Engineer,50,1
+1844,69.0,Male,Houston,Gold,60.0,9903.16,Home Goods,2023-08-02 09:39:46.585300,Doctor,31,1
+1845,,Female,Houston,Platinum,146.0,5200.87,Electronics,2023-11-28 09:39:46.585300,Artist,32,0
+1846,38.0,Female,Philadelphia,Gold,70.0,,Clothing,2023-11-08 09:39:46.585300,Doctor,47,1
+1847,34.0,Male,Houston,Platinum,13.0,6005.35,Electronics,2023-01-12 09:39:46.585300,Doctor,8,0
+1848,35.0,Female,Philadelphia,Platinum,1.0,,Clothing,2023-01-09 09:39:46.585300,Manager,7,1
+1849,51.0,Female,Philadelphia,Platinum,171.0,6516.13,Clothing,2023-01-09 09:39:46.585300,Artist,26,1
+1850,45.0,Female,,Gold,49.0,4049.88,Electronics,2023-10-07 09:39:46.585300,Teacher,78,1
+1851,54.0,Female,,Silver,99.0,2368.09,Home Goods,2023-07-24 09:39:46.585300,Engineer,94,0
+1852,57.0,Other,Houston,Platinum,63.0,6573.38,,2023-06-15 09:39:46.585300,Engineer,40,0
+1853,37.0,Female,New York,Gold,162.0,3472.22,,2023-09-28 09:39:46.585300,Artist,46,1
+1854,63.0,Female,Philadelphia,,133.0,849.97,Home Goods,2023-04-06 09:39:46.585300,,10,1
+1855,20.0,,Philadelphia,Silver,31.0,9144.58,Clothing,2023-04-07 09:39:46.585300,Manager,75,1
+1856,35.0,,Phoenix,Gold,55.0,3529.5,Clothing,2023-09-21 09:39:46.585300,Artist,72,1
+1857,30.0,Male,New York,,168.0,5712.27,Clothing,2023-10-13 09:39:46.585300,Artist,47,1
+1858,70.0,Female,Philadelphia,Platinum,83.0,9928.92,Home Goods,2023-04-25 09:39:46.585300,Artist,17,0
+1859,67.0,Male,Houston,Platinum,38.0,907.47,Electronics,2023-10-05 09:39:46.585300,Teacher,33,0
+1860,47.0,Other,Chicago,Silver,185.0,6169.34,Home Goods,2023-03-19 09:39:46.585300,Manager,35,1
+1861,51.0,Female,Los Angeles,Platinum,56.0,208.55,Clothing,2023-07-28 09:39:46.585300,Engineer,32,0
+1862,35.0,Female,Philadelphia,,165.0,7383.78,Clothing,2023-07-06 09:39:46.585300,Engineer,49,1
+1863,31.0,Female,Philadelphia,Silver,61.0,2552.75,Electronics,2023-06-27 09:39:46.585300,Artist,10,0
+1864,65.0,Female,Philadelphia,,87.0,,Home Goods,2024-01-06 09:39:46.585300,Teacher,78,0
+1865,45.0,Other,Phoenix,Bronze,167.0,2523.15,Home Goods,2023-02-13 09:39:46.585300,Engineer,4,0
+1866,57.0,Female,Houston,Bronze,73.0,2744.66,Electronics,2024-01-03 09:39:46.585300,Engineer,64,1
+1867,52.0,Male,New York,Silver,60.0,,Clothing,2023-07-23 09:39:46.585300,Artist,37,1
+1868,25.0,Female,Houston,Platinum,149.0,966.44,Home Goods,2023-07-02 09:39:46.585300,,34,1
+1869,48.0,Male,Los Angeles,Platinum,82.0,2853.25,Clothing,2023-10-22 09:39:46.585300,Doctor,53,1
+1870,60.0,Female,Houston,Platinum,48.0,7439.37,Electronics,2023-12-10 09:39:46.585300,Artist,84,0
+1871,34.0,Female,New York,,48.0,7396.61,Electronics,2023-04-17 09:39:46.585300,Manager,69,0
+1872,,,New York,Platinum,58.0,4506.94,Clothing,2023-12-18 09:39:46.585300,Engineer,15,1
+1873,42.0,,Houston,Gold,98.0,9135.98,Clothing,2023-05-06 09:39:46.585300,Manager,13,1
+1874,35.0,Other,Houston,Silver,120.0,5991.48,Clothing,2023-05-25 09:39:46.585300,Artist,70,1
+1875,64.0,Male,Phoenix,Silver,82.0,4639.02,Home Goods,2023-11-10 09:39:46.585300,Manager,46,1
+1876,46.0,Male,,Bronze,94.0,9535.17,Electronics,2023-12-09 09:39:46.585300,Artist,67,1
+1877,55.0,Male,Philadelphia,Bronze,59.0,1130.21,Clothing,2023-03-26 09:39:46.585300,Artist,44,1
+1878,66.0,Female,Los Angeles,Platinum,143.0,1064.09,Home Goods,2023-11-05 09:39:46.585300,,51,1
+1879,40.0,,Chicago,Platinum,153.0,1442.66,Home Goods,2023-06-18 09:39:46.585300,Engineer,13,0
+1880,64.0,Female,Houston,,34.0,5022.47,Clothing,2023-07-18 09:39:46.585300,Artist,13,0
+1881,30.0,Female,Chicago,Silver,13.0,4064.93,Home Goods,2024-01-02 09:39:46.585300,Doctor,7,1
+1882,22.0,Other,Philadelphia,Platinum,34.0,6506.47,Clothing,2023-02-04 09:39:46.585300,Teacher,90,0
+1883,66.0,,Los Angeles,Gold,128.0,7008.84,,2023-04-11 09:39:46.585300,Artist,50,0
+1884,,Male,Chicago,Gold,80.0,7864.5,Electronics,2023-10-18 09:39:46.585300,Teacher,96,1
+1885,63.0,Male,Los Angeles,,,791.39,Electronics,2023-04-30 09:39:46.585300,Teacher,26,1
+1886,59.0,Female,New York,Platinum,118.0,3144.67,Clothing,2023-03-11 09:39:46.585300,Teacher,76,0
+1887,33.0,Other,New York,,182.0,6282.06,Home Goods,2024-01-06 09:39:46.585300,Doctor,47,0
+1888,67.0,Other,Houston,Silver,176.0,2909.2,Home Goods,2023-03-21 09:39:46.585300,Doctor,61,1
+1889,28.0,Other,Chicago,Gold,53.0,5468.1,Home Goods,2023-06-09 09:39:46.585300,Doctor,23,1
+1890,45.0,Other,Philadelphia,,105.0,3651.91,Home Goods,2023-04-09 09:39:46.585300,Teacher,2,0
+1891,33.0,Female,Philadelphia,Gold,101.0,3510.06,Home Goods,2023-05-11 09:39:46.585300,,51,1
+1892,55.0,,New York,Gold,69.0,9147.9,Electronics,2023-08-17 09:39:46.585300,Artist,83,1
+1893,30.0,Other,Philadelphia,Silver,,1843.1,,2023-12-07 09:39:46.585300,Artist,83,0
+1894,21.0,Female,Chicago,,195.0,1974.88,Electronics,2023-03-22 09:39:46.585300,Manager,91,0
+1895,39.0,Male,Philadelphia,Gold,141.0,259.8,Home Goods,2023-11-08 09:39:46.585300,Doctor,9,1
+1896,34.0,Female,,Silver,147.0,1214.27,Electronics,2023-09-20 09:39:46.585300,Engineer,36,0
+1897,48.0,Male,Houston,,108.0,1663.51,Electronics,2023-02-19 09:39:46.585300,Doctor,82,0
+1898,31.0,Female,New York,,126.0,7810.79,Home Goods,2023-01-30 09:39:46.585300,Engineer,32,0
+1899,61.0,Other,New York,Platinum,35.0,2366.85,Home Goods,2023-12-25 09:39:46.585300,Doctor,17,1
+1900,43.0,Other,Los Angeles,,164.0,8870.77,Clothing,2023-12-28 09:39:46.585300,Artist,5,0
+1901,29.0,Other,Houston,Gold,,6864.04,,2023-04-16 09:39:46.585300,Doctor,30,1
+1902,48.0,Male,Phoenix,Bronze,10.0,1087.27,Electronics,2023-09-10 09:39:46.585300,Teacher,30,0
+1903,45.0,Male,Chicago,Silver,166.0,7296.37,Home Goods,2023-08-20 09:39:46.585300,,53,1
+1904,41.0,,Phoenix,Bronze,94.0,4626.87,Clothing,2023-12-15 09:39:46.585300,Teacher,1,0
+1905,62.0,,Philadelphia,Bronze,65.0,7975.45,Clothing,2023-07-07 09:39:46.585300,Teacher,60,0
+1906,61.0,Female,Phoenix,Bronze,78.0,5779.47,Home Goods,2023-12-16 09:39:46.585300,Teacher,73,1
+1907,40.0,Female,Los Angeles,Gold,134.0,4200.1,Home Goods,2023-01-20 09:39:46.585300,Manager,98,1
+1908,21.0,,Phoenix,Silver,1.0,219.16,,2023-11-19 09:39:46.585300,Manager,12,1
+1909,43.0,Female,New York,Platinum,,458.69,Electronics,2023-01-10 09:39:46.585300,Artist,57,0
+1910,17.0,,Los Angeles,Gold,141.0,7963.74,Clothing,2023-06-23 09:39:46.585300,Manager,54,0
+1911,48.0,Male,Los Angeles,,131.0,588.55,Home Goods,2023-02-22 09:39:46.585300,Doctor,72,1
+1912,64.0,Other,Philadelphia,Gold,86.0,3337.05,Clothing,2023-04-18 09:39:46.585300,Teacher,38,0
+1913,,Female,Los Angeles,Bronze,91.0,1582.49,Home Goods,2023-06-06 09:39:46.585300,Artist,55,0
+1914,36.0,Male,Houston,Silver,176.0,4496.21,Clothing,2023-07-26 09:39:46.585300,Teacher,62,0
+1915,39.0,Other,Phoenix,Gold,105.0,7809.51,Home Goods,2023-02-10 09:39:46.585300,Engineer,90,1
+1916,65.0,Female,,Silver,69.0,198.36,Electronics,2023-07-17 09:39:46.585300,Teacher,60,0
+1917,43.0,Male,Philadelphia,Silver,116.0,6150.12,Electronics,2023-07-05 09:39:46.585300,,11,1
+1918,33.0,Male,New York,Bronze,199.0,1072.78,Home Goods,2023-10-12 09:39:46.585300,Doctor,49,0
+1919,29.0,Other,New York,Platinum,112.0,7488.78,Home Goods,2023-02-11 09:39:46.585300,Engineer,68,0
+1920,54.0,Other,Los Angeles,Gold,75.0,8260.7,Electronics,2023-07-22 09:39:46.585300,Engineer,5,0
+1921,37.0,Female,Houston,Silver,21.0,2503.01,,2023-11-27 09:39:46.585300,Doctor,45,0
+1922,50.0,,Chicago,Gold,23.0,2512.4,Home Goods,2023-10-15 09:39:46.585300,Engineer,33,1
+1923,47.0,Male,Los Angeles,Gold,21.0,5794.83,Clothing,2023-04-25 09:39:46.585300,Doctor,88,1
+1924,,Male,Chicago,Gold,113.0,3832.21,Clothing,2023-01-16 09:39:46.585300,,76,1
+1925,57.0,Female,Philadelphia,Silver,98.0,8454.02,Home Goods,2023-06-13 09:39:46.585300,Manager,93,0
+1926,57.0,Other,Houston,Platinum,145.0,1678.32,,2023-12-29 09:39:46.585300,Artist,64,1
+1927,,Other,Los Angeles,Bronze,156.0,667.7,Clothing,2023-07-08 09:39:46.585300,Teacher,91,0
+1928,64.0,Male,Los Angeles,,152.0,6699.55,Clothing,2023-02-03 09:39:46.585300,Manager,69,1
+1929,47.0,Male,New York,Bronze,53.0,2053.0,Electronics,2023-01-08 09:39:46.585300,Teacher,45,1
+1930,46.0,Other,Los Angeles,Platinum,178.0,1448.43,,2023-07-26 09:39:46.585300,Doctor,82,1
+1931,60.0,Female,,Bronze,74.0,6964.6,Clothing,2023-11-21 09:39:46.585300,,50,0
+1932,28.0,Male,Los Angeles,Silver,173.0,8647.56,Home Goods,2023-04-21 09:39:46.585300,Doctor,34,0
+1933,38.0,Male,Philadelphia,Platinum,40.0,7754.41,Electronics,2023-07-10 09:39:46.585300,Teacher,63,1
+1934,36.0,,New York,Platinum,8.0,1573.15,Electronics,2023-12-11 09:39:46.585300,Artist,17,0
+1935,17.0,Male,Chicago,Silver,36.0,5796.04,Electronics,2023-04-28 09:39:46.585300,Artist,13,0
+1936,58.0,Male,New York,Gold,91.0,3044.2,Electronics,2023-02-09 09:39:46.585300,,85,1
+1937,58.0,Male,New York,Bronze,6.0,998.38,Home Goods,2023-01-24 09:39:46.585300,Teacher,74,1
+1938,52.0,,Los Angeles,Silver,180.0,2791.11,Clothing,2023-09-10 09:39:46.585300,Manager,67,1
+1939,18.0,Other,Los Angeles,Bronze,160.0,4455.49,Electronics,2023-09-09 09:39:46.585300,Engineer,17,1
+1940,65.0,Female,Philadelphia,Bronze,126.0,2127.96,Home Goods,2023-10-28 09:39:46.585300,Doctor,50,1
+1941,41.0,Other,Phoenix,Silver,128.0,7909.5,Home Goods,2023-08-31 09:39:46.585300,,99,1
+1942,62.0,Other,Philadelphia,Bronze,161.0,7789.48,,2023-11-19 09:39:46.585300,Teacher,76,1
+1943,66.0,Female,,Platinum,114.0,2524.27,Clothing,2023-07-07 09:39:46.585300,Doctor,48,1
+1944,39.0,Male,Phoenix,Platinum,,,Electronics,2023-03-26 09:39:46.585300,,66,0
+1945,56.0,Other,Houston,,127.0,3467.94,Clothing,2023-10-19 09:39:46.585300,Manager,17,0
+1946,45.0,Other,Phoenix,Silver,158.0,,,2023-11-22 09:39:46.585300,Manager,28,0
+1947,,Female,Los Angeles,Platinum,197.0,5608.73,Home Goods,2023-09-17 09:39:46.585300,Manager,16,0
+1948,40.0,Female,Houston,Silver,70.0,5558.13,Electronics,2023-03-17 09:39:46.585300,Artist,4,1
+1949,19.0,Other,,Gold,9.0,2020.25,Home Goods,2023-04-29 09:39:46.585300,Doctor,32,0
+1950,50.0,,Philadelphia,,,1705.94,Clothing,2023-03-02 09:39:46.585300,Teacher,49,0
+1951,69.0,Male,Phoenix,Gold,82.0,4889.55,Home Goods,2023-01-11 09:39:46.585300,Artist,81,1
+1952,24.0,Female,Philadelphia,Gold,108.0,,Electronics,2023-02-02 09:39:46.585300,Manager,71,1
+1953,55.0,Female,Phoenix,Bronze,93.0,575.69,Home Goods,2023-06-13 09:39:46.585300,,18,0
+1954,52.0,Male,Los Angeles,Gold,77.0,5684.45,Electronics,2023-06-19 09:39:46.585300,Manager,56,0
+1955,55.0,Other,Los Angeles,Bronze,109.0,472.92,Clothing,2023-12-19 09:39:46.585300,Artist,70,1
+1956,41.0,Other,New York,Silver,,1567.83,Clothing,2023-07-22 09:39:46.585300,Doctor,66,0
+1957,70.0,Female,New York,,34.0,1816.1,Electronics,2023-12-31 09:39:46.585300,Teacher,56,1
+1958,35.0,Other,Phoenix,Silver,111.0,5066.96,Electronics,2023-10-20 09:39:46.585300,Artist,82,1
+1959,56.0,Male,Phoenix,,105.0,9592.76,Home Goods,2023-09-17 09:39:46.585300,Artist,56,0
+1960,44.0,Other,,Silver,173.0,5814.46,Clothing,2023-03-30 09:39:46.585300,Doctor,16,1
+1961,64.0,Female,Philadelphia,Silver,146.0,9484.84,Home Goods,2023-04-02 09:39:46.585300,Doctor,23,0
+1962,32.0,Female,Phoenix,Silver,144.0,,Electronics,2023-08-01 09:39:46.585300,Doctor,25,1
+1963,68.0,Female,Los Angeles,Silver,78.0,2405.94,Home Goods,2023-07-02 09:39:46.585300,,54,0
+1964,43.0,Other,Los Angeles,Gold,84.0,4378.84,Electronics,2023-01-21 09:39:46.585300,Manager,44,0
+1965,,Male,Houston,Bronze,171.0,3737.63,Clothing,2023-12-29 09:39:46.585300,Manager,87,0
+1966,20.0,,,Platinum,55.0,9425.64,Home Goods,2023-09-29 09:39:46.585300,Manager,83,1
+1967,29.0,Other,Chicago,Gold,199.0,7963.1,,2023-08-14 09:39:46.585300,Artist,44,1
+1968,,Female,Los Angeles,Gold,158.0,9819.0,Clothing,2023-06-04 09:39:46.585300,Artist,31,0
+1969,34.0,Other,New York,Bronze,,4416.65,Clothing,2023-10-05 09:39:46.585300,,94,0
+1970,30.0,Other,Philadelphia,Gold,158.0,378.15,Electronics,2023-11-25 09:39:46.585300,Teacher,65,0
+1971,17.0,Female,Philadelphia,Gold,113.0,637.3,Electronics,2023-06-03 09:39:46.585300,Doctor,97,1
+1972,21.0,,Chicago,,148.0,2588.8,Electronics,2023-10-12 09:39:46.585300,Manager,24,1
+1973,,Male,New York,Platinum,10.0,3592.67,,2023-05-05 09:39:46.585300,Manager,86,0
+1974,37.0,,Los Angeles,,91.0,792.25,Electronics,2023-05-04 09:39:46.585300,,33,1
+1975,37.0,Male,,Gold,25.0,5664.77,Electronics,2023-08-13 09:39:46.585300,Engineer,83,0
+1976,64.0,Female,New York,Bronze,157.0,7507.0,Clothing,2023-11-27 09:39:46.585300,Doctor,30,0
+1977,24.0,Other,Los Angeles,Silver,72.0,5592.78,Home Goods,2023-02-13 09:39:46.585300,Engineer,90,1
+1978,37.0,Male,Phoenix,Platinum,8.0,2762.62,Clothing,2023-03-05 09:39:46.585300,Artist,34,1
+1979,,Other,Los Angeles,Platinum,161.0,7679.21,Clothing,2023-09-10 09:39:46.585300,Artist,84,0
+1980,59.0,Other,Phoenix,Gold,93.0,7996.19,Home Goods,2023-01-29 09:39:46.585300,Artist,81,1
+1981,34.0,Female,Houston,Gold,167.0,,Home Goods,2023-03-05 09:39:46.585300,,16,1
+1982,35.0,,New York,Platinum,126.0,6927.55,Electronics,2023-06-27 09:39:46.585300,Manager,47,1
+1983,24.0,Male,Chicago,Gold,104.0,7656.65,Clothing,2023-03-08 09:39:46.585300,Teacher,58,1
+1984,48.0,Female,Houston,Silver,128.0,2374.04,Electronics,2023-02-11 09:39:46.585300,Doctor,91,1
+1985,39.0,Other,Philadelphia,Gold,99.0,1426.92,Electronics,2023-08-06 09:39:46.585300,Manager,89,0
+1986,21.0,Male,New York,Gold,26.0,8436.18,Clothing,2023-05-08 09:39:46.585300,Manager,34,0
+1987,28.0,Other,Chicago,Gold,142.0,5077.8,Home Goods,2023-04-04 09:39:46.585300,Engineer,99,0
+1988,47.0,Other,Phoenix,Bronze,122.0,7842.83,Clothing,2023-02-03 09:39:46.585300,Artist,6,1
+1989,61.0,,Chicago,Silver,58.0,3914.83,Clothing,2023-06-27 09:39:46.585300,Engineer,30,0
+1990,27.0,Male,Phoenix,Gold,161.0,9195.71,Home Goods,2023-06-25 09:39:46.585300,,56,1
+1991,56.0,Female,Los Angeles,Bronze,52.0,,Home Goods,2023-04-29 09:39:46.585300,Teacher,81,1
+1992,45.0,,Los Angeles,Gold,,9685.17,Clothing,2023-03-09 09:39:46.585300,Manager,77,0
+1993,49.0,Other,,Platinum,185.0,2224.62,Electronics,2023-11-13 09:39:46.585300,Engineer,48,1
+1994,61.0,Female,Houston,Gold,,5385.92,Clothing,2023-05-10 09:39:46.585300,Manager,52,0
+1995,,Other,Chicago,Platinum,124.0,1751.71,Clothing,2023-10-10 09:39:46.585300,Teacher,2,1
+1996,,Female,Phoenix,Bronze,30.0,1419.81,Electronics,2023-09-22 09:39:46.585300,Doctor,26,0
+1997,45.0,Other,Houston,,142.0,6945.99,Home Goods,2023-09-13 09:39:46.585300,Teacher,55,1
+1998,67.0,Female,Chicago,Gold,0.0,2284.48,Electronics,2023-10-13 09:39:46.585300,Teacher,24,1
+1999,26.0,Female,Houston,,33.0,7978.65,Clothing,2023-06-18 09:39:46.585300,Manager,28,1
+2000,57.0,Other,Phoenix,Platinum,125.0,5347.53,Electronics,2023-08-07 09:39:46.585300,Engineer,72,1
+2001,,Male,Chicago,,112.0,8395.74,Electronics,2023-01-07 09:39:46.585300,Artist,76,0
+2002,22.0,Female,Chicago,,139.0,3133.82,Clothing,2023-05-26 09:39:46.585300,Teacher,37,1
+2003,27.0,Other,Houston,Bronze,51.0,5652.91,Electronics,2023-09-20 09:39:46.585300,Artist,69,1
+2004,42.0,Other,Philadelphia,Gold,140.0,5870.56,Clothing,2023-07-19 09:39:46.585300,Teacher,1,1
+2005,30.0,Other,Los Angeles,Silver,64.0,2444.58,Electronics,2023-03-31 09:39:46.585300,Artist,40,1
+2006,,Male,,Gold,6.0,7301.07,Home Goods,2023-01-14 09:39:46.585300,Artist,82,1
+2007,52.0,Male,Philadelphia,Bronze,,6970.69,Electronics,2023-03-05 09:39:46.585300,Teacher,42,0
+2008,31.0,,Houston,Gold,23.0,8253.43,,2023-11-18 09:39:46.585300,Doctor,85,1
+2009,63.0,Other,Los Angeles,Platinum,125.0,5563.61,Electronics,2023-06-04 09:39:46.585300,Teacher,64,0
+2010,32.0,Male,Philadelphia,Platinum,50.0,4787.25,Clothing,2023-02-24 09:39:46.585300,Engineer,80,0
+2011,22.0,Male,New York,Silver,155.0,3219.96,Clothing,2023-12-04 09:39:46.585300,Doctor,41,0
+2012,41.0,Male,Houston,Platinum,16.0,4355.5,,2023-07-26 09:39:46.585300,Doctor,39,1
+2013,20.0,Male,Chicago,Gold,183.0,5954.29,Home Goods,2023-10-26 09:39:46.585300,,95,1
+2014,26.0,Other,New York,Gold,62.0,2888.21,Electronics,2023-11-16 09:39:46.585300,,88,0
+2015,62.0,Female,Phoenix,Platinum,149.0,5127.01,Electronics,2023-06-27 09:39:46.585300,Teacher,27,0
+2016,25.0,Male,New York,Gold,,7326.1,Home Goods,2023-03-21 09:39:46.585300,Artist,77,0
+2017,23.0,Female,New York,Silver,133.0,4436.29,Clothing,2023-11-12 09:39:46.585300,Manager,28,0
+2018,58.0,Male,New York,Silver,51.0,2321.17,Home Goods,2023-07-23 09:39:46.585300,Artist,58,0
+2019,33.0,,Los Angeles,Gold,19.0,4458.77,Home Goods,2023-10-11 09:39:46.585300,Teacher,97,0
+2020,33.0,Female,Philadelphia,Gold,61.0,8546.54,Clothing,2023-06-06 09:39:46.585300,Artist,65,1
+2021,58.0,Female,Philadelphia,Bronze,50.0,5710.7,Home Goods,2023-04-21 09:39:46.585300,,22,0
+2022,43.0,Other,,Bronze,66.0,7093.27,Clothing,2023-10-29 09:39:46.585300,Artist,77,0
+2023,41.0,Other,Los Angeles,Silver,165.0,,Clothing,2023-03-17 09:39:46.585300,Engineer,14,1
+2024,44.0,Other,New York,Bronze,183.0,1523.26,Clothing,2023-12-24 09:39:46.585300,Manager,89,0
+2025,44.0,,Chicago,Gold,150.0,2184.38,Clothing,2023-05-01 09:39:46.585300,Doctor,32,1
+2026,37.0,Female,Philadelphia,Platinum,38.0,7116.23,Home Goods,2023-11-29 09:39:46.585300,Teacher,70,0
+2027,46.0,Female,Chicago,Bronze,19.0,8778.05,,2023-12-02 09:39:46.585300,Artist,17,0
+2028,28.0,Male,New York,Silver,181.0,9863.2,Electronics,2023-05-11 09:39:46.585300,Teacher,39,1
+2029,29.0,Female,,Silver,49.0,,Clothing,2023-08-11 09:39:46.585300,Teacher,4,0
+2030,53.0,,Chicago,Platinum,173.0,8648.4,Clothing,2023-10-01 09:39:46.585300,Artist,26,1
+2031,45.0,Other,Houston,Gold,42.0,7686.73,Home Goods,2023-03-30 09:39:46.585300,Manager,94,1
+2032,57.0,Male,Phoenix,Silver,75.0,9887.44,Home Goods,2023-04-27 09:39:46.585300,Artist,8,1
+2033,35.0,Other,New York,Bronze,171.0,,Home Goods,2023-09-25 09:39:46.585300,Manager,14,1
+2034,27.0,Male,,Silver,15.0,7048.18,,2023-06-17 09:39:46.585300,Doctor,56,0
+2035,19.0,Other,New York,Gold,30.0,7475.6,Electronics,2023-05-13 09:39:46.585300,Manager,90,0
+2036,52.0,Female,Los Angeles,Bronze,175.0,4856.67,Clothing,2023-06-25 09:39:46.585300,,17,1
+2037,67.0,Other,Los Angeles,Silver,191.0,9639.32,Electronics,2023-06-22 09:39:46.585300,Engineer,84,1
+2038,67.0,Other,New York,Bronze,97.0,6860.42,Clothing,2023-01-29 09:39:46.585300,Doctor,28,0
+2039,66.0,Male,Houston,Bronze,4.0,4928.81,Electronics,2023-12-25 09:39:46.585300,Engineer,43,0
+2040,,Female,Houston,Bronze,57.0,,Home Goods,2024-01-04 09:39:46.585300,Engineer,3,0
+2041,28.0,Male,Philadelphia,Platinum,180.0,8804.55,Home Goods,2023-10-27 09:39:46.585300,Teacher,64,0
+2042,44.0,Female,Philadelphia,Platinum,,5084.84,Electronics,2023-04-01 09:39:46.585300,Teacher,12,1
+2043,49.0,Female,Los Angeles,Gold,66.0,6064.4,,2023-03-11 09:39:46.585300,Artist,83,0
+2044,60.0,Other,Phoenix,Platinum,77.0,8682.23,Clothing,2023-09-26 09:39:46.585300,Manager,62,0
+2045,43.0,Other,New York,Silver,89.0,5926.0,Clothing,2023-04-24 09:39:46.585300,Doctor,55,0
+2046,32.0,Other,Houston,Gold,159.0,9232.38,Clothing,2023-06-15 09:39:46.585300,Manager,63,0
+2047,33.0,Male,Houston,Gold,2.0,2823.5,Electronics,2023-06-20 09:39:46.585300,Manager,58,0
+2048,24.0,Male,Philadelphia,Silver,,3969.4,,2023-03-07 09:39:46.585300,Engineer,84,0
+2049,41.0,,New York,Platinum,93.0,1335.72,Home Goods,2023-02-11 09:39:46.585300,Manager,9,0
+2050,59.0,Male,Philadelphia,Silver,180.0,3018.97,Clothing,2023-11-05 09:39:46.585300,Engineer,40,1
+2051,57.0,Other,,Bronze,140.0,5939.19,Electronics,2023-03-01 09:39:46.585300,Manager,49,1
+2052,,Male,Los Angeles,,176.0,7495.92,Electronics,2023-09-17 09:39:46.585300,Manager,67,0
+2053,54.0,Male,New York,Platinum,15.0,1825.05,Home Goods,2023-05-15 09:39:46.585300,Doctor,95,1
+2054,57.0,Female,,Platinum,186.0,791.05,Home Goods,2023-09-05 09:39:46.585300,Artist,13,1
+2055,28.0,Other,Chicago,Silver,,5024.59,Clothing,2023-12-08 09:39:46.585300,Doctor,87,1
+2056,61.0,Male,Chicago,,143.0,4621.41,Clothing,2023-05-08 09:39:46.585300,,18,1
+2057,42.0,,Phoenix,Silver,167.0,4715.67,Clothing,2023-06-09 09:39:46.585300,Doctor,60,0
+2058,34.0,Female,Philadelphia,Gold,189.0,3840.22,Electronics,2024-01-05 09:39:46.585300,Engineer,71,0
+2059,37.0,Female,Los Angeles,,150.0,594.29,Clothing,2023-11-25 09:39:46.585300,Teacher,44,0
+2060,48.0,Female,New York,Silver,192.0,6805.11,Clothing,2023-11-27 09:39:46.585300,Engineer,48,1
+2061,,,Houston,Platinum,111.0,,Clothing,2023-11-01 09:39:46.585300,Artist,43,1
+2062,44.0,Female,New York,Bronze,155.0,3344.8,Clothing,2023-01-28 09:39:46.585300,Artist,86,0
+2063,47.0,Male,Los Angeles,Silver,129.0,8440.88,Clothing,2023-09-30 09:39:46.585300,Artist,55,1
+2064,54.0,Male,Chicago,Platinum,63.0,9323.15,Home Goods,2023-12-12 09:39:46.585300,Doctor,43,1
+2065,,,,Platinum,29.0,1259.44,Home Goods,2023-03-18 09:39:46.585300,Artist,52,0
+2066,59.0,Female,New York,,17.0,2505.43,Clothing,2023-06-11 09:39:46.585300,,53,0
+2067,66.0,Other,Philadelphia,Silver,,8892.6,,2023-12-12 09:39:46.585300,Doctor,22,1
+2068,61.0,Other,Phoenix,Bronze,,2973.94,Home Goods,2023-04-28 09:39:46.585300,Engineer,66,1
+2069,50.0,Other,New York,Platinum,,,Electronics,2023-02-25 09:39:46.585300,Manager,54,0
+2070,58.0,,Philadelphia,Platinum,149.0,8846.81,Electronics,2023-04-10 09:39:46.585300,Engineer,69,0
+2071,31.0,Female,New York,Gold,90.0,,Clothing,2023-02-16 09:39:46.585300,Teacher,79,0
+2072,33.0,Other,Chicago,Platinum,106.0,736.03,,2023-10-14 09:39:46.585300,Artist,7,0
+2073,52.0,Other,Chicago,,185.0,1766.57,Home Goods,2023-03-19 09:39:46.585300,Manager,97,0
+2074,21.0,Other,Houston,Platinum,197.0,7739.82,Home Goods,2023-06-22 09:39:46.585300,Engineer,90,1
+2075,19.0,Male,Chicago,Silver,171.0,5212.51,Home Goods,2023-06-09 09:39:46.585300,Artist,22,0
+2076,54.0,Female,Chicago,Bronze,192.0,6940.02,Home Goods,2023-08-31 09:39:46.585300,Teacher,34,0
+2077,41.0,Other,New York,Silver,75.0,,Home Goods,2023-06-18 09:39:46.585300,Doctor,92,1
+2078,29.0,Male,Chicago,Silver,,6255.76,Electronics,2023-10-08 09:39:46.585300,Teacher,4,0
+2079,26.0,Female,New York,Gold,61.0,2227.65,Clothing,2023-08-09 09:39:46.585300,Doctor,55,1
+2080,68.0,Other,New York,Silver,85.0,5604.78,Home Goods,2023-11-22 09:39:46.585300,Manager,73,0
+2081,30.0,Female,Phoenix,Bronze,165.0,3058.1,Home Goods,2023-01-18 09:39:46.585300,Engineer,80,0
+2082,41.0,Female,New York,Bronze,134.0,933.19,Electronics,2023-08-30 09:39:46.585300,Teacher,60,0
+2083,35.0,Female,Houston,Platinum,84.0,5471.55,Electronics,2023-12-12 09:39:46.585300,Manager,26,0
+2084,21.0,Other,New York,,181.0,2218.34,Electronics,2023-12-07 09:39:46.585300,Engineer,37,1
+2085,28.0,Other,New York,,56.0,9873.85,Electronics,2023-06-15 09:39:46.585300,Manager,45,0
+2086,24.0,Female,Los Angeles,Silver,36.0,9314.41,,2023-02-16 09:39:46.585300,Manager,68,1
+2087,45.0,Male,Houston,Platinum,16.0,1601.82,Clothing,2023-08-25 09:39:46.585300,Artist,11,0
+2088,31.0,Female,Los Angeles,Bronze,127.0,3372.24,Home Goods,2023-08-28 09:39:46.585300,,61,0
+2089,26.0,Other,Phoenix,Bronze,14.0,557.78,,2023-02-27 09:39:46.585300,Teacher,18,0
+2090,63.0,Other,,Bronze,188.0,4774.53,Home Goods,2023-07-03 09:39:46.585300,Artist,96,1
+2091,54.0,Other,Houston,Silver,99.0,919.92,Home Goods,2023-11-18 09:39:46.585300,Artist,87,1
+2092,53.0,Other,Houston,,25.0,9634.41,,2023-09-05 09:39:46.585300,Manager,16,0
+2093,34.0,Female,Phoenix,Bronze,141.0,6093.92,Electronics,2023-02-25 09:39:46.585300,Doctor,13,1
+2094,41.0,Male,Chicago,Silver,196.0,3300.11,Clothing,2023-04-25 09:39:46.585300,Manager,3,1
+2095,,Female,,Silver,106.0,3807.97,Electronics,2023-08-24 09:39:46.585300,Engineer,12,0
+2096,64.0,Other,Chicago,Silver,186.0,7527.87,Clothing,2023-07-08 09:39:46.585300,,49,0
+2097,26.0,Female,,Silver,141.0,6645.94,Home Goods,2023-03-15 09:39:46.585300,Doctor,71,0
+2098,66.0,Male,Philadelphia,Gold,186.0,3256.41,Clothing,2023-05-18 09:39:46.585300,Manager,92,1
+2099,63.0,Male,Philadelphia,Platinum,170.0,8886.53,Home Goods,2023-09-21 09:39:46.585300,Teacher,26,1
