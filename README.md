@@ -9,3 +9,9 @@ Talend Data Preparation is a powerful, intuitive tool designed to simplify and e
 
 # SAS Enterprise Miner
 SAS Enterprise Miner is a comprehensive data mining software provided by SAS Institute. It offers a rich, user-friendly environment for data analysts and scientists to perform advanced analytics. The tool is designed to handle large datasets and complex data mining tasks, providing capabilities for descriptive and predictive modeling, text analytics, and optimization. Its robust suite of features includes exploratory data analysis, model development, validation, and deployment, enabling businesses to extract valuable insights and make data-driven decisions efficiently.
+
+# Information
+
+In this repository contains the following
+* Dummy dataset
+* Case study report
